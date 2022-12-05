@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-modules-commonjs",
+    "version": "6.26.2",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-modules-commonjs/-/babel-plugin-transform-es2015-modules-commonjs-6.26.2.tgz",
+    "integrity": "sha512-CV9ROOHEdrjcwhIaJNBGMBCodN+1cfkwtM1SbUHmvyy35KGT7fohbpOxkE2uLz1o6odKK2Ck/tz47z+VqQfi9Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-modules-commonjs/6.26.2"
+  },
+  "babel-plugin-transform-strict-mode": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-strict-mode/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-plugin-transform-strict-mode/-/babel-plugin-transform-strict-mode-6.24.1.tgz",
+      "integrity": "sha512-j3KtSpjyLSJxNoCDrhwiJad8kw0gJ9REGj8/CqL0HeRyLnvUNYV9zcqluL6QJSXh3nfsLEmSLvwRfGzrgR96Pw==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "array-sort",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/array-sort/-/array-sort-1.0.0.tgz",
+    "integrity": "sha512-ihLeJkonmdiAsD7vpgN3CRcx2J2S0TiYW+IS/5zHBI7mKUq3ySvBdzzBfD236ubDBQFiiyG3SWCPc+msQ9KoYg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/array-sort/1.0.0"
+  },
+  "default-compare": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/default-compare/1.0.0",
+      "tarball": "https://registry.npmjs.org/default-compare/-/default-compare-1.0.0.tgz",
+      "integrity": "sha512-QWfXlM0EkAbqOCbD/6HjdwT19j7WCkMyiRhWilc4H9/5h/RzTF9gv5LYh1+CmDV5d1rki6KAWLtQale0xt20eQ==",
+      "optional": false
+    }
+  },
+  "get-value": {
+    "2.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/get-value/2.0.6",
+      "tarball": "https://registry.npmjs.org/get-value/-/get-value-2.0.6.tgz",
+      "integrity": "sha512-Ln0UQDlxH1BapMu3GPtf7CuYNwRZf2gwCuPqbyG6pB8WfmFpzqcy4xtAaAMUhnNqjMKTiCPZG2oMT3YSx8U2NA==",
+      "optional": false
+    }
+  },
+  "kind-of": {
+    "5.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/kind-of/5.1.0",
+      "tarball": "https://registry.npmjs.org/kind-of/-/kind-of-5.1.0.tgz",
+      "integrity": "sha512-NGEErnH6F2vUuXDh+OlbcKW7/wOcfdRHaZ7VWtqCztfHri/++YKmP51OdWeGPuqCOba6kk2OTe5d02VmTB80Pw==",
+      "optional": false
+    }
+  }
+}

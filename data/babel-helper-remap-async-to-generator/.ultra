@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-remap-async-to-generator",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-remap-async-to-generator/-/babel-helper-remap-async-to-generator-6.24.1.tgz",
+    "integrity": "sha512-RYqaPD0mQyQIFRu7Ho5wE2yvA/5jxqCIj/Lv4BXNq23mHYu/vxikOy2JueLiBxQknwapwrJeNCesvY0ZcfnlHg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-remap-async-to-generator/6.24.1"
+  }
+}

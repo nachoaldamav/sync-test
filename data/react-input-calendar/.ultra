@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "react-input-calendar",
+    "version": "0.5.4",
+    "tarball": "https://registry.npmjs.org/react-input-calendar/-/react-input-calendar-0.5.4.tgz",
+    "integrity": "sha512-IqPDrkxj95GeH01rTKQaAZLCeTLZ57jzZeKY1CW+BYe3+CQkF21BrxVkqvlvPLqNVnHO9gEU+f9K4G05llF/4w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-input-calendar/0.5.4"
+  },
+  "moment-range": {
+    "2.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/moment-range/2.2.0",
+      "tarball": "https://registry.npmjs.org/moment-range/-/moment-range-2.2.0.tgz",
+      "integrity": "sha512-nh2IRdxV+wxiQunifqFVNTSzqNej8HMB/rA8Jxb0CAuhftpjJcRnxrbb30iEs2TLMbcjmXCie4Tsx1JnUomH+g==",
+      "optional": false
+    }
+  },
+  "react": {
+    "16.14.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react/16.14.0",
+      "tarball": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",
+      "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",
+      "optional": false
+    }
+  }
+}

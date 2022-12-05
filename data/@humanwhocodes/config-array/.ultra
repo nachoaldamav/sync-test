@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "@humanwhocodes/config-array",
+    "version": "0.10.7",
+    "tarball": "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.10.7.tgz",
+    "integrity": "sha512-MDl6D6sBsaV452/QSdX+4CXIjZhIcI0PELsxUjk4U828yd58vk3bTIvk/6w5FY+4hIy9sLW0sfrV7K7Kc++j/w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@humanwhocodes/config-array/0.10.7"
+  },
+  "@humanwhocodes/object-schema": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@humanwhocodes/object-schema/1.2.1",
+      "tarball": "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz",
+      "integrity": "sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==",
+      "optional": false
+    }
+  }
+}

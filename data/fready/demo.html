@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Fready demo</title>
+
+    <script src="fready.js"></script>
+
+    <script>
+      fready(function(){
+        var div = document.createElement('div');
+
+        div.innerText = 'Fready'
+
+        document.body.appendChild( div );
+
+        console.log('Ready');
+
+        fready(function(){
+          console.log('Already ready');
+        });
+      });
+
+      console.log('Waiting...');
+    </script>
+  </head>
+
+  <body>
+  </body>
+
+</html>

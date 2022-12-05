@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "flatten",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/flatten/-/flatten-1.0.3.tgz",
+    "integrity": "sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/flatten/1.0.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@react-dnd/invariant",
+    "version": "4.0.2",
+    "tarball": "https://registry.npmjs.org/@react-dnd/invariant/-/invariant-4.0.2.tgz",
+    "integrity": "sha512-xKCTqAK/FFauOM9Ta2pswIyT3D8AQlfrYdOi/toTPEhqCuAs1v5tcJ3Y08Izh1cJ5Jchwy9SeAXmMg6zrKs2iw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@react-dnd/invariant/4.0.2"
+  }
+}

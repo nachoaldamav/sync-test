@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "howler",
+    "version": "2.2.3",
+    "tarball": "https://registry.npmjs.org/howler/-/howler-2.2.3.tgz",
+    "integrity": "sha512-QM0FFkw0LRX1PR8pNzJVAY25JhIWvbKMBFM4gqk+QdV+kPXOhleWGCB6AiAF/goGjIHK2e/nIElplvjQwhr0jg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/howler/2.2.3"
+  }
+}

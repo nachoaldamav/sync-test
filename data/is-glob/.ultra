@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "is-glob",
+    "version": "4.0.3",
+    "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz",
+    "integrity": "sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-glob/4.0.3"
+  },
+  "is-extglob": {
+    "2.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/is-extglob/2.1.1",
+      "tarball": "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz",
+      "integrity": "sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ==",
+      "optional": false
+    }
+  }
+}

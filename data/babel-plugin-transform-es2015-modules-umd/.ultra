@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-modules-umd",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-modules-umd/-/babel-plugin-transform-es2015-modules-umd-6.24.1.tgz",
+    "integrity": "sha512-LpVbiT9CLsuAIp3IG0tfbVo81QIhn6pE8xBJ7XSeCtFlMltuar5VuBV6y6Q45tpui9QWcy5i0vLQfCfrnF7Kiw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-modules-umd/6.24.1"
+  }
+}

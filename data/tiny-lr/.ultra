@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "tiny-lr",
+    "version": "1.1.1",
+    "tarball": "https://registry.npmjs.org/tiny-lr/-/tiny-lr-1.1.1.tgz",
+    "integrity": "sha512-44yhA3tsaRoMOjQQ+5v5mVdqef+kH6Qze9jTpqtVufgYjYt08zyZAwNwwVBj3i1rJMnR52IxOW0LK0vBzgAkuA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/tiny-lr/1.1.1"
+  },
+  "body": {
+    "5.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/body/5.1.0",
+      "tarball": "https://registry.npmjs.org/body/-/body-5.1.0.tgz",
+      "integrity": "sha512-chUsBxGRtuElD6fmw1gHLpvnKdVLK302peeFa9ZqAEk8TyzZ3fygLyUEDDPTJvL9+Bor0dIwn6ePOsRM2y0zQQ==",
+      "optional": false
+    }
+  },
+  "faye-websocket": {
+    "0.10.0": {
+      "path": "/home/nachoaldama/.ultra-cache/faye-websocket/0.10.0",
+      "tarball": "https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.10.0.tgz",
+      "integrity": "sha512-Xhj93RXbMSq8urNCUq4p9l0P6hnySJ/7YNRhYNug0bLOuii7pKO7xQFb5mx9xZXWCar88pLPb805PvUkwrLZpQ==",
+      "optional": false
+    }
+  },
+  "livereload-js": {
+    "2.4.0": {
+      "path": "/home/nachoaldama/.ultra-cache/livereload-js/2.4.0",
+      "tarball": "https://registry.npmjs.org/livereload-js/-/livereload-js-2.4.0.tgz",
+      "integrity": "sha512-XPQH8Z2GDP/Hwz2PCDrh2mth4yFejwA1OZ/81Ti3LgKyhDcEjsSsqFWZojHG0va/duGd+WyosY7eXLDoOyqcPw==",
+      "optional": false
+    }
+  }
+}

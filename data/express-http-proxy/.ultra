@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "express-http-proxy",
+    "version": "1.6.3",
+    "tarball": "https://registry.npmjs.org/express-http-proxy/-/express-http-proxy-1.6.3.tgz",
+    "integrity": "sha512-/l77JHcOUrDUX8V67E287VEUQT0lbm71gdGVoodnlWBziarYKgMcpqT7xvh/HM8Jv52phw8Bd8tY+a7QjOr7Yg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/express-http-proxy/1.6.3"
+  },
+  "es6-promise": {
+    "4.2.8": {
+      "path": "/home/nachoaldama/.ultra-cache/es6-promise/4.2.8",
+      "tarball": "https://registry.npmjs.org/es6-promise/-/es6-promise-4.2.8.tgz",
+      "integrity": "sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==",
+      "optional": false
+    }
+  }
+}

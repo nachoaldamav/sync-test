@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/helper-wasm-bytecode",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.11.1.tgz",
+    "integrity": "sha512-PvpoOGiJwXeTrSf/qfudJhwlvDQxFgelbMqtq52WWiXC6Xgg1IREdngmPN3bs4RoO83PnL/nFrxucXj1+BX62Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-wasm-bytecode/1.11.1"
+  }
+}

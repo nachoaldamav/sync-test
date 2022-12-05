@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/leb128",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/leb128/-/leb128-1.11.1.tgz",
+    "integrity": "sha512-BJ2P0hNZ0u+Th1YZXJpzW6miwqQUGcIHT1G/sf72gLVD9DZ5AdYTqPNbHZh6K1M5VmKvFXwGSWZADz+qBWxeRw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/leb128/1.11.1"
+  }
+}

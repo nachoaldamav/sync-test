@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/helper-module-imports",
+    "version": "7.18.6",
+    "tarball": "https://registry.npmjs.org/@babel/helper-module-imports/-/helper-module-imports-7.18.6.tgz",
+    "integrity": "sha512-0NFvs3VkuSYbFi1x2Vd6tKrywq+z/cLeYC/RJNFrIX/30Bf5aiGYbtvGXolEktzJH8o5E5KJ3tT+nkxuuZFVlA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/helper-module-imports/7.18.6"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "has-symbols",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/has-symbols/-/has-symbols-1.0.3.tgz",
+    "integrity": "sha512-l3LCuF6MgDNwTDKkdYGEihYjt5pRPbEg46rtlmnSPlUbgmB8LOIrKJbYYFBSbnPaJexMKtiPO8hmeRjRz2Td+A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/has-symbols/1.0.3"
+  }
+}

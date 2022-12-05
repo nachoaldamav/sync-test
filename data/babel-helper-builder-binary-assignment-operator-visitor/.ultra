@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-builder-binary-assignment-operator-visitor",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-builder-binary-assignment-operator-visitor/-/babel-helper-builder-binary-assignment-operator-visitor-6.24.1.tgz",
+    "integrity": "sha512-gCtfYORSG1fUMX4kKraymq607FWgMWg+j42IFPc18kFQEsmtaibP4UrqsXt8FlEJle25HUd4tsoDR7H2wDhe9Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-builder-binary-assignment-operator-visitor/6.24.1"
+  },
+  "babel-helper-explode-assignable-expression": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-explode-assignable-expression/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-helper-explode-assignable-expression/-/babel-helper-explode-assignable-expression-6.24.1.tgz",
+      "integrity": "sha512-qe5csbhbvq6ccry9G7tkXbzNtcDiH4r51rrPUbwwoTzZ18AqxWYRZT6AOmxrpxKnQBW0pYlBI/8vh73Z//78nQ==",
+      "optional": false
+    }
+  }
+}

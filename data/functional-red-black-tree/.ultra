@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "functional-red-black-tree",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz",
+    "integrity": "sha512-dsKNQNdj6xA3T+QlADDA7mOSlX0qiMINjn0cgr+eGHGsbSHzTabcIogz2+p/iqP1Xs6EP/sS2SbqH+brGTbq0g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/functional-red-black-tree/1.0.1"
+  }
+}

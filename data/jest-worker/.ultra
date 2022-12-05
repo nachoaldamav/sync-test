@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "jest-worker",
+    "version": "27.5.1",
+    "tarball": "https://registry.npmjs.org/jest-worker/-/jest-worker-27.5.1.tgz",
+    "integrity": "sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/jest-worker/27.5.1"
+  }
+}

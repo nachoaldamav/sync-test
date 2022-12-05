@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "eslint-import-resolver-webpack",
+    "version": "0.13.2",
+    "tarball": "https://registry.npmjs.org/eslint-import-resolver-webpack/-/eslint-import-resolver-webpack-0.13.2.tgz",
+    "integrity": "sha512-XodIPyg1OgE2h5BDErz3WJoK7lawxKTJNhgPNafRST6csC/MZC+L5P6kKqsZGRInpbgc02s/WZMrb4uGJzcuRg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/eslint-import-resolver-webpack/0.13.2"
+  },
+  "array-find": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/array-find/1.0.0",
+      "tarball": "https://registry.npmjs.org/array-find/-/array-find-1.0.0.tgz",
+      "integrity": "sha512-kO/vVCacW9mnpn3WPWbTVlEnOabK2L7LWi2HViURtCM46y1zb6I8UMjx4LgbiqadTgHnLInUronwn3ampNTJtQ==",
+      "optional": false
+    }
+  },
+  "enhanced-resolve": {
+    "0.9.1": {
+      "path": "/home/nachoaldama/.ultra-cache/enhanced-resolve/0.9.1",
+      "tarball": "https://registry.npmjs.org/enhanced-resolve/-/enhanced-resolve-0.9.1.tgz",
+      "integrity": "sha512-kxpoMgrdtkXZ5h0SeraBS1iRntpTpQ3R8ussdb38+UAFnMGX5DDyJXePm+OCHOcoXvHDw7mc2erbJBpDnl7TPw==",
+      "optional": false
+    }
+  },
+  "find-root": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/find-root/1.1.0",
+      "tarball": "https://registry.npmjs.org/find-root/-/find-root-1.1.0.tgz",
+      "integrity": "sha512-NKfW6bec6GfKc0SGx1e07QZY9PE99u0Bft/0rzSD5k3sO/vwkVUpDUKVm5Gpp5Ue3YfShPFTX2070tDs5kB9Ng==",
+      "optional": false
+    }
+  },
+  "interpret": {
+    "1.4.0": {
+      "path": "/home/nachoaldama/.ultra-cache/interpret/1.4.0",
+      "tarball": "https://registry.npmjs.org/interpret/-/interpret-1.4.0.tgz",
+      "integrity": "sha512-agE4QfB2Lkp9uICn7BAqoscw4SZP9kTE2hxiFI3jBPmXJfdqiahTbUuKGsMoN2GtqL9AxhYioAcVvgsb1HvRbA==",
+      "optional": false
+    }
+  }
+}

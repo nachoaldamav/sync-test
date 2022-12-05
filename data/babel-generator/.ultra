@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "babel-generator",
+    "version": "6.26.1",
+    "tarball": "https://registry.npmjs.org/babel-generator/-/babel-generator-6.26.1.tgz",
+    "integrity": "sha512-HyfwY6ApZj7BYTcJURpM5tznulaBvyio7/0d4zFOeMPUmfxkCjHocCuoLa2SAGzBI8AREcH3eP3758F672DppA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-generator/6.26.1"
+  },
+  "detect-indent": {
+    "4.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/detect-indent/4.0.0",
+      "tarball": "https://registry.npmjs.org/detect-indent/-/detect-indent-4.0.0.tgz",
+      "integrity": "sha512-BDKtmHlOzwI7iRuEkhzsnPoi5ypEhWAJB5RvHWe1kMr06js3uK5B3734i3ui5Yd+wOJV1cpE4JnivPD283GU/A==",
+      "optional": false
+    }
+  },
+  "jsesc": {
+    "1.3.0": {
+      "path": "/home/nachoaldama/.ultra-cache/jsesc/1.3.0",
+      "tarball": "https://registry.npmjs.org/jsesc/-/jsesc-1.3.0.tgz",
+      "integrity": "sha512-Mke0DA0QjUWuJlhsE0ZPPhYiJkRap642SmI/4ztCFaUs6V2AiH1sfecc+57NgaryfAA2VR3v6O+CSjC1jZJKOA==",
+      "optional": false
+    }
+  },
+  "trim-right": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/trim-right/1.0.1",
+      "tarball": "https://registry.npmjs.org/trim-right/-/trim-right-1.0.1.tgz",
+      "integrity": "sha512-WZGXGstmCWgeevgTL54hrCuw1dyMQIzWy7ZfqRJfSmJZBwklI15egmQytFP6bPidmw3M8d5yEowl1niq4vmqZw==",
+      "optional": false
+    }
+  }
+}

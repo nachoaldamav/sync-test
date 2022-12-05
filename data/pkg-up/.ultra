@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "pkg-up",
+    "version": "3.1.0",
+    "tarball": "https://registry.npmjs.org/pkg-up/-/pkg-up-3.1.0.tgz",
+    "integrity": "sha512-nDywThFk1i4BQK4twPQ6TA4RT8bDY96yeuCVBWL3ePARCiEKDRSrNGbFIgUJpLp+XeIR65v8ra7WuJOFUBtkMA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/pkg-up/3.1.0"
+  },
+  "find-up": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/find-up/3.0.0",
+      "tarball": "https://registry.npmjs.org/find-up/-/find-up-3.0.0.tgz",
+      "integrity": "sha512-1yD6RmLI1XBfxugvORwlck6f75tYL+iR0jqwsOrOxMZyGYqUuDhJ0l4AXdO1iX/FTs9cBAMEk1gWSEx1kSbylg==",
+      "optional": false
+    }
+  }
+}

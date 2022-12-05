@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-shorthand-properties",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.24.1.tgz",
+    "integrity": "sha512-mDdocSfUVm1/7Jw/FIRNw9vPrBQNePy6wZJlR8HAUBLybNp1w/6lr6zZ2pjMShee65t/ybR5pT8ulkLzD1xwiw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-shorthand-properties/6.24.1"
+  }
+}

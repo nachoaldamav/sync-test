@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "expand-brackets",
+    "version": "2.1.4",
+    "tarball": "https://registry.npmjs.org/expand-brackets/-/expand-brackets-2.1.4.tgz",
+    "integrity": "sha512-w/ozOKR9Obk3qoWeY/WDi6MFta9AoMR+zud60mdnbniMcBxRuFJyDt2LdX/14A1UABeqk+Uk+LDfUpvoGKppZA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/expand-brackets/2.1.4"
+  },
+  "posix-character-classes": {
+    "0.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/posix-character-classes/0.1.1",
+      "tarball": "https://registry.npmjs.org/posix-character-classes/-/posix-character-classes-0.1.1.tgz",
+      "integrity": "sha512-xTgYBc3fuo7Yt7JbiuFxSYGToMoz8fLoE6TC9Wx1P/u+LfeThMOAqmuyECnlBaaJb+u1m9hHiXUEtwW4OzfUJg==",
+      "optional": false
+    }
+  }
+}

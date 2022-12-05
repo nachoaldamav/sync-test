@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-lodash",
+    "version": "3.3.4",
+    "tarball": "https://registry.npmjs.org/babel-plugin-lodash/-/babel-plugin-lodash-3.3.4.tgz",
+    "integrity": "sha512-yDZLjK7TCkWl1gpBeBGmuaDIFhZKmkoL+Cu2MUUjv5VxUZx/z7tBGBCBcQs5RI1Bkz5LLmNdjx7paOyQtMovyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-lodash/3.3.4"
+  },
+  "require-package-name": {
+    "2.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/require-package-name/2.0.1",
+      "tarball": "https://registry.npmjs.org/require-package-name/-/require-package-name-2.0.1.tgz",
+      "integrity": "sha512-uuoJ1hU/k6M0779t3VMVIYpb2VMJk05cehCaABFhXaibcbvfgR8wKiozLjVFSzJPmQMRqIcO0HMyTFqfV09V6Q==",
+      "optional": false
+    }
+  }
+}

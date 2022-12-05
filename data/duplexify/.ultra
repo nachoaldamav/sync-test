@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "duplexify",
+    "version": "3.7.1",
+    "tarball": "https://registry.npmjs.org/duplexify/-/duplexify-3.7.1.tgz",
+    "integrity": "sha512-07z8uv2wMyS51kKhD1KsdXJg5WQ6t93RneqRxUHnskXVtlYYkLqM0gqStQZ3pj073g687jPCHrqNfCzawLYh5g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/duplexify/3.7.1"
+  }
+}

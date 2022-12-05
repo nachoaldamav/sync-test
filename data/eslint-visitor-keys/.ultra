@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "eslint-visitor-keys",
+    "version": "3.3.0",
+    "tarball": "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz",
+    "integrity": "sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/eslint-visitor-keys/3.3.0"
+  }
+}

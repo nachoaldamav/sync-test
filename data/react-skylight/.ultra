@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "react-skylight",
+    "version": "0.5.1",
+    "tarball": "https://registry.npmjs.org/react-skylight/-/react-skylight-0.5.1.tgz",
+    "integrity": "sha512-gwzTlsKuSvDbKCASZZAeQ/Dma4XxHl2bVxe6u32t3KLDnlNtKO+P8Au4GdNi1sdCuSwhsP8A0/E3SMHKI4LMjg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-skylight/0.5.1"
+  },
+  "react": {
+    "16.14.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react/16.14.0",
+      "tarball": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",
+      "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",
+      "optional": false
+    }
+  }
+}

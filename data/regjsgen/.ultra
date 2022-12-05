@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "regjsgen",
+    "version": "0.2.0",
+    "tarball": "https://registry.npmjs.org/regjsgen/-/regjsgen-0.2.0.tgz",
+    "integrity": "sha512-x+Y3yA24uF68m5GA+tBjbGYo64xXVJpbToBaWCoSNSc1hdk6dfctaRWrNFTVJZIIhL5GxW8zwjoixbnifnK59g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/regjsgen/0.2.0"
+  }
+}

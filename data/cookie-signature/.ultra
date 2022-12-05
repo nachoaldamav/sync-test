@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "cookie-signature",
+    "version": "1.0.6",
+    "tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz",
+    "integrity": "sha512-QADzlaHc8icV8I7vbaJXJwod9HWYp8uCqf1xa4OfNu1T7JVxQIrUgOWtHdNDtPiywmFbiS12VjotIXLrKM3orQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/cookie-signature/1.0.6"
+  }
+}

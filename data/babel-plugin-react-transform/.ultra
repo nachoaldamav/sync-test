@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-react-transform",
+    "version": "2.0.2",
+    "tarball": "https://registry.npmjs.org/babel-plugin-react-transform/-/babel-plugin-react-transform-2.0.2.tgz",
+    "integrity": "sha512-y/e6c6xTp5vNAOWJ628872w0ntFbiM4baNSvubOE4xWIEeI8J3npUz0I1DVbzcjijtyket2WRXSqCFYoI3ENZQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-react-transform/2.0.2"
+  }
+}

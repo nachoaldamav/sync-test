@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-flow-strip-types",
+    "version": "6.22.0",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-flow-strip-types/-/babel-plugin-transform-flow-strip-types-6.22.0.tgz",
+    "integrity": "sha512-TxIM0ZWNw9oYsoTthL3lvAK3+eTujzktoXJg4ubGvICGbVuXVYv5hHv0XXpz8fbqlJaGYY4q5SVzaSmsg3t4Fg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-flow-strip-types/6.22.0"
+  },
+  "babel-plugin-syntax-flow": {
+    "6.18.0": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-plugin-syntax-flow/6.18.0",
+      "tarball": "https://registry.npmjs.org/babel-plugin-syntax-flow/-/babel-plugin-syntax-flow-6.18.0.tgz",
+      "integrity": "sha512-HbTDIoG1A1op7Tl/wIFQPULIBA61tsJ8Ntq2FAhLwuijrzosM/92kAfgU1Q3Kc7DH/cprJg5vDfuTY4QUL4rDA==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "get-value",
+    "version": "2.0.6",
+    "tarball": "https://registry.npmjs.org/get-value/-/get-value-2.0.6.tgz",
+    "integrity": "sha512-Ln0UQDlxH1BapMu3GPtf7CuYNwRZf2gwCuPqbyG6pB8WfmFpzqcy4xtAaAMUhnNqjMKTiCPZG2oMT3YSx8U2NA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/get-value/2.0.6"
+  }
+}

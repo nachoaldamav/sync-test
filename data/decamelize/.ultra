@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "decamelize",
+    "version": "1.2.0",
+    "tarball": "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz",
+    "integrity": "sha512-z2S+W9X73hAUUki+N+9Za2lBlun89zigOyGrsax+KUQ6wKW4ZoWpEYBkGhQjwAjjDCkWxhY0VKEhk8wzY7F5cA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/decamelize/1.2.0"
+  }
+}

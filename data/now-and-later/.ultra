@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "now-and-later",
+    "version": "2.0.1",
+    "tarball": "https://registry.npmjs.org/now-and-later/-/now-and-later-2.0.1.tgz",
+    "integrity": "sha512-KGvQ0cB70AQfg107Xvs/Fbu+dGmZoTRJp2TaPwcwQm3/7PteUyN2BCgk8KBMPGBUXZdVwyWS8fDCGFygBm19UQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/now-and-later/2.0.1"
+  }
+}

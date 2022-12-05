@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "clap",
+    "version": "1.2.3",
+    "tarball": "https://registry.npmjs.org/clap/-/clap-1.2.3.tgz",
+    "integrity": "sha512-4CoL/A3hf90V3VIEjeuhSvlGFEHKzOz+Wfc2IVZc+FaUgU0ZQafJTP49fvnULipOPcAfqhyI2duwQyns6xqjYA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clap/1.2.3"
+  }
+}

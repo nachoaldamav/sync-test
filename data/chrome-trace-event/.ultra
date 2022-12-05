@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "chrome-trace-event",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz",
+    "integrity": "sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/chrome-trace-event/1.0.3"
+  }
+}

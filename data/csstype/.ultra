@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "csstype",
+    "version": "3.1.1",
+    "tarball": "https://registry.npmjs.org/csstype/-/csstype-3.1.1.tgz",
+    "integrity": "sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/csstype/3.1.1"
+  }
+}

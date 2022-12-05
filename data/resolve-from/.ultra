@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "resolve-from",
+    "version": "4.0.0",
+    "tarball": "https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz",
+    "integrity": "sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/resolve-from/4.0.0"
+  }
+}

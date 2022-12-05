@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "emoji-regex",
+    "version": "9.2.2",
+    "tarball": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz",
+    "integrity": "sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/emoji-regex/9.2.2"
+  }
+}

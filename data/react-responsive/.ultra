@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "react-responsive",
+    "version": "9.0.0-beta.10",
+    "tarball": "https://registry.npmjs.org/react-responsive/-/react-responsive-9.0.0-beta.10.tgz",
+    "integrity": "sha512-41H8g4FYP46ln16rsHvs9/0ZoZxAPfnNiHET86/5pgS+Vw8fSKfLBuOS2SAquaxOxq7DgPviFoHmybgVvSKCNQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-responsive/9.0.0-beta.10"
+  },
+  "hyphenate-style-name": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/hyphenate-style-name/1.0.4",
+      "tarball": "https://registry.npmjs.org/hyphenate-style-name/-/hyphenate-style-name-1.0.4.tgz",
+      "integrity": "sha512-ygGZLjmXfPHj+ZWh6LwbC37l43MhfztxetbFCoYTM2VjkIUpeHgSNn7QIyVFj7YQ1Wl9Cbw5sholVJPzWvC2MQ==",
+      "optional": false
+    }
+  },
+  "matchmediaquery": {
+    "0.3.1": {
+      "path": "/home/nachoaldama/.ultra-cache/matchmediaquery/0.3.1",
+      "tarball": "https://registry.npmjs.org/matchmediaquery/-/matchmediaquery-0.3.1.tgz",
+      "integrity": "sha512-Hlk20WQHRIm9EE9luN1kjRjYXAQToHOIAHPJn9buxBwuhfTHoKUcX+lXBbxc85DVQfXYbEQ4HcwQdd128E3qHQ==",
+      "optional": false
+    }
+  },
+  "shallow-equal": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/shallow-equal/1.2.1",
+      "tarball": "https://registry.npmjs.org/shallow-equal/-/shallow-equal-1.2.1.tgz",
+      "integrity": "sha512-S4vJDjHHMBaiZuT9NPb616CSmLf618jawtv3sufLl6ivK8WocjAo58cXwbRV1cgqxH0Qbv+iUt6m05eqEa2IRA==",
+      "optional": false
+    }
+  }
+}

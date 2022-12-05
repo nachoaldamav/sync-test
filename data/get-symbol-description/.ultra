@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "get-symbol-description",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/get-symbol-description/-/get-symbol-description-1.0.0.tgz",
+    "integrity": "sha512-2EmdH1YvIQiZpltCNgkuiUnyukzxM/R6NDJX31Ke3BG1Nq5b0S2PhX59UKi9vZpPDQVdqn+1IcaAwnzTT5vCjw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/get-symbol-description/1.0.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "babel-preset-stage-1",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-preset-stage-1/-/babel-preset-stage-1-6.24.1.tgz",
+    "integrity": "sha512-rn+UOcd7BHDniq1SVxv2/AVVSVI1NK+hfS0I/iR6m6KbOi/aeBRcqBilqO73pd9VUpRXF2HFtlDuC9F2BEQqmg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-preset-stage-1/6.24.1"
+  },
+  "babel-plugin-transform-class-constructor-call": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-class-constructor-call/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-plugin-transform-class-constructor-call/-/babel-plugin-transform-class-constructor-call-6.24.1.tgz",
+      "integrity": "sha512-RvYukT1Nh7njz8P8326ztpQUGCKwmjgu6aRIx1lkvylWITYcskg29vy1Kp8WXIq7FvhXsz0Crf2kS94bjB690A==",
+      "optional": false
+    }
+  },
+  "babel-plugin-transform-export-extensions": {
+    "6.22.0": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-export-extensions/6.22.0",
+      "tarball": "https://registry.npmjs.org/babel-plugin-transform-export-extensions/-/babel-plugin-transform-export-extensions-6.22.0.tgz",
+      "integrity": "sha512-mtzELzINaYqdVglyZrDDVwkcFRuE7s6QUFWXxwffKAHB/NkfbJ2NJSytugB43ytIC8UVt30Ereyx+7gNyTkDLg==",
+      "optional": false
+    }
+  },
+  "babel-preset-stage-2": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-preset-stage-2/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-preset-stage-2/-/babel-preset-stage-2-6.24.1.tgz",
+      "integrity": "sha512-9F+nquz+37PrlTSBdpeQBKnQfAMNBnryXw+m4qBh35FNbJPfzZz+sjN2G5Uf1CRedU9PH7fJkTbYijxmkLX8Og==",
+      "optional": false
+    }
+  }
+}

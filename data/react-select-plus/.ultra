@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "react-select-plus",
+    "version": "1.0.0-rc.3.patch12",
+    "tarball": "https://registry.npmjs.org/react-select-plus/-/react-select-plus-1.0.0-rc.3.patch12.tgz",
+    "integrity": "sha512-BuSEBLcKGlWVL8XkvEef/v3A6wr2Cm/ZSSFa1xiLq+kKxlw8ZTbhw5wOlMKn2J9jx4xqPmTO5NJMYBfCuVM30g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-select-plus/1.0.0-rc.3.patch12"
+  },
+  "react": {
+    "15.7.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react/15.7.0",
+      "tarball": "https://registry.npmjs.org/react/-/react-15.7.0.tgz",
+      "integrity": "sha512-5/MMRYmpmM0sMTHGLossnJCrmXQIiJilD6y3YN3TzAwGFj6zdnMtFv6xmi65PHKRV+pehIHpT7oy67Sr6s9AHA==",
+      "optional": false
+    }
+  },
+  "react-dom": {
+    "15.7.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react-dom/15.7.0",
+      "tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.7.0.tgz",
+      "integrity": "sha512-mpjXqC2t1FuYsILOLCj0kg6pbg460byZkVA/80VtDmKU/pYmoTdHOtaMcTRIDiyXLz4sIur0cQ04nOC6iGndJg==",
+      "optional": false
+    }
+  },
+  "react-input-autosize": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react-input-autosize/1.1.0",
+      "tarball": "https://registry.npmjs.org/react-input-autosize/-/react-input-autosize-1.1.0.tgz",
+      "integrity": "sha512-RbqS203Q3BlV6q96vzwUBP/cl61Ptl0jXbdET/LsUZAyrtg9iqqffA1xG2JzJvTiwBG/Wt4XWfceWmdm3AyAqg==",
+      "optional": false
+    }
+  }
+}

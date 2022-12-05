@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "gulp-postcss",
+    "version": "9.0.1",
+    "tarball": "https://registry.npmjs.org/gulp-postcss/-/gulp-postcss-9.0.1.tgz",
+    "integrity": "sha512-9QUHam5JyXwGUxaaMvoFQVT44tohpEFpM8xBdPfdwTYGM0AItS1iTQz0MpsF8Jroh7GF5Jt2GVPaYgvy8qD2Fw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-postcss/9.0.1"
+  }
+}

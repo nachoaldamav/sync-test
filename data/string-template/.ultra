@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "string-template",
+    "version": "0.2.1",
+    "tarball": "https://registry.npmjs.org/string-template/-/string-template-0.2.1.tgz",
+    "integrity": "sha512-Yptehjogou2xm4UJbxJ4CxgZx12HBfeystp0y3x7s4Dj32ltVVG1Gg8YhKjHZkHicuKpZX/ffilA8505VbUbpw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/string-template/0.2.1"
+  }
+}

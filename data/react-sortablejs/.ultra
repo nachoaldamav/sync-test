@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "react-sortablejs",
+    "version": "6.1.4",
+    "tarball": "https://registry.npmjs.org/react-sortablejs/-/react-sortablejs-6.1.4.tgz",
+    "integrity": "sha512-fc7cBosfhnbh53Mbm6a45W+F735jwZ1UFIYSrIqcO/gRIFoDyZeMtgKlpV4DdyQfbCzdh5LoALLTDRxhMpTyXQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-sortablejs/6.1.4"
+  },
+  "@types/sortablejs": {
+    "1.15.0": {
+      "path": "/home/nachoaldama/.ultra-cache/@types/sortablejs/1.15.0",
+      "tarball": "https://registry.npmjs.org/@types/sortablejs/-/sortablejs-1.15.0.tgz",
+      "integrity": "sha512-qrhtM7M41EhH4tZQTNw2/RJkxllBx3reiJpTbgWCM2Dx0U1sZ6LwKp9lfNln9uqE26ZMKUaPEYaD4rzvOWYtZw==",
+      "optional": false
+    }
+  },
+  "classnames": {
+    "2.3.1": {
+      "path": "/home/nachoaldama/.ultra-cache/classnames/2.3.1",
+      "tarball": "https://registry.npmjs.org/classnames/-/classnames-2.3.1.tgz",
+      "integrity": "sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==",
+      "optional": false
+    }
+  },
+  "tiny-invariant": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/tiny-invariant/1.2.0",
+      "tarball": "https://registry.npmjs.org/tiny-invariant/-/tiny-invariant-1.2.0.tgz",
+      "integrity": "sha512-1Uhn/aqw5C6RI4KejVeTg6mIS7IqxnLJ8Mv2tV5rTc0qWobay7pDUz6Wi392Cnc8ak1H0F2cjoRzb2/AW4+Fvg==",
+      "optional": false
+    }
+  }
+}

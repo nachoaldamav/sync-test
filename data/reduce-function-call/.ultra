@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "reduce-function-call",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/reduce-function-call/-/reduce-function-call-1.0.3.tgz",
+    "integrity": "sha512-Hl/tuV2VDgWgCSEeWMLwxLZqX7OK59eU1guxXsRKTAyeYimivsKdtcV4fu3r710tpG5GmDKDhQ0HSZLExnNmyQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/reduce-function-call/1.0.3"
+  }
+}

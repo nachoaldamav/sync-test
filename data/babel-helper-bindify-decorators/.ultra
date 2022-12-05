@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-bindify-decorators",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-bindify-decorators/-/babel-helper-bindify-decorators-6.24.1.tgz",
+    "integrity": "sha512-TYX2QQATKA6Wssp6j7jqlw4QLmABDN1olRdEHndYvBXdaXM5dcx6j5rN0+nd+aVL+Th40fAEYvvw/Xxd/LETuQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-bindify-decorators/6.24.1"
+  }
+}

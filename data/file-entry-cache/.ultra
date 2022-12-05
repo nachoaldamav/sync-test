@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "file-entry-cache",
+    "version": "6.0.1",
+    "tarball": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz",
+    "integrity": "sha512-7Gps/XWymbLk2QLYK4NzpMOrYjMhdIxXuIvy2QBsLE6ljuodKvdkWs/cpyJJ3CVIVpH0Oi1Hvg1ovbMzLdFBBg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/file-entry-cache/6.0.1"
+  },
+  "flat-cache": {
+    "3.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/flat-cache/3.0.4",
+      "tarball": "https://registry.npmjs.org/flat-cache/-/flat-cache-3.0.4.tgz",
+      "integrity": "sha512-dm9s5Pw7Jc0GvMYbshN6zchCA9RgQlzzEZX3vylR9IqFfS8XciblUXOKfW6SiuJ0e13eDYZoZV5wdrev7P3Nwg==",
+      "optional": false
+    }
+  }
+}

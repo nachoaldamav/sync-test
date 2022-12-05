@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "spdx-exceptions",
+    "version": "2.3.0",
+    "tarball": "https://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz",
+    "integrity": "sha512-/tTrYOC7PPI1nUAgx34hUpqXuyJG+DTHJTnIULG4rDygi4xu/tfgmq1e1cIRwRzwZgo4NLySi+ricLkZkw4i5A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/spdx-exceptions/2.3.0"
+  }
+}

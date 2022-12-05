@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "to-object-path",
+    "version": "0.3.0",
+    "tarball": "https://registry.npmjs.org/to-object-path/-/to-object-path-0.3.0.tgz",
+    "integrity": "sha512-9mWHdnGRuh3onocaHzukyvCZhzvr6tiflAy/JRFXcJX0TjgfWA9pk9t8CMbzmBE4Jfw58pXbkngtBtqYxzNEyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/to-object-path/0.3.0"
+  }
+}

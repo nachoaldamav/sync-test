@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "es6-iterator",
+    "version": "2.0.3",
+    "tarball": "https://registry.npmjs.org/es6-iterator/-/es6-iterator-2.0.3.tgz",
+    "integrity": "sha512-zw4SRzoUkd+cl+ZoE15A9o1oQd920Bb0iOJMQkQhl3jNc03YqVjAhG7scf9C5KWRU/R13Orf588uCC6525o02g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/es6-iterator/2.0.3"
+  },
+  "d": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/d/1.0.1",
+      "tarball": "https://registry.npmjs.org/d/-/d-1.0.1.tgz",
+      "integrity": "sha512-m62ShEObQ39CfralilEQRjH6oAMtNCV1xJyEx5LpRYUVN+EviphDgUc/F3hnYbADmkiNs67Y+3ylmlG7Lnu+FA==",
+      "optional": false
+    }
+  }
+}

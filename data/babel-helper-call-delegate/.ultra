@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-call-delegate",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-call-delegate/-/babel-helper-call-delegate-6.24.1.tgz",
+    "integrity": "sha512-RL8n2NiEj+kKztlrVJM9JT1cXzzAdvWFh76xh/H1I4nKwunzE4INBXn8ieCZ+wh4zWszZk7NBS1s/8HR5jDkzQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-call-delegate/6.24.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "tr46",
+    "version": "0.0.3",
+    "tarball": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz",
+    "integrity": "sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/tr46/0.0.3"
+  }
+}

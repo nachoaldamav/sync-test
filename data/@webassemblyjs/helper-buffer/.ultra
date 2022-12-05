@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/helper-buffer",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-buffer/-/helper-buffer-1.11.1.tgz",
+    "integrity": "sha512-gwikF65aDNeeXa8JxXa2BAk+REjSyhrNC9ZwdT0f8jc4dQQeDQ7G4m0f2QCLPJiMTTO6wfDmRmj/pW0PsUvIcA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-buffer/1.11.1"
+  }
+}

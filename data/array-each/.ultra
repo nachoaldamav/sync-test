@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "array-each",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/array-each/-/array-each-1.0.1.tgz",
+    "integrity": "sha512-zHjL5SZa68hkKHBFBK6DJCTtr9sfTCPCaph/L7tMSLcTFgy+zX7E+6q5UArbtOtMBCtxdICpfTCspRse+ywyXA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/array-each/1.0.1"
+  }
+}

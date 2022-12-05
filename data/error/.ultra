@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "error",
+    "version": "7.2.1",
+    "tarball": "https://registry.npmjs.org/error/-/error-7.2.1.tgz",
+    "integrity": "sha512-fo9HBvWnx3NGUKMvMwB/CBCMMrfEJgbDTVDEkPygA3Bdd3lM1OyCd+rbQ8BwnpF6GdVeOLDNmyL4N5Bg80ZvdA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/error/7.2.1"
+  },
+  "string-template": {
+    "0.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/string-template/0.2.1",
+      "tarball": "https://registry.npmjs.org/string-template/-/string-template-0.2.1.tgz",
+      "integrity": "sha512-Yptehjogou2xm4UJbxJ4CxgZx12HBfeystp0y3x7s4Dj32ltVVG1Gg8YhKjHZkHicuKpZX/ffilA8505VbUbpw==",
+      "optional": false
+    }
+  }
+}

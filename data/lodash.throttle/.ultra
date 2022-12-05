@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash.throttle",
+    "version": "4.1.1",
+    "tarball": "https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz",
+    "integrity": "sha512-wIkUCfVKpVsWo3JSZlc+8MB5it+2AN5W8J7YVMST30UrvcQNZ1Okbj+rbVniijTWE6FGYy4XJq/rHkas8qJMLQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash.throttle/4.1.1"
+  }
+}

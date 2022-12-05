@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "ansi-styles",
+    "version": "4.3.0",
+    "tarball": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz",
+    "integrity": "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/ansi-styles/4.3.0"
+  },
+  "color-convert": {
+    "2.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/color-convert/2.0.1",
+      "tarball": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz",
+      "integrity": "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==",
+      "optional": false
+    }
+  }
+}

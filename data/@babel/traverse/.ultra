@@ -1,0 +1,50 @@
+{
+  "ultra:self": {
+    "name": "@babel/traverse",
+    "version": "7.20.1",
+    "tarball": "https://registry.npmjs.org/@babel/traverse/-/traverse-7.20.1.tgz",
+    "integrity": "sha512-d3tN8fkVJwFLkHkBN479SOsw4DMZnz8cdbL/gvuDuzy3TS6Nfw80HuQqhw1pITbIruHyh7d1fMA47kWzmcUEGA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/traverse/7.20.1"
+  },
+  "@babel/helper-environment-visitor": {
+    "7.18.9": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-environment-visitor/7.18.9",
+      "tarball": "https://registry.npmjs.org/@babel/helper-environment-visitor/-/helper-environment-visitor-7.18.9.tgz",
+      "integrity": "sha512-3r/aACDJ3fhQ/EVgFy0hpj8oHyHpQc+LPtJoY9SzTThAsStm4Ptegq92vqKoE3vD706ZVFWITnMnxucw+S9Ipg==",
+      "optional": false
+    }
+  },
+  "@babel/helper-function-name": {
+    "7.19.0": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-function-name/7.19.0",
+      "tarball": "https://registry.npmjs.org/@babel/helper-function-name/-/helper-function-name-7.19.0.tgz",
+      "integrity": "sha512-WAwHBINyrpqywkUH0nTnNgI5ina5TFn85HKS0pbPDfxFfhyR/aNQEn4hGi1P1JyT//I0t4OgXUlofzWILRvS5w==",
+      "optional": false
+    }
+  },
+  "@babel/helper-hoist-variables": {
+    "7.18.6": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-hoist-variables/7.18.6",
+      "tarball": "https://registry.npmjs.org/@babel/helper-hoist-variables/-/helper-hoist-variables-7.18.6.tgz",
+      "integrity": "sha512-UlJQPkFqFULIcyW5sbzgbkxn2FKRgwWiRexcuaR8RNJRy8+LLveqPjwZV/bwrLZCN0eUHD/x8D0heK1ozuoo6Q==",
+      "optional": false
+    }
+  },
+  "@babel/helper-split-export-declaration": {
+    "7.18.6": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-split-export-declaration/7.18.6",
+      "tarball": "https://registry.npmjs.org/@babel/helper-split-export-declaration/-/helper-split-export-declaration-7.18.6.tgz",
+      "integrity": "sha512-bde1etTx6ZyTmobl9LLMMQsaizFVZrquTEHOqKeQESMKo4PlObf+8+JA25ZsIpZhT/WEd39+vOdLXAFG/nELpA==",
+      "optional": false
+    }
+  },
+  "globals": {
+    "11.12.0": {
+      "path": "/home/nachoaldama/.ultra-cache/globals/11.12.0",
+      "tarball": "https://registry.npmjs.org/globals/-/globals-11.12.0.tgz",
+      "integrity": "sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==",
+      "optional": false
+    }
+  }
+}

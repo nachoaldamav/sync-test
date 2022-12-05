@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-normalize-whitespace",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-whitespace/-/postcss-normalize-whitespace-5.1.1.tgz",
+    "integrity": "sha512-83ZJ4t3NUDETIHTa3uEg6asWjSBYL5EdkVB0sDncx9ERzOKBVJIUeDO9RyA9Zwtig8El1d79HBp0JEi8wvGQnA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-normalize-whitespace/5.1.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "react-transform-catch-errors",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/react-transform-catch-errors/-/react-transform-catch-errors-1.0.2.tgz",
+    "integrity": "sha512-FCeTXLTpRM8wMrwAlYVoEI+HXUFYEJLKdmf9zd5YtH1yc2Dq81JL1YMr0eHeUe699CCTezG4CfEB5D9RpmovEw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-transform-catch-errors/1.0.2"
+  }
+}

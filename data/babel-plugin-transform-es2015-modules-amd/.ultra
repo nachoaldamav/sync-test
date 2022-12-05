@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-modules-amd",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-modules-amd/-/babel-plugin-transform-es2015-modules-amd-6.24.1.tgz",
+    "integrity": "sha512-LnIIdGWIKdw7zwckqx+eGjcS8/cl8D74A3BpJbGjKTFFNJSMrjN4bIh22HY1AlkUbeLG6X6OZj56BDvWD+OeFA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-modules-amd/6.24.1"
+  }
+}

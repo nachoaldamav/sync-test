@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "deep-is",
+    "version": "0.1.4",
+    "tarball": "https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz",
+    "integrity": "sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/deep-is/0.1.4"
+  }
+}

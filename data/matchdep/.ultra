@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "matchdep",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/matchdep/-/matchdep-2.0.0.tgz",
+    "integrity": "sha512-LFgVbaHIHMqCRuCZyfCtUOq9/Lnzhi7Z0KFUE2fhD54+JN2jLh3hC02RLkqauJ3U4soU6H1J3tfj/Byk7GoEjA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/matchdep/2.0.0"
+  },
+  "findup-sync": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/findup-sync/2.0.0",
+      "tarball": "https://registry.npmjs.org/findup-sync/-/findup-sync-2.0.0.tgz",
+      "integrity": "sha512-vs+3unmJT45eczmcAZ6zMJtxN3l/QXeccaXQx5cu/MeJMhewVfoWZqibRkOxPnmoR59+Zy5hjabfQc6JLSah4g==",
+      "optional": false
+    }
+  },
+  "micromatch": {
+    "3.1.10": {
+      "path": "/home/nachoaldama/.ultra-cache/micromatch/3.1.10",
+      "tarball": "https://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz",
+      "integrity": "sha512-MWikgl9n9M3w+bpsY3He8L+w9eF9338xRl8IAO5viDizwSzziFEyUzo2xrrloB64ADbTf8uA8vRqqttDTOmccg==",
+      "optional": false
+    }
+  },
+  "stack-trace": {
+    "0.0.10": {
+      "path": "/home/nachoaldama/.ultra-cache/stack-trace/0.0.10",
+      "tarball": "https://registry.npmjs.org/stack-trace/-/stack-trace-0.0.10.tgz",
+      "integrity": "sha512-KGzahc7puUKkzyMt+IqAep+TVNbKP+k2Lmwhub39m1AsTSkaDutx56aDCo+HLDzf/D26BIHTJWNiTG1KAJiQCg==",
+      "optional": false
+    }
+  }
+}

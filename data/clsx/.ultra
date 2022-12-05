@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "clsx",
+    "version": "1.2.1",
+    "tarball": "https://registry.npmjs.org/clsx/-/clsx-1.2.1.tgz",
+    "integrity": "sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clsx/1.2.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "flagged-respawn",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/flagged-respawn/-/flagged-respawn-1.0.1.tgz",
+    "integrity": "sha512-lNaHNVymajmk0OJMBn8fVUAU1BtDeKIqKoVhk4xAALB57aALg6b4W0MfJ/cUE0g9YBXy5XhSlPIpYIJ7HaY/3Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/flagged-respawn/1.0.1"
+  }
+}

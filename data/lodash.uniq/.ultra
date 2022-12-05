@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash.uniq",
+    "version": "4.5.0",
+    "tarball": "https://registry.npmjs.org/lodash.uniq/-/lodash.uniq-4.5.0.tgz",
+    "integrity": "sha512-xfBaXQd9ryd9dlSDvnvI0lvxfLJlYAZzXomUYzLKtUeOQvOP5piqAWuGtrhWeqaXK9hhoM/iyJc5AV+XfsX3HQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash.uniq/4.5.0"
+  }
+}

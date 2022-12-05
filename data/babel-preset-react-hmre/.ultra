@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "babel-preset-react-hmre",
+    "version": "1.1.1",
+    "tarball": "https://registry.npmjs.org/babel-preset-react-hmre/-/babel-preset-react-hmre-1.1.1.tgz",
+    "integrity": "sha512-UYkUorcR+xvRXeQxykWxlgCnl4m2GmKDYyr9TiRoJ2+vXw1vusMsH+j9wp9a6aWAMOlaO+vFy/PYNlyRzJW9/w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-preset-react-hmre/1.1.1"
+  },
+  "babel-plugin-react-transform": {
+    "2.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-plugin-react-transform/2.0.2",
+      "tarball": "https://registry.npmjs.org/babel-plugin-react-transform/-/babel-plugin-react-transform-2.0.2.tgz",
+      "integrity": "sha512-y/e6c6xTp5vNAOWJ628872w0ntFbiM4baNSvubOE4xWIEeI8J3npUz0I1DVbzcjijtyket2WRXSqCFYoI3ENZQ==",
+      "optional": false
+    }
+  },
+  "react-transform-catch-errors": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/react-transform-catch-errors/1.0.2",
+      "tarball": "https://registry.npmjs.org/react-transform-catch-errors/-/react-transform-catch-errors-1.0.2.tgz",
+      "integrity": "sha512-FCeTXLTpRM8wMrwAlYVoEI+HXUFYEJLKdmf9zd5YtH1yc2Dq81JL1YMr0eHeUe699CCTezG4CfEB5D9RpmovEw==",
+      "optional": false
+    }
+  },
+  "react-transform-hmr": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/react-transform-hmr/1.0.4",
+      "tarball": "https://registry.npmjs.org/react-transform-hmr/-/react-transform-hmr-1.0.4.tgz",
+      "integrity": "sha512-8bK1DWUZynE6swD2jNPbzO5mvhB8fs9Ub5GksoVqYkc9i06FdSLC36qQYjaKOW79KBdsROq2cK0tRKITiEzmyg==",
+      "optional": false
+    }
+  },
+  "redbox-react": {
+    "1.6.0": {
+      "path": "/home/nachoaldama/.ultra-cache/redbox-react/1.6.0",
+      "tarball": "https://registry.npmjs.org/redbox-react/-/redbox-react-1.6.0.tgz",
+      "integrity": "sha512-mLjM5eYR41yOp5YKHpd3syFeGq6B4Wj5vZr64nbLvTZW5ZLff4LYk7VE4ITpVxkZpCY6OZuqh0HiP3A3uEaCpg==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/floating-point-hex-parser",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.11.1.tgz",
+    "integrity": "sha512-iGRfyc5Bq+NnNuX8b5hwBrRjzf0ocrJPI6GWFodBFzmFnyvrQ83SHKhmilCU/8Jv67i4GJZBMhEzltxzcNagtQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/floating-point-hex-parser/1.11.1"
+  }
+}

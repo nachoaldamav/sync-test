@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "normalize-range",
+    "version": "0.1.2",
+    "tarball": "https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz",
+    "integrity": "sha512-bdok/XvKII3nUpklnV6P2hxtMNrCboOjAcyBuQnWEhO665FwrSNRxU+AqpsyvO6LgGYPspN+lu5CLtw4jPRKNA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/normalize-range/0.1.2"
+  }
+}

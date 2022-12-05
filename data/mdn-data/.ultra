@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "mdn-data",
+    "version": "2.0.14",
+    "tarball": "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz",
+    "integrity": "sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/mdn-data/2.0.14"
+  }
+}

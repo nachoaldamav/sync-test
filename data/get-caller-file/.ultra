@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "get-caller-file",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-1.0.3.tgz",
+    "integrity": "sha512-3t6rVToeoZfYSGd8YoLFR2DJkiQrIiUrGcjvFX2mDw3bn6k2OtwHN0TNCLbBO+w8qTvimhDkv+LSscbJY1vE6w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/get-caller-file/1.0.3"
+  }
+}

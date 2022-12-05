@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "locate-path",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/locate-path/-/locate-path-3.0.0.tgz",
+    "integrity": "sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/locate-path/3.0.0"
+  },
+  "p-locate": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/p-locate/3.0.0",
+      "tarball": "https://registry.npmjs.org/p-locate/-/p-locate-3.0.0.tgz",
+      "integrity": "sha512-x+12w/To+4GFfgJhBEpiDcLozRJGegY+Ei7/z0tSLkMmxGZNybVMSfWj9aJn8Z5Fc7dBUNJOOVgPv2H7IwulSQ==",
+      "optional": false
+    }
+  }
+}

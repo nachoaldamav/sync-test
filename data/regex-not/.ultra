@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "regex-not",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/regex-not/-/regex-not-1.0.2.tgz",
+    "integrity": "sha512-J6SDjUgDxQj5NusnOtdFxDwN/+HWykR8GELwctJ7mdqhcyy1xEc4SRFHUXvxTp661YaVKAjfRLZ9cCqS6tn32A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/regex-not/1.0.2"
+  },
+  "safe-regex": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/safe-regex/1.1.0",
+      "tarball": "https://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz",
+      "integrity": "sha512-aJXcif4xnaNUzvUuC5gcb46oTS7zvg4jpMTnuqtrEPlR3vFr4pxtdTwaF1Qs3Enjn9HK+ZlwQui+a7z0SywIzg==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "gulp-concat",
+    "version": "2.6.1",
+    "tarball": "https://registry.npmjs.org/gulp-concat/-/gulp-concat-2.6.1.tgz",
+    "integrity": "sha512-a2scActrQrDBpBbR3WUZGyGS1JEPLg5PZJdIa7/Bi3GuKAmPYDK6SFhy/NZq5R8KsKKFvtfR0fakbUCcKGCCjg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-concat/2.6.1"
+  },
+  "concat-with-sourcemaps": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/concat-with-sourcemaps/1.1.0",
+      "tarball": "https://registry.npmjs.org/concat-with-sourcemaps/-/concat-with-sourcemaps-1.1.0.tgz",
+      "integrity": "sha512-4gEjHJFT9e+2W/77h/DS5SGUgwDaOwprX8L/gl5+3ixnzkVJJsZWDSelmN3Oilw3LNDZjZV0yqH1hLG3k6nghg==",
+      "optional": false
+    }
+  },
+  "through2": {
+    "2.0.5": {
+      "path": "/home/nachoaldama/.ultra-cache/through2/2.0.5",
+      "tarball": "https://registry.npmjs.org/through2/-/through2-2.0.5.tgz",
+      "integrity": "sha512-/mrRod8xqpA+IHSLyGCQ2s8SPHiCDEeQJSep1jqLYeEUClOFG2Qsh+4FU6G9VeqpZnGW/Su8LQGc4YKni5rYSQ==",
+      "optional": false
+    }
+  }
+}

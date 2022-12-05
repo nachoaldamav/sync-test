@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "js-base64",
+    "version": "2.6.4",
+    "tarball": "https://registry.npmjs.org/js-base64/-/js-base64-2.6.4.tgz",
+    "integrity": "sha512-pZe//GGmwJndub7ZghVHz7vjb2LgC1m8B07Au3eYqeqv9emhESByMXxaEgkUkEqJe87oBbSniGYoQNIBklc7IQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/js-base64/2.6.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "yargs-parser",
+    "version": "20.2.4",
+    "tarball": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-20.2.4.tgz",
+    "integrity": "sha512-WOkpgNhPTlE73h4VFAFsOnomJVaovO8VqLDzy5saChRBFQFBoMYirowyW+Q9HB4HFF4Z7VZTiG3iSzJJA29yRA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/yargs-parser/20.2.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "vinyl-sourcemap",
+    "version": "1.1.0",
+    "tarball": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.1.0.tgz",
+    "integrity": "sha512-NiibMgt6VJGJmyw7vtzhctDcfKch4e4n9TBeoWlirb7FMg9/1Ov9k+A5ZRAtywBpRPiyECvQRQllYM8dECegVA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/vinyl-sourcemap/1.1.0"
+  },
+  "append-buffer": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/append-buffer/1.0.2",
+      "tarball": "https://registry.npmjs.org/append-buffer/-/append-buffer-1.0.2.tgz",
+      "integrity": "sha512-WLbYiXzD3y/ATLZFufV/rZvWdZOs+Z/+5v1rBZ463Jn398pa6kcde27cvozYnBoxXblGZTFfoPpsaEw0orU5BA==",
+      "optional": false
+    }
+  },
+  "normalize-path": {
+    "2.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/normalize-path/2.1.1",
+      "tarball": "https://registry.npmjs.org/normalize-path/-/normalize-path-2.1.1.tgz",
+      "integrity": "sha512-3pKJwH184Xo/lnH6oyP1q2pMd7HcypqqmRs91/6/i2CGtWwIKGCkOOMTm/zXbgTEWHw1uNpNi/igc3ePOYHb6w==",
+      "optional": false
+    }
+  }
+}

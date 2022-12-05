@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-optimise-call-expression",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-optimise-call-expression/-/babel-helper-optimise-call-expression-6.24.1.tgz",
+    "integrity": "sha512-Op9IhEaxhbRT8MDXx2iNuMgciu2V8lDvYCNQbDGjdBNCjaMvyLf4wl4A3b8IgndCyQF8TwfgsQ8T3VD8aX1/pA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-optimise-call-expression/6.24.1"
+  }
+}

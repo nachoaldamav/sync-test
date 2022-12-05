@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "core-util-is",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.3.tgz",
+    "integrity": "sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/core-util-is/1.0.3"
+  }
+}

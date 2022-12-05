@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "animate.less",
+    "version": "2.2.0",
+    "tarball": "https://registry.npmjs.org/animate.less/-/animate.less-2.2.0.tgz",
+    "integrity": "sha512-e6p0jCCv7lZ44C3bq/vUNGIlxeOyqvd+sVYWr27OgsyN00eCkbBfwqIRtu9hnerRNRHK1jTyuQe1oDkeWbD0yg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/animate.less/2.2.0"
+  }
+}

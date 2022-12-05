@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-sticky-regex",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-sticky-regex/-/babel-plugin-transform-es2015-sticky-regex-6.24.1.tgz",
+    "integrity": "sha512-CYP359ADryTo3pCsH0oxRo/0yn6UsEZLqYohHmvLQdfS9xkf+MbCzE3/Kolw9OYIY4ZMilH25z/5CbQbwDD+lQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-sticky-regex/6.24.1"
+  },
+  "babel-helper-regex": {
+    "6.26.0": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-regex/6.26.0",
+      "tarball": "https://registry.npmjs.org/babel-helper-regex/-/babel-helper-regex-6.26.0.tgz",
+      "integrity": "sha512-VlPiWmqmGJp0x0oK27Out1D+71nVVCTSdlbhIVoaBAj2lUgrNjBCRR9+llO4lTSb2O4r7PJg+RobRkhBrf6ofg==",
+      "optional": false
+    }
+  }
+}

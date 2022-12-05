@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "content-disposition",
+    "version": "0.5.4",
+    "tarball": "https://registry.npmjs.org/content-disposition/-/content-disposition-0.5.4.tgz",
+    "integrity": "sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/content-disposition/0.5.4"
+  }
+}

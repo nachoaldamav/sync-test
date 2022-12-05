@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "raw-body",
+    "version": "2.5.1",
+    "tarball": "https://registry.npmjs.org/raw-body/-/raw-body-2.5.1.tgz",
+    "integrity": "sha512-qqJBtEyVgS0ZmPGdCFPWJ3FreoqvG4MVQln/kCgF7Olq95IbOp0/BWyMwbdtn4VTvkM8Y7khCQ2Xgk/tcrCXig==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/raw-body/2.5.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@types/json5",
+    "version": "0.0.29",
+    "tarball": "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz",
+    "integrity": "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@types/json5/0.0.29"
+  }
+}

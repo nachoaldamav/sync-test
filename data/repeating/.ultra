@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "repeating",
+    "version": "2.0.1",
+    "tarball": "https://registry.npmjs.org/repeating/-/repeating-2.0.1.tgz",
+    "integrity": "sha512-ZqtSMuVybkISo2OWvqvm7iHSWngvdaW3IpsT9/uP8v4gMi591LY6h35wdOfvQdWCKFWZWm2Y1Opp4kV7vQKT6A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/repeating/2.0.1"
+  },
+  "is-finite": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/is-finite/1.1.0",
+      "tarball": "https://registry.npmjs.org/is-finite/-/is-finite-1.1.0.tgz",
+      "integrity": "sha512-cdyMtqX/BOqqNBBiKlIVkytNHm49MtMlYyn1zxzvJKWmFMlGzm+ry5BBfYyeY9YmNKbRSo/o7OX9w9ale0wg3w==",
+      "optional": false
+    }
+  }
+}

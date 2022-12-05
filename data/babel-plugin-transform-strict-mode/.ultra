@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-strict-mode",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-strict-mode/-/babel-plugin-transform-strict-mode-6.24.1.tgz",
+    "integrity": "sha512-j3KtSpjyLSJxNoCDrhwiJad8kw0gJ9REGj8/CqL0HeRyLnvUNYV9zcqluL6QJSXh3nfsLEmSLvwRfGzrgR96Pw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-strict-mode/6.24.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-utf8",
+    "version": "0.2.1",
+    "tarball": "https://registry.npmjs.org/is-utf8/-/is-utf8-0.2.1.tgz",
+    "integrity": "sha512-rMYPYvCzsXywIsldgLaSoPlw5PfoB/ssr7hY4pLfcodrA5M/eArza1a9VmTiNIBNMjOGr1Ow9mTyU2o69U6U9Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-utf8/0.2.1"
+  }
+}

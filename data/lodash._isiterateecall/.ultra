@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash._isiterateecall",
+    "version": "3.0.9",
+    "tarball": "https://registry.npmjs.org/lodash._isiterateecall/-/lodash._isiterateecall-3.0.9.tgz",
+    "integrity": "sha512-De+ZbrMu6eThFti/CSzhRvTKMgQToLxbij58LMfM8JnYDNSOjkjTCIaa8ixglOeGh2nyPlakbt5bJWJ7gvpYlQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash._isiterateecall/3.0.9"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "clean-webpack-plugin",
+    "version": "4.0.0",
+    "tarball": "https://registry.npmjs.org/clean-webpack-plugin/-/clean-webpack-plugin-4.0.0.tgz",
+    "integrity": "sha512-WuWE1nyTNAyW5T7oNyys2EN0cfP2fdRxhxnIQWiAp0bMabPdHhoGxM8A6YL2GhqwgrPnnaemVE7nv5XJ2Fhh2w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clean-webpack-plugin/4.0.0"
+  },
+  "del": {
+    "4.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/del/4.1.1",
+      "tarball": "https://registry.npmjs.org/del/-/del-4.1.1.tgz",
+      "integrity": "sha512-QwGuEUouP2kVwQenAsOof5Fv8K9t3D8Ca8NxcXKrIpEHjTXK5J2nXLdP+ALI1cgv8wj7KuwBhTwBkOZSJKM5XQ==",
+      "optional": false
+    }
+  }
+}

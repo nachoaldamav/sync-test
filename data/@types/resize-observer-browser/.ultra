@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@types/resize-observer-browser",
+    "version": "0.1.7",
+    "tarball": "https://registry.npmjs.org/@types/resize-observer-browser/-/resize-observer-browser-0.1.7.tgz",
+    "integrity": "sha512-G9eN0Sn0ii9PWQ3Vl72jDPgeJwRWhv2Qk/nQkJuWmRmOB4HX3/BhD5SE1dZs/hzPZL/WKnvF0RHdTSG54QJFyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@types/resize-observer-browser/0.1.7"
+  }
+}

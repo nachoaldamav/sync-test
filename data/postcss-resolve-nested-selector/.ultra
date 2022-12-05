@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-resolve-nested-selector",
+    "version": "0.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-resolve-nested-selector/-/postcss-resolve-nested-selector-0.1.1.tgz",
+    "integrity": "sha512-HvExULSwLqHLgUy1rl3ANIqCsvMS0WHss2UOsXhXnQaZ9VCc2oBvIpXrl00IUFT5ZDITME0o6oiXeiHr2SAIfw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-resolve-nested-selector/0.1.1"
+  }
+}

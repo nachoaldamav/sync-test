@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "isomorphic-fetch",
+    "version": "2.2.1",
+    "tarball": "https://registry.npmjs.org/isomorphic-fetch/-/isomorphic-fetch-2.2.1.tgz",
+    "integrity": "sha512-9c4TNAKYXM5PRyVcwUZrF3W09nQ+sO7+jydgs4ZGW9dhsLG2VOlISJABombdQqQRXCwuYG3sYV/puGf5rp0qmA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/isomorphic-fetch/2.2.1"
+  },
+  "node-fetch": {
+    "1.7.3": {
+      "path": "/home/nachoaldama/.ultra-cache/node-fetch/1.7.3",
+      "tarball": "https://registry.npmjs.org/node-fetch/-/node-fetch-1.7.3.tgz",
+      "integrity": "sha512-NhZ4CsKx7cYm2vSrBAr2PvFOe6sWDf0UYLRqA6svUYg7+/TSfVAu49jYC4BvQ4Sms9SZgdqGBgroqfDhJdTyKQ==",
+      "optional": false
+    }
+  }
+}

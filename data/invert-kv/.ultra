@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "invert-kv",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/invert-kv/-/invert-kv-1.0.0.tgz",
+    "integrity": "sha512-xgs2NH9AE66ucSq4cNG1nhSFghr5l6tdL15Pk+jl46bmmBapgoaY/AacXyaDznAqmGL99TiLSQgO/XazFSKYeQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/invert-kv/1.0.0"
+  }
+}

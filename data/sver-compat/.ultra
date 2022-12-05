@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "sver-compat",
+    "version": "1.5.0",
+    "tarball": "https://registry.npmjs.org/sver-compat/-/sver-compat-1.5.0.tgz",
+    "integrity": "sha512-aFTHfmjwizMNlNE6dsGmoAM4lHjL0CyiobWaFiXWSlD7cIxshW422Nb8KbXCmR6z+0ZEPY+daXJrDyh/vuwTyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/sver-compat/1.5.0"
+  }
+}

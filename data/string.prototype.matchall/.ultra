@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "string.prototype.matchall",
+    "version": "4.0.8",
+    "tarball": "https://registry.npmjs.org/string.prototype.matchall/-/string.prototype.matchall-4.0.8.tgz",
+    "integrity": "sha512-6zOCOcJ+RJAQshcTvXPHoxoQGONa3e/Lqx90wUA+wEzX78sg5Bo+1tQo4N0pohS0erG9qtCqJDjNCQBjeWVxyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/string.prototype.matchall/4.0.8"
+  }
+}

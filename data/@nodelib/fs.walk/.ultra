@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "@nodelib/fs.walk",
+    "version": "1.2.8",
+    "tarball": "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz",
+    "integrity": "sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@nodelib/fs.walk/1.2.8"
+  },
+  "@nodelib/fs.scandir": {
+    "2.1.5": {
+      "path": "/home/nachoaldama/.ultra-cache/@nodelib/fs.scandir/2.1.5",
+      "tarball": "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz",
+      "integrity": "sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==",
+      "optional": false
+    }
+  },
+  "fastq": {
+    "1.13.0": {
+      "path": "/home/nachoaldama/.ultra-cache/fastq/1.13.0",
+      "tarball": "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz",
+      "integrity": "sha512-YpkpUnK8od0o1hmeSc7UUs/eB/vIPWJYjKck2QKIzAf71Vm1AAQ3EbuZB3g2JIy+pg+ERD0vqI79KyZiB2e2Nw==",
+      "optional": false
+    }
+  }
+}

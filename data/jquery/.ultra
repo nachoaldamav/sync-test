@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "jquery",
+    "version": "3.6.1",
+    "tarball": "https://registry.npmjs.org/jquery/-/jquery-3.6.1.tgz",
+    "integrity": "sha512-opJeO4nCucVnsjiXOE+/PcCgYw9Gwpvs/a6B1LL/lQhwWwpbVEVYDZ1FokFr8PRc7ghYlrFPuyHuiiDNTQxmcw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/jquery/3.6.1"
+  }
+}

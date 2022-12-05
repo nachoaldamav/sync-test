@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "es-shim-unscopables",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/es-shim-unscopables/-/es-shim-unscopables-1.0.0.tgz",
+    "integrity": "sha512-Jm6GPcCdC30eMLbZ2x8z2WuRwAws3zTBBKuusffYVUrNj/GVSUAZ+xKMaUpfNDR5IbyNA5LJbaecoUVbmUcB1w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/es-shim-unscopables/1.0.0"
+  }
+}

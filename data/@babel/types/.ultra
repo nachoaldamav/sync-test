@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "@babel/types",
+    "version": "7.20.2",
+    "tarball": "https://registry.npmjs.org/@babel/types/-/types-7.20.2.tgz",
+    "integrity": "sha512-FnnvsNWgZCr232sqtXggapvlkk/tuwR/qhGzcmxI0GXLCjmPYQPzio2FbdlWuY6y1sHFfQKk+rRbUZ9VStQMog==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/types/7.20.2"
+  },
+  "@babel/helper-string-parser": {
+    "7.19.4": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-string-parser/7.19.4",
+      "tarball": "https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.19.4.tgz",
+      "integrity": "sha512-nHtDoQcuqFmwYNYPz3Rah5ph2p8PFeFCsZk9A/48dPc/rGocJ5J3hAAZ7pb76VWX3fZKu+uEr/FhH5jLx7umrw==",
+      "optional": false
+    }
+  },
+  "to-fast-properties": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/to-fast-properties/2.0.0",
+      "tarball": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-2.0.0.tgz",
+      "integrity": "sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==",
+      "optional": false
+    }
+  }
+}

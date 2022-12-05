@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "uniqs",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/uniqs/-/uniqs-2.0.0.tgz",
+    "integrity": "sha512-mZdDpf3vBV5Efh29kMw5tXoup/buMgxLzOt/XKFKcVmi+15ManNQWr6HfZ2aiZTYlYixbdNJ0KFmIZIv52tHSQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/uniqs/2.0.0"
+  }
+}

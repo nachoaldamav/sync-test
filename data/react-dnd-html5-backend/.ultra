@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "react-dnd-html5-backend",
+    "version": "16.0.1",
+    "tarball": "https://registry.npmjs.org/react-dnd-html5-backend/-/react-dnd-html5-backend-16.0.1.tgz",
+    "integrity": "sha512-Wu3dw5aDJmOGw8WjH1I1/yTH+vlXEL4vmjk5p+MHxP8HuHJS1lAGeIdG/hze1AvNeXWo/JgULV87LyQOr+r5jw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-dnd-html5-backend/16.0.1"
+  },
+  "dnd-core": {
+    "16.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/dnd-core/16.0.1",
+      "tarball": "https://registry.npmjs.org/dnd-core/-/dnd-core-16.0.1.tgz",
+      "integrity": "sha512-HK294sl7tbw6F6IeuK16YSBUoorvHpY8RHO+9yFfaJyCDVb6n7PRcezrOEOa2SBCqiYpemh5Jx20ZcjKdFAVng==",
+      "optional": false
+    }
+  }
+}

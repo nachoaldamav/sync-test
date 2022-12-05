@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "needle",
+    "version": "3.2.0",
+    "tarball": "https://registry.npmjs.org/needle/-/needle-3.2.0.tgz",
+    "integrity": "sha512-oUvzXnyLiVyVGoianLijF9O/RecZUf7TkBfimjGrLM4eQhXyeJwM6GeAWccwfQ9aa4gMCZKqhAOuLaMIcQxajQ==",
+    "optional": true,
+    "path": "/home/nachoaldama/.ultra-cache/needle/3.2.0"
+  },
+  "iconv-lite": {
+    "0.6.3": {
+      "path": "/home/nachoaldama/.ultra-cache/iconv-lite/0.6.3",
+      "tarball": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.3.tgz",
+      "integrity": "sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==",
+      "optional": false
+    }
+  },
+  "sax": {
+    "1.2.4": {
+      "path": "/home/nachoaldama/.ultra-cache/sax/1.2.4",
+      "tarball": "https://registry.npmjs.org/sax/-/sax-1.2.4.tgz",
+      "integrity": "sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==",
+      "optional": false
+    }
+  }
+}

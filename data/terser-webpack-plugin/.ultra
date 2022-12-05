@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "terser-webpack-plugin",
+    "version": "5.3.6",
+    "tarball": "https://registry.npmjs.org/terser-webpack-plugin/-/terser-webpack-plugin-5.3.6.tgz",
+    "integrity": "sha512-kfLFk+PoLUQIbLmB1+PZDMRSZS99Mp+/MHqDNmMA6tOItzRt+Npe3E+fsMs5mfcM0wCtrrdU387UnV+vnSffXQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/terser-webpack-plugin/5.3.6"
+  },
+  "jest-worker": {
+    "27.5.1": {
+      "path": "/home/nachoaldama/.ultra-cache/jest-worker/27.5.1",
+      "tarball": "https://registry.npmjs.org/jest-worker/-/jest-worker-27.5.1.tgz",
+      "integrity": "sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==",
+      "optional": false
+    }
+  },
+  "terser": {
+    "5.16.1": {
+      "path": "/home/nachoaldama/.ultra-cache/terser/5.16.1",
+      "tarball": "https://registry.npmjs.org/terser/-/terser-5.16.1.tgz",
+      "integrity": "sha512-xvQfyfA1ayT0qdK47zskQgRZeWLoOQ8JQ6mIgRGVNwZKdQMU+5FkCBjmv4QjcrTzyZquRw2FVtlJSRUmMKQslw==",
+      "optional": false
+    }
+  }
+}

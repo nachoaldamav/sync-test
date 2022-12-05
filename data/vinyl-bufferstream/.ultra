@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "vinyl-bufferstream",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/vinyl-bufferstream/-/vinyl-bufferstream-1.0.1.tgz",
+    "integrity": "sha512-yCCIoTf26Q9SQ0L9cDSavSL7Nt6wgQw8TU1B/bb9b9Z4A3XTypXCGdc5BvXl4ObQvVY8JrDkFnWa/UqBqwM2IA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/vinyl-bufferstream/1.0.1"
+  },
+  "bufferstreams": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/bufferstreams/1.0.1",
+      "tarball": "https://registry.npmjs.org/bufferstreams/-/bufferstreams-1.0.1.tgz",
+      "integrity": "sha512-LZmiIfQprMLS6/k42w/PTc7awhU8AdNNcUerxTgr01WlP9agR2SgMv0wjlYYFD6eDOi8WvofrTX8RayjR/AeUQ==",
+      "optional": false
+    }
+  }
+}

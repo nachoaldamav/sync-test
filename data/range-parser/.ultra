@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "range-parser",
+    "version": "1.2.1",
+    "tarball": "https://registry.npmjs.org/range-parser/-/range-parser-1.2.1.tgz",
+    "integrity": "sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/range-parser/1.2.1"
+  }
+}

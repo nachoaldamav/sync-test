@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "extglob",
+    "version": "2.0.4",
+    "tarball": "https://registry.npmjs.org/extglob/-/extglob-2.0.4.tgz",
+    "integrity": "sha512-Nmb6QXkELsuBr24CJSkilo6UHHgbekK5UiZgfE6UHD3Eb27YC6oD+bhcT+tJ6cl8dmsgdQxnWlcry8ksBIBLpw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/extglob/2.0.4"
+  },
+  "expand-brackets": {
+    "2.1.4": {
+      "path": "/home/nachoaldama/.ultra-cache/expand-brackets/2.1.4",
+      "tarball": "https://registry.npmjs.org/expand-brackets/-/expand-brackets-2.1.4.tgz",
+      "integrity": "sha512-w/ozOKR9Obk3qoWeY/WDi6MFta9AoMR+zud60mdnbniMcBxRuFJyDt2LdX/14A1UABeqk+Uk+LDfUpvoGKppZA==",
+      "optional": false
+    }
+  }
+}

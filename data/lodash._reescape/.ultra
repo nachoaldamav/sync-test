@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash._reescape",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz",
+    "integrity": "sha512-Sjlavm5y+FUVIF3vF3B75GyXrzsfYV8Dlv3L4mEpuB9leg8N6yf/7rU06iLPx9fY0Mv3khVp9p7Dx0mGV6V5OQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash._reescape/3.0.0"
+  }
+}

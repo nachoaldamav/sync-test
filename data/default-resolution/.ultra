@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "default-resolution",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/default-resolution/-/default-resolution-2.0.0.tgz",
+    "integrity": "sha512-2xaP6GiwVwOEbXCGoJ4ufgC76m8cj805jrghScewJC2ZDsb9U0b4BIrba+xt/Uytyd0HvQ6+WymSRTfnYj59GQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/default-resolution/2.0.0"
+  }
+}

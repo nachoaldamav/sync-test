@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "process",
+    "version": "0.11.10",
+    "tarball": "https://registry.npmjs.org/process/-/process-0.11.10.tgz",
+    "integrity": "sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/process/0.11.10"
+  }
+}

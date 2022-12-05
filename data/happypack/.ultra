@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "happypack",
+    "version": "5.0.1",
+    "tarball": "https://registry.npmjs.org/happypack/-/happypack-5.0.1.tgz",
+    "integrity": "sha512-AzXVxLzX0mtv0T40Kic72rfcGK4Y2b/cDdtcyw+e+V/13ozl7x0+EZ4hvrL1rJ8MoefR9+FfUJQsK2irH0GWOw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/happypack/5.0.1"
+  },
+  "async": {
+    "1.5.0": {
+      "path": "/home/nachoaldama/.ultra-cache/async/1.5.0",
+      "tarball": "https://registry.npmjs.org/async/-/async-1.5.0.tgz",
+      "integrity": "sha512-m9nMwCtLtz29LszVaR0q/FqsJWkrxVoQL95p7JU0us7qUx4WEcySQgwvuneYSGVyvirl81gz7agflS3V1yW14g==",
+      "optional": false
+    }
+  },
+  "loader-utils": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/loader-utils/1.1.0",
+      "tarball": "https://registry.npmjs.org/loader-utils/-/loader-utils-1.1.0.tgz",
+      "integrity": "sha512-gkD9aSEG9UGglyPcDJqY9YBTUtCLKaBK6ihD2VP1d1X60lTfFspNZNulGBBbUZLkPygy4LySYHyxBpq+VhjObQ==",
+      "optional": false
+    }
+  },
+  "serialize-error": {
+    "2.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/serialize-error/2.1.0",
+      "tarball": "https://registry.npmjs.org/serialize-error/-/serialize-error-2.1.0.tgz",
+      "integrity": "sha512-ghgmKt5o4Tly5yEG/UJp8qTd0AN7Xalw4XBtDEKP655B699qMEtra1WlXeE6WIvdEG481JvRxULKsInq/iNysw==",
+      "optional": false
+    }
+  }
+}

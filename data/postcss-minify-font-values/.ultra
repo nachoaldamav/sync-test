@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-minify-font-values",
+    "version": "5.1.0",
+    "tarball": "https://registry.npmjs.org/postcss-minify-font-values/-/postcss-minify-font-values-5.1.0.tgz",
+    "integrity": "sha512-el3mYTgx13ZAPPirSVsHqFzl+BBBDrXvbySvPGFnQcTI4iNslrPaFq4muTkLZmKlGk4gyFAYUBMH30+HurREyA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-minify-font-values/5.1.0"
+  }
+}

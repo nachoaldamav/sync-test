@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "wrap-ansi",
+    "version": "2.1.0",
+    "tarball": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz",
+    "integrity": "sha512-vAaEaDM946gbNpH5pLVNR+vX2ht6n0Bt3GXwVB1AuAqZosOvHNF3P7wDnh8KLkSqgUh0uh77le7Owgoz+Z9XBw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/wrap-ansi/2.1.0"
+  }
+}

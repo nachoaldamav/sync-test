@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "jsx-ast-utils",
+    "version": "3.3.3",
+    "tarball": "https://registry.npmjs.org/jsx-ast-utils/-/jsx-ast-utils-3.3.3.tgz",
+    "integrity": "sha512-fYQHZTZ8jSfmWZ0iyzfwiU4WDX4HpHbMCZ3gPlWYiCl3BoeOTsqKBqnTVfH2rYT7eP5c3sVbeSPHnnJOaTrWiw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/jsx-ast-utils/3.3.3"
+  }
+}

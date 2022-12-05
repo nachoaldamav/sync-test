@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "es-to-primitive",
+    "version": "1.2.1",
+    "tarball": "https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.1.tgz",
+    "integrity": "sha512-QCOllgZJtaUo9miYBcLChTUaHNjJF3PYs1VidD7AwiEj1kYxKeQTctLAezAOH5ZKRH0g2IgPn6KwB4IT8iRpvA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/es-to-primitive/1.2.1"
+  },
+  "is-date-object": {
+    "1.0.5": {
+      "path": "/home/nachoaldama/.ultra-cache/is-date-object/1.0.5",
+      "tarball": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz",
+      "integrity": "sha512-9YQaSxsAiSwcvS33MBk3wTCVnWK+HhF8VZR2jRxehM16QcVOdHqPn4VPHmRK4lSr38n9JriurInLcP90xsYNfQ==",
+      "optional": false
+    }
+  },
+  "is-symbol": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/is-symbol/1.0.4",
+      "tarball": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz",
+      "integrity": "sha512-C/CPBqKWnvdcxqIARxyOh4v1UUEOCHpgDa0WYgpKDFMszcrPcffg5uhwSgPCLD2WWxmq6isisz87tzT01tuGhg==",
+      "optional": false
+    }
+  }
+}

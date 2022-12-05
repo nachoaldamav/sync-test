@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "async",
+    "version": "1.5.0",
+    "tarball": "https://registry.npmjs.org/async/-/async-1.5.0.tgz",
+    "integrity": "sha512-m9nMwCtLtz29LszVaR0q/FqsJWkrxVoQL95p7JU0us7qUx4WEcySQgwvuneYSGVyvirl81gz7agflS3V1yW14g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/async/1.5.0"
+  }
+}

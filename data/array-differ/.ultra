@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "array-differ",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/array-differ/-/array-differ-1.0.0.tgz",
+    "integrity": "sha512-LeZY+DZDRnvP7eMuQ6LHfCzUGxAAIViUBliK24P3hWXL6y4SortgR6Nim6xrkfSLlmH0+k+9NYNwVC2s53ZrYQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/array-differ/1.0.0"
+  }
+}

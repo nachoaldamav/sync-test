@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "asap",
+    "version": "2.0.6",
+    "tarball": "https://registry.npmjs.org/asap/-/asap-2.0.6.tgz",
+    "integrity": "sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/asap/2.0.6"
+  }
+}

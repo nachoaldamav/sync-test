@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "@babel/helper-module-transforms",
+    "version": "7.20.2",
+    "tarball": "https://registry.npmjs.org/@babel/helper-module-transforms/-/helper-module-transforms-7.20.2.tgz",
+    "integrity": "sha512-zvBKyJXRbmK07XhMuujYoJ48B5yvvmM6+wcpv6Ivj4Yg6qO7NOZOSnvZN9CRl1zz1Z4cKf8YejmCMh8clOoOeA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/helper-module-transforms/7.20.2"
+  },
+  "@babel/helper-simple-access": {
+    "7.20.2": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-simple-access/7.20.2",
+      "tarball": "https://registry.npmjs.org/@babel/helper-simple-access/-/helper-simple-access-7.20.2.tgz",
+      "integrity": "sha512-+0woI/WPq59IrqDYbVGfshjT5Dmk/nnbdpcF8SnMhhXObpTq2KNBdLFRFrkVdbDOyUmHBCxzm5FHV1rACIkIbA==",
+      "optional": false
+    }
+  },
+  "@babel/helper-validator-identifier": {
+    "7.19.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/helper-validator-identifier/7.19.1",
+      "tarball": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.19.1.tgz",
+      "integrity": "sha512-awrNfaMtnHUr653GgGEs++LlAvW6w+DcPrOliSMXWCKo597CwL5Acf/wWdNkf/tfEQE3mjkeD1YOVZOUV/od1w==",
+      "optional": false
+    }
+  }
+}

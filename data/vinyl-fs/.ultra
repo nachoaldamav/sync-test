@@ -1,0 +1,106 @@
+{
+  "ultra:self": {
+    "name": "vinyl-fs",
+    "version": "3.0.3",
+    "tarball": "https://registry.npmjs.org/vinyl-fs/-/vinyl-fs-3.0.3.tgz",
+    "integrity": "sha512-vIu34EkyNyJxmP0jscNzWBSygh7VWhqun6RmqVfXePrOwi9lhvRs//dOaGOTRUQr4tx7/zd26Tk5WeSVZitgng==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/vinyl-fs/3.0.3"
+  },
+  "fs-mkdirp-stream": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/fs-mkdirp-stream/1.0.0",
+      "tarball": "https://registry.npmjs.org/fs-mkdirp-stream/-/fs-mkdirp-stream-1.0.0.tgz",
+      "integrity": "sha512-+vSd9frUnapVC2RZYfL3FCB2p3g4TBhaUmrsWlSudsGdnxIuUvBB2QM1VZeBtc49QFwrp+wQLrDs3+xxDgI5gQ==",
+      "optional": false
+    }
+  },
+  "glob-stream": {
+    "6.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/glob-stream/6.1.0",
+      "tarball": "https://registry.npmjs.org/glob-stream/-/glob-stream-6.1.0.tgz",
+      "integrity": "sha512-uMbLGAP3S2aDOHUDfdoYcdIePUCfysbAd0IAoWVZbeGU/oNQ8asHVSshLDJUPWxfzj8zsCG7/XeHPHTtow0nsw==",
+      "optional": false
+    }
+  },
+  "is-valid-glob": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/is-valid-glob/1.0.0",
+      "tarball": "https://registry.npmjs.org/is-valid-glob/-/is-valid-glob-1.0.0.tgz",
+      "integrity": "sha512-AhiROmoEFDSsjx8hW+5sGwgKVIORcXnrlAx/R0ZSeaPw70Vw0CqkGBBhHGL58Uox2eXnU1AnvXJl1XlyedO5bA==",
+      "optional": false
+    }
+  },
+  "lazystream": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/lazystream/1.0.1",
+      "tarball": "https://registry.npmjs.org/lazystream/-/lazystream-1.0.1.tgz",
+      "integrity": "sha512-b94GiNHQNy6JNTrt5w6zNyffMrNkXZb3KTkCZJb2V1xaEGCk093vkZ2jk3tpaeP33/OiXC+WvK9AxUebnf5nbw==",
+      "optional": false
+    }
+  },
+  "lead": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lead/1.0.0",
+      "tarball": "https://registry.npmjs.org/lead/-/lead-1.0.0.tgz",
+      "integrity": "sha512-IpSVCk9AYvLHo5ctcIXxOBpMWUe+4TKN3VPWAKUbJikkmsGp0VrSM8IttVc32D6J4WUsiPE6aEFRNmIoF/gdow==",
+      "optional": false
+    }
+  },
+  "pumpify": {
+    "1.5.1": {
+      "path": "/home/nachoaldama/.ultra-cache/pumpify/1.5.1",
+      "tarball": "https://registry.npmjs.org/pumpify/-/pumpify-1.5.1.tgz",
+      "integrity": "sha512-oClZI37HvuUJJxSKKrC17bZ9Cu0ZYhEAGPsPUy9KlMUmv9dKX2o77RUmq7f3XjIxbwyGwYzbzQ1L2Ks8sIradQ==",
+      "optional": false
+    }
+  },
+  "remove-bom-buffer": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/remove-bom-buffer/3.0.0",
+      "tarball": "https://registry.npmjs.org/remove-bom-buffer/-/remove-bom-buffer-3.0.0.tgz",
+      "integrity": "sha512-8v2rWhaakv18qcvNeli2mZ/TMTL2nEyAKRvzo1WtnZBl15SHyEhrCu2/xKlJyUFKHiHgfXIyuY6g2dObJJycXQ==",
+      "optional": false
+    }
+  },
+  "remove-bom-stream": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/remove-bom-stream/1.2.0",
+      "tarball": "https://registry.npmjs.org/remove-bom-stream/-/remove-bom-stream-1.2.0.tgz",
+      "integrity": "sha512-wigO8/O08XHb8YPzpDDT+QmRANfW6vLqxfaXm1YXhnFf3AkSLyjfG3GEFg4McZkmgL7KvCj5u2KczkvSP6NfHA==",
+      "optional": false
+    }
+  },
+  "resolve-options": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/resolve-options/1.1.0",
+      "tarball": "https://registry.npmjs.org/resolve-options/-/resolve-options-1.1.0.tgz",
+      "integrity": "sha512-NYDgziiroVeDC29xq7bp/CacZERYsA9bXYd1ZmcJlF3BcrZv5pTb4NG7SjdyKDnXZ84aC4vo2u6sNKIA1LCu/A==",
+      "optional": false
+    }
+  },
+  "to-through": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/to-through/2.0.0",
+      "tarball": "https://registry.npmjs.org/to-through/-/to-through-2.0.0.tgz",
+      "integrity": "sha512-+QIz37Ly7acM4EMdw2PRN389OneM5+d844tirkGp4dPKzI5OE72V9OsbFp+CIYJDahZ41ZV05hNtcPAQUAm9/Q==",
+      "optional": false
+    }
+  },
+  "value-or-function": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/value-or-function/3.0.0",
+      "tarball": "https://registry.npmjs.org/value-or-function/-/value-or-function-3.0.0.tgz",
+      "integrity": "sha512-jdBB2FrWvQC/pnPtIqcLsMaQgjhdb6B7tk1MMyTKapox+tQZbdRP4uLxu/JY0t7fbfDCUMnuelzEYv5GsxHhdg==",
+      "optional": false
+    }
+  },
+  "vinyl-sourcemap": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/vinyl-sourcemap/1.1.0",
+      "tarball": "https://registry.npmjs.org/vinyl-sourcemap/-/vinyl-sourcemap-1.1.0.tgz",
+      "integrity": "sha512-NiibMgt6VJGJmyw7vtzhctDcfKch4e4n9TBeoWlirb7FMg9/1Ov9k+A5ZRAtywBpRPiyECvQRQllYM8dECegVA==",
+      "optional": false
+    }
+  }
+}

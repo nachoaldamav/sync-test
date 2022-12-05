@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-normalize-unicode",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-unicode/-/postcss-normalize-unicode-5.1.1.tgz",
+    "integrity": "sha512-qnCL5jzkNUmKVhZoENp1mJiGNPcsJCs1aaRmURmeJGES23Z/ajaln+EPTD+rBeNkSryI+2WTdW+lwcVdOikrpA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-normalize-unicode/5.1.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "replace-ext",
+    "version": "0.0.1",
+    "tarball": "https://registry.npmjs.org/replace-ext/-/replace-ext-0.0.1.tgz",
+    "integrity": "sha512-AFBWBy9EVRTa/LhEcG8QDP3FvpwZqmvN2QFDuJswFeaVhWnZMp8q3E6Zd90SR04PlIwfGdyVjNyLPyen/ek5CQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/replace-ext/0.0.1"
+  }
+}

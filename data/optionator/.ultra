@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "optionator",
+    "version": "0.9.1",
+    "tarball": "https://registry.npmjs.org/optionator/-/optionator-0.9.1.tgz",
+    "integrity": "sha512-74RlY5FCnhq4jRxVUPKDaRwrVNXMqsGsiW6AJw4XK8hmtm10wC0ypZBLw5IIp85NZMr91+qd1RvvENwg7jjRFw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/optionator/0.9.1"
+  },
+  "deep-is": {
+    "0.1.4": {
+      "path": "/home/nachoaldama/.ultra-cache/deep-is/0.1.4",
+      "tarball": "https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz",
+      "integrity": "sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==",
+      "optional": false
+    }
+  },
+  "fast-levenshtein": {
+    "2.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/fast-levenshtein/2.0.6",
+      "tarball": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz",
+      "integrity": "sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==",
+      "optional": false
+    }
+  },
+  "word-wrap": {
+    "1.2.3": {
+      "path": "/home/nachoaldama/.ultra-cache/word-wrap/1.2.3",
+      "tarball": "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.3.tgz",
+      "integrity": "sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==",
+      "optional": false
+    }
+  }
+}

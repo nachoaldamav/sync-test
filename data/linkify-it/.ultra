@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "linkify-it",
+    "version": "2.2.0",
+    "tarball": "https://registry.npmjs.org/linkify-it/-/linkify-it-2.2.0.tgz",
+    "integrity": "sha512-GnAl/knGn+i1U/wjBz3akz2stz+HrHLsxMwHQGofCDfPvlf+gDKN58UtfmUquTY4/MXeE2x7k19KQmeoZi94Iw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/linkify-it/2.2.0"
+  }
+}

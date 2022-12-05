@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "fresh",
+    "version": "0.5.2",
+    "tarball": "https://registry.npmjs.org/fresh/-/fresh-0.5.2.tgz",
+    "integrity": "sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/fresh/0.5.2"
+  }
+}

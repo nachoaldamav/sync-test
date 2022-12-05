@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-classes",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-classes/-/babel-plugin-transform-es2015-classes-6.24.1.tgz",
+    "integrity": "sha512-5Dy7ZbRinGrNtmWpquZKZ3EGY8sDgIVB4CU8Om8q8tnMLrD/m94cKglVcHps0BCTdZ0TJeeAWOq2TK9MIY6cag==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-classes/6.24.1"
+  },
+  "babel-helper-define-map": {
+    "6.26.0": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-define-map/6.26.0",
+      "tarball": "https://registry.npmjs.org/babel-helper-define-map/-/babel-helper-define-map-6.26.0.tgz",
+      "integrity": "sha512-bHkmjcC9lM1kmZcVpA5t2om2nzT/xiZpo6TJq7UlZ3wqKfzia4veeXbIhKvJXAMzhhEBd3cR1IElL5AenWEUpA==",
+      "optional": false
+    }
+  },
+  "babel-helper-optimise-call-expression": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-optimise-call-expression/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-helper-optimise-call-expression/-/babel-helper-optimise-call-expression-6.24.1.tgz",
+      "integrity": "sha512-Op9IhEaxhbRT8MDXx2iNuMgciu2V8lDvYCNQbDGjdBNCjaMvyLf4wl4A3b8IgndCyQF8TwfgsQ8T3VD8aX1/pA==",
+      "optional": false
+    }
+  }
+}

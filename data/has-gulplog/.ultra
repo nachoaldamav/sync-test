@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "has-gulplog",
+    "version": "0.1.0",
+    "tarball": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-0.1.0.tgz",
+    "integrity": "sha512-+F4GzLjwHNNDEAJW2DC1xXfEoPkRDmUdJ7CBYw4MpqtDwOnqdImJl7GWlpqx+Wko6//J8uKTnIe4wZSv7yCqmw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/has-gulplog/0.1.0"
+  },
+  "sparkles": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/sparkles/1.0.1",
+      "tarball": "https://registry.npmjs.org/sparkles/-/sparkles-1.0.1.tgz",
+      "integrity": "sha512-dSO0DDYUahUt/0/pD/Is3VIm5TGJjludZ0HVymmhYF6eNA53PVLhnUk0znSYbH8IYBuJdCE+1luR22jNLMaQdw==",
+      "optional": false
+    }
+  }
+}

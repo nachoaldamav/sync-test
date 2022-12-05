@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/ast",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/ast/-/ast-1.11.1.tgz",
+    "integrity": "sha512-ukBh14qFLjxTQNTXocdyksN5QdM28S1CxHt2rdskFyL+xFV7VremuBLVbmCePj+URalXBENx/9Lm7lnhihtCSw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/ast/1.11.1"
+  },
+  "@webassemblyjs/helper-numbers": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-numbers/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-numbers/-/helper-numbers-1.11.1.tgz",
+      "integrity": "sha512-vDkbxiB8zfnPdNK9Rajcey5C0w+QJugEglN0of+kmO8l7lDb77AnlKYQF7aarZuCrv+l0UvqL+68gSDr3k9LPQ==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "globby",
+    "version": "11.1.0",
+    "tarball": "https://registry.npmjs.org/globby/-/globby-11.1.0.tgz",
+    "integrity": "sha512-jhIXaOzy1sb8IyocaruWSn1TjmnBVs8Ayhcy83rmxNJ8q2uWKCAj3CnJY+KpGSXCueAPc0i05kVvVKtP1t9S3g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/globby/11.1.0"
+  },
+  "array-union": {
+    "2.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/array-union/2.1.0",
+      "tarball": "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz",
+      "integrity": "sha512-HGyxoOTYUyCM6stUe6EJgnd4EoewAI7zMdfqO+kGjnlZmBDz/cR5pf8r/cR4Wq60sL/p0IkcjUEEPwS3GFrIyw==",
+      "optional": false
+    }
+  },
+  "dir-glob": {
+    "3.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/dir-glob/3.0.1",
+      "tarball": "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.1.tgz",
+      "integrity": "sha512-WkrWp9GR4KXfKGYzOLmTuGVi1UWFfws377n9cc55/tb6DuqyF6pcQ5AbiHEshaDpY9v6oaSr2XCDidGmMwdzIA==",
+      "optional": false
+    }
+  },
+  "merge2": {
+    "1.4.1": {
+      "path": "/home/nachoaldama/.ultra-cache/merge2/1.4.1",
+      "tarball": "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz",
+      "integrity": "sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==",
+      "optional": false
+    }
+  },
+  "slash": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/slash/3.0.0",
+      "tarball": "https://registry.npmjs.org/slash/-/slash-3.0.0.tgz",
+      "integrity": "sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==",
+      "optional": false
+    }
+  }
+}

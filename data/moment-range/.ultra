@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "moment-range",
+    "version": "4.0.2",
+    "tarball": "https://registry.npmjs.org/moment-range/-/moment-range-4.0.2.tgz",
+    "integrity": "sha512-n8sceWwSTjmz++nFHzeNEUsYtDqjgXgcOBzsHi+BoXQU2FW+eU92LUaK8gqOiSu5PG57Q9sYj1Fz4LRDj4FtKA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/moment-range/4.0.2"
+  }
+}

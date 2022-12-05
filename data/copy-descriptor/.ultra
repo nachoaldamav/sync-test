@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "copy-descriptor",
+    "version": "0.1.1",
+    "tarball": "https://registry.npmjs.org/copy-descriptor/-/copy-descriptor-0.1.1.tgz",
+    "integrity": "sha512-XgZ0pFcakEUlbwQEVNg3+QAis1FyTL3Qel9FYy8pSkQqoG3PNoT0bOCQtOXcOkur21r2Eq2kI+IE+gsmAEVlYw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/copy-descriptor/0.1.1"
+  }
+}

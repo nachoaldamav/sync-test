@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "postcss-merge-idents",
+    "version": "2.1.7",
+    "tarball": "https://registry.npmjs.org/postcss-merge-idents/-/postcss-merge-idents-2.1.7.tgz",
+    "integrity": "sha512-9DHmfCZ7/hNHhIKnNkz4CU0ejtGen5BbTRJc13Z2uHfCedeCUsK2WEQoAJRBL+phs68iWK6Qf8Jze71anuysWA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-merge-idents/2.1.7"
+  },
+  "postcss": {
+    "5.2.18": {
+      "path": "/home/nachoaldama/.ultra-cache/postcss/5.2.18",
+      "tarball": "https://registry.npmjs.org/postcss/-/postcss-5.2.18.tgz",
+      "integrity": "sha512-zrUjRRe1bpXKsX1qAJNJjqZViErVuyEkMTRrwu4ud4sbTtIBRmtaYDrHmcGgmrbsW3MHfmtIf+vJumgQn+PrXg==",
+      "optional": false
+    }
+  },
+  "postcss-value-parser": {
+    "3.3.1": {
+      "path": "/home/nachoaldama/.ultra-cache/postcss-value-parser/3.3.1",
+      "tarball": "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz",
+      "integrity": "sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==",
+      "optional": false
+    }
+  }
+}

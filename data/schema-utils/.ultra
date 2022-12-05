@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "schema-utils",
+    "version": "2.7.1",
+    "tarball": "https://registry.npmjs.org/schema-utils/-/schema-utils-2.7.1.tgz",
+    "integrity": "sha512-SHiNtMOUGWBQJwzISiVYKu82GiV4QYGePp3odlY1tuKO7gPtphAT5R/py0fA6xtbgLL/RvtJZnU9b8s0F1q0Xg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/schema-utils/2.7.1"
+  },
+  "ajv-keywords": {
+    "3.5.2": {
+      "path": "/home/nachoaldama/.ultra-cache/ajv-keywords/3.5.2",
+      "tarball": "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-3.5.2.tgz",
+      "integrity": "sha512-5p6WTN0DdTGVQk6VjcEju19IgaHudalcfabD7yhDGeA6bcQnmL+CpveLJq/3hvfwd1aof6L386Ougkx6RfyMIQ==",
+      "optional": false
+    }
+  }
+}

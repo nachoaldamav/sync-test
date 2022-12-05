@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/template",
+    "version": "7.18.10",
+    "tarball": "https://registry.npmjs.org/@babel/template/-/template-7.18.10.tgz",
+    "integrity": "sha512-TI+rCtooWHr3QJ27kJxfjutghu44DLnasDMwpDqCXVTal9RLp3RSYNh4NdBrRP2cQAoG9A8juOQl6P6oZG4JxA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/template/7.18.10"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "ultra:self": {
+    "name": "express",
+    "version": "4.18.2",
+    "tarball": "https://registry.npmjs.org/express/-/express-4.18.2.tgz",
+    "integrity": "sha512-5/PsL6iGPdfQ/lKM1UuielYgv3BUoJfz1aUwU9vHZ+J7gyvwdQXFEBIEIaxeGf0GIcreATNyBExtalisDbuMqQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/express/4.18.2"
+  },
+  "accepts": {
+    "1.3.8": {
+      "path": "/home/nachoaldama/.ultra-cache/accepts/1.3.8",
+      "tarball": "https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz",
+      "integrity": "sha512-PYAthTa2m2VKxuvSD3DPC/Gy+U+sOA1LAuT8mkmRuvw+NACSaeXEQ+NHcVF7rONl6qcaxV3Uuemwawk+7+SJLw==",
+      "optional": false
+    }
+  },
+  "array-flatten": {
+    "1.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/array-flatten/1.1.1",
+      "tarball": "https://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz",
+      "integrity": "sha512-PCVAQswWemu6UdxsDFFX/+gVeYqKAod3D3UVm91jHwynguOwAvYPhx8nNlM++NqRcK6CxxpUafjmhIdKiHibqg==",
+      "optional": false
+    }
+  },
+  "content-disposition": {
+    "0.5.4": {
+      "path": "/home/nachoaldama/.ultra-cache/content-disposition/0.5.4",
+      "tarball": "https://registry.npmjs.org/content-disposition/-/content-disposition-0.5.4.tgz",
+      "integrity": "sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ==",
+      "optional": false
+    }
+  },
+  "content-type": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/content-type/1.0.4",
+      "tarball": "https://registry.npmjs.org/content-type/-/content-type-1.0.4.tgz",
+      "integrity": "sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA==",
+      "optional": false
+    }
+  },
+  "cookie": {
+    "0.5.0": {
+      "path": "/home/nachoaldama/.ultra-cache/cookie/0.5.0",
+      "tarball": "https://registry.npmjs.org/cookie/-/cookie-0.5.0.tgz",
+      "integrity": "sha512-YZ3GUyn/o8gfKJlnlX7g7xq4gyO6OSuhGPKaaGssGB2qgDUS0gPgtTvoyZLTt9Ab6dC4hfc9dV5arkvc/OCmrw==",
+      "optional": false
+    }
+  },
+  "cookie-signature": {
+    "1.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/cookie-signature/1.0.6",
+      "tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz",
+      "integrity": "sha512-QADzlaHc8icV8I7vbaJXJwod9HWYp8uCqf1xa4OfNu1T7JVxQIrUgOWtHdNDtPiywmFbiS12VjotIXLrKM3orQ==",
+      "optional": false
+    }
+  },
+  "depd": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/depd/2.0.0",
+      "tarball": "https://registry.npmjs.org/depd/-/depd-2.0.0.tgz",
+      "integrity": "sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==",
+      "optional": false
+    }
+  },
+  "escape-html": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/escape-html/1.0.3",
+      "tarball": "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz",
+      "integrity": "sha512-NiSupZ4OeuGwr68lGIeym/ksIZMJodUGOSCZ/FSnTxcrekbvqrgdUxlJOMpijaKZVjAJrWrGs/6Jy8OMuyj9ow==",
+      "optional": false
+    }
+  },
+  "etag": {
+    "1.8.1": {
+      "path": "/home/nachoaldama/.ultra-cache/etag/1.8.1",
+      "tarball": "https://registry.npmjs.org/etag/-/etag-1.8.1.tgz",
+      "integrity": "sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==",
+      "optional": false
+    }
+  },
+  "finalhandler": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/finalhandler/1.2.0",
+      "tarball": "https://registry.npmjs.org/finalhandler/-/finalhandler-1.2.0.tgz",
+      "integrity": "sha512-5uXcUVftlQMFnWC9qu/svkWv3GTd2PfUhK/3PLkYNAe7FbqJMt3515HaxE6eRL74GdsriiwujiawdaB1BpEISg==",
+      "optional": false
+    }
+  },
+  "fresh": {
+    "0.5.2": {
+      "path": "/home/nachoaldama/.ultra-cache/fresh/0.5.2",
+      "tarball": "https://registry.npmjs.org/fresh/-/fresh-0.5.2.tgz",
+      "integrity": "sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==",
+      "optional": false
+    }
+  },
+  "http-errors": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/http-errors/2.0.0",
+      "tarball": "https://registry.npmjs.org/http-errors/-/http-errors-2.0.0.tgz",
+      "integrity": "sha512-FtwrG/euBzaEjYeRqOgly7G0qviiXoJWnvEH2Z1plBdXgbyjv34pHTSb9zoeHMyDy33+DWy5Wt9Wo+TURtOYSQ==",
+      "optional": false
+    }
+  },
+  "merge-descriptors": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/merge-descriptors/1.0.1",
+      "tarball": "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.1.tgz",
+      "integrity": "sha512-cCi6g3/Zr1iqQi6ySbseM1Xvooa98N0w31jzUYrXPX2xqObmFGHJ0tQ5u74H3mVh7wLouTseZyYIq39g8cNp1w==",
+      "optional": false
+    }
+  },
+  "methods": {
+    "1.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/methods/1.1.2",
+      "tarball": "https://registry.npmjs.org/methods/-/methods-1.1.2.tgz",
+      "integrity": "sha512-iclAHeNqNm68zFtnZ0e+1L2yUIdvzNoauKU4WBA3VvH/vPFieF7qfRlwUZU+DA9P9bPXIS90ulxoUoCH23sV2w==",
+      "optional": false
+    }
+  },
+  "parseurl": {
+    "1.3.3": {
+      "path": "/home/nachoaldama/.ultra-cache/parseurl/1.3.3",
+      "tarball": "https://registry.npmjs.org/parseurl/-/parseurl-1.3.3.tgz",
+      "integrity": "sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ==",
+      "optional": false
+    }
+  },
+  "path-to-regexp": {
+    "0.1.7": {
+      "path": "/home/nachoaldama/.ultra-cache/path-to-regexp/0.1.7",
+      "tarball": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-0.1.7.tgz",
+      "integrity": "sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ==",
+      "optional": false
+    }
+  },
+  "proxy-addr": {
+    "2.0.7": {
+      "path": "/home/nachoaldama/.ultra-cache/proxy-addr/2.0.7",
+      "tarball": "https://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.7.tgz",
+      "integrity": "sha512-llQsMLSUDUPT44jdrU/O37qlnifitDP+ZwrmmZcoSKyLKvtZxpyV0n2/bD/N4tBAAZ/gJEdZU7KMraoK1+XYAg==",
+      "optional": false
+    }
+  },
+  "qs": {
+    "6.11.0": {
+      "path": "/home/nachoaldama/.ultra-cache/qs/6.11.0",
+      "tarball": "https://registry.npmjs.org/qs/-/qs-6.11.0.tgz",
+      "integrity": "sha512-MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==",
+      "optional": false
+    }
+  },
+  "range-parser": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/range-parser/1.2.1",
+      "tarball": "https://registry.npmjs.org/range-parser/-/range-parser-1.2.1.tgz",
+      "integrity": "sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==",
+      "optional": false
+    }
+  },
+  "send": {
+    "0.18.0": {
+      "path": "/home/nachoaldama/.ultra-cache/send/0.18.0",
+      "tarball": "https://registry.npmjs.org/send/-/send-0.18.0.tgz",
+      "integrity": "sha512-qqWzuOjSFOuqPjFe4NOsMLafToQQwBSOEpS+FwEt3A2V3vKubTquT3vmLTQpFgMXp8AlFWFuP1qKaJZOtPpVXg==",
+      "optional": false
+    }
+  },
+  "serve-static": {
+    "1.15.0": {
+      "path": "/home/nachoaldama/.ultra-cache/serve-static/1.15.0",
+      "tarball": "https://registry.npmjs.org/serve-static/-/serve-static-1.15.0.tgz",
+      "integrity": "sha512-XGuRDNjXUijsUL0vl6nSD7cwURuzEgglbOaFuZM9g3kwDXOWVTck0jLzjPzGD+TazWbboZYu52/9/XPdUgne9g==",
+      "optional": false
+    }
+  },
+  "setprototypeof": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/setprototypeof/1.2.0",
+      "tarball": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.2.0.tgz",
+      "integrity": "sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==",
+      "optional": false
+    }
+  },
+  "statuses": {
+    "2.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/statuses/2.0.1",
+      "tarball": "https://registry.npmjs.org/statuses/-/statuses-2.0.1.tgz",
+      "integrity": "sha512-RwNA9Z/7PrK06rYLIzFMlaF+l73iwpzsqRIFgbMLbTcLD6cOao82TaWefPXQvB2fOC4AjuYSEndS7N/mTCbkdQ==",
+      "optional": false
+    }
+  },
+  "type-is": {
+    "1.6.18": {
+      "path": "/home/nachoaldama/.ultra-cache/type-is/1.6.18",
+      "tarball": "https://registry.npmjs.org/type-is/-/type-is-1.6.18.tgz",
+      "integrity": "sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g==",
+      "optional": false
+    }
+  },
+  "utils-merge": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/utils-merge/1.0.1",
+      "tarball": "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz",
+      "integrity": "sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==",
+      "optional": false
+    }
+  },
+  "vary": {
+    "1.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/vary/1.1.2",
+      "tarball": "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz",
+      "integrity": "sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==",
+      "optional": false
+    }
+  }
+}

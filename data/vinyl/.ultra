@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "vinyl",
+    "version": "0.5.3",
+    "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-0.5.3.tgz",
+    "integrity": "sha512-P5zdf3WB9uzr7IFoVQ2wZTmUwHL8cMZWJGzLBNCHNZ3NB6HTMsYABtt7z8tAGIINLXyAob9B9a1yzVGMFOYKEA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/vinyl/0.5.3"
+  },
+  "clone-stats": {
+    "0.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/clone-stats/0.0.1",
+      "tarball": "https://registry.npmjs.org/clone-stats/-/clone-stats-0.0.1.tgz",
+      "integrity": "sha512-dhUqc57gSMCo6TX85FLfe51eC/s+Im2MLkAgJwfaRRexR2tA4dd3eLEW4L6efzHc2iNorrRRXITifnDLlRrhaA==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "browserslist",
+    "version": "4.21.4",
+    "tarball": "https://registry.npmjs.org/browserslist/-/browserslist-4.21.4.tgz",
+    "integrity": "sha512-CBHJJdDmgjl3daYjN5Cp5kbTf1mUhZoS+beLklHIvkOWscs83YAhLlF3Wsh/lciQYAcbBJgTOD44VtG31ZM4Hw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/browserslist/4.21.4"
+  },
+  "electron-to-chromium": {
+    "1.4.284": {
+      "path": "/home/nachoaldama/.ultra-cache/electron-to-chromium/1.4.284",
+      "tarball": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz",
+      "integrity": "sha512-M8WEXFuKXMYMVr45fo8mq0wUrrJHheiKZf6BArTKk9ZBYCKJEOU5H8cdWgDT+qCVZf7Na4lVUaZsA+h6uA9+PA==",
+      "optional": false
+    }
+  },
+  "node-releases": {
+    "2.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/node-releases/2.0.6",
+      "tarball": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.6.tgz",
+      "integrity": "sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==",
+      "optional": false
+    }
+  },
+  "update-browserslist-db": {
+    "1.0.10": {
+      "path": "/home/nachoaldama/.ultra-cache/update-browserslist-db/1.0.10",
+      "tarball": "https://registry.npmjs.org/update-browserslist-db/-/update-browserslist-db-1.0.10.tgz",
+      "integrity": "sha512-OztqDenkfFkbSG+tRxBeAnCVPckDBcvibKd35yDONx6OU8N7sqgwc7rCbkJ/WcYtVRZ4ba68d6byhC21GFh7sQ==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-module-resolver",
+    "version": "4.1.0",
+    "tarball": "https://registry.npmjs.org/babel-plugin-module-resolver/-/babel-plugin-module-resolver-4.1.0.tgz",
+    "integrity": "sha512-MlX10UDheRr3lb3P0WcaIdtCSRlxdQsB1sBqL7W0raF070bGl1HQQq5K3T2vf2XAYie+ww+5AKC/WrkjRO2knA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-module-resolver/4.1.0"
+  },
+  "find-babel-config": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/find-babel-config/1.2.0",
+      "tarball": "https://registry.npmjs.org/find-babel-config/-/find-babel-config-1.2.0.tgz",
+      "integrity": "sha512-jB2CHJeqy6a820ssiqwrKMeyC6nNdmrcgkKWJWmpoxpE8RKciYJXCcXRq1h2AzCo5I5BJeN2tkGEO3hLTuePRA==",
+      "optional": false
+    }
+  },
+  "glob": {
+    "7.2.3": {
+      "path": "/home/nachoaldama/.ultra-cache/glob/7.2.3",
+      "tarball": "https://registry.npmjs.org/glob/-/glob-7.2.3.tgz",
+      "integrity": "sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==",
+      "optional": false
+    }
+  },
+  "pkg-up": {
+    "3.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/pkg-up/3.1.0",
+      "tarball": "https://registry.npmjs.org/pkg-up/-/pkg-up-3.1.0.tgz",
+      "integrity": "sha512-nDywThFk1i4BQK4twPQ6TA4RT8bDY96yeuCVBWL3ePARCiEKDRSrNGbFIgUJpLp+XeIR65v8ra7WuJOFUBtkMA==",
+      "optional": false
+    }
+  },
+  "reselect": {
+    "4.1.7": {
+      "path": "/home/nachoaldama/.ultra-cache/reselect/4.1.7",
+      "tarball": "https://registry.npmjs.org/reselect/-/reselect-4.1.7.tgz",
+      "integrity": "sha512-Zu1xbUt3/OPwsXL46hvOOoQrap2azE7ZQbokq61BQfiXvhewsKDwhMeZjTX9sX0nvw1t/U5Audyn1I9P/m9z0A==",
+      "optional": false
+    }
+  }
+}

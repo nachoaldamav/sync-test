@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-syntax-decorators",
+    "version": "6.13.0",
+    "tarball": "https://registry.npmjs.org/babel-plugin-syntax-decorators/-/babel-plugin-syntax-decorators-6.13.0.tgz",
+    "integrity": "sha512-AWj19x2aDm8qFQ5O2JcD6pwJDW1YdcnO+1b81t7gxrGjz5VHiUqeYWAR4h7zueWMalRelrQDXprv2FrY1dbpbw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-syntax-decorators/6.13.0"
+  }
+}

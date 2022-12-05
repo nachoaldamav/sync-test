@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "whet.extend",
+    "version": "0.9.9",
+    "tarball": "https://registry.npmjs.org/whet.extend/-/whet.extend-0.9.9.tgz",
+    "integrity": "sha512-mmIPAft2vTgEILgPeZFqE/wWh24SEsR/k+N9fJ3Jxrz44iDFy9aemCxdksfURSHYFCLmvs/d/7Iso5XjPpNfrA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/whet.extend/0.9.9"
+  }
+}

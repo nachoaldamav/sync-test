@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-merge-rules",
+    "version": "5.1.3",
+    "tarball": "https://registry.npmjs.org/postcss-merge-rules/-/postcss-merge-rules-5.1.3.tgz",
+    "integrity": "sha512-LbLd7uFC00vpOuMvyZop8+vvhnfRGpp2S+IMQKeuOZZapPRY4SMq5ErjQeHbHsjCUgJkRNrlU+LmxsKIqPKQlA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-merge-rules/5.1.3"
+  }
+}

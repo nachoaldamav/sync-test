@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "dom-serializer",
+    "version": "1.4.1",
+    "tarball": "https://registry.npmjs.org/dom-serializer/-/dom-serializer-1.4.1.tgz",
+    "integrity": "sha512-VHwB3KfrcOOkelEG2ZOfxqLZdfkil8PtJi4P8N2MMXucZq2yLp75ClViUlOVwyoHEDjYU433Aq+5zWP61+RGag==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/dom-serializer/1.4.1"
+  }
+}

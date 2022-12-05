@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "tsconfig-paths",
+    "version": "3.14.1",
+    "tarball": "https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.14.1.tgz",
+    "integrity": "sha512-fxDhWnFSLt3VuTwtvJt5fpwxBHg5AdKWMsgcPOOIilyjymcYVZoCQF8fvFRezCNfblEXmi+PcM1eYHeOAgXCOQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/tsconfig-paths/3.14.1"
+  },
+  "@types/json5": {
+    "0.0.29": {
+      "path": "/home/nachoaldama/.ultra-cache/@types/json5/0.0.29",
+      "tarball": "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz",
+      "integrity": "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==",
+      "optional": false
+    }
+  },
+  "json5": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/json5/1.0.1",
+      "tarball": "https://registry.npmjs.org/json5/-/json5-1.0.1.tgz",
+      "integrity": "sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==",
+      "optional": false
+    }
+  },
+  "minimist": {
+    "1.2.7": {
+      "path": "/home/nachoaldama/.ultra-cache/minimist/1.2.7",
+      "tarball": "https://registry.npmjs.org/minimist/-/minimist-1.2.7.tgz",
+      "integrity": "sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==",
+      "optional": false
+    }
+  },
+  "strip-bom": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/strip-bom/3.0.0",
+      "tarball": "https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz",
+      "integrity": "sha512-vavAMRXOgBVNF6nyEEmL3DBK19iRpDcoIwW+swQ+CbGiu7lju6t+JklA1MHweoWtadgt4ISVUsXLyDq34ddcwA==",
+      "optional": false
+    }
+  }
+}

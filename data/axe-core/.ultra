@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "axe-core",
+    "version": "4.5.2",
+    "tarball": "https://registry.npmjs.org/axe-core/-/axe-core-4.5.2.tgz",
+    "integrity": "sha512-u2MVsXfew5HBvjsczCv+xlwdNnB1oQR9HlAcsejZttNjKKSkeDNVwB1vMThIUIFI9GoT57Vtk8iQLwqOfAkboA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/axe-core/4.5.2"
+  }
+}

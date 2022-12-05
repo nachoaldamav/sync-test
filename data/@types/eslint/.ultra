@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@types/eslint",
+    "version": "8.4.10",
+    "tarball": "https://registry.npmjs.org/@types/eslint/-/eslint-8.4.10.tgz",
+    "integrity": "sha512-Sl/HOqN8NKPmhWo2VBEPm0nvHnu2LL3v9vKo8MEq0EtbJ4eVzGPl41VNPvn5E1i5poMk4/XD8UriLHpJvEP/Nw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@types/eslint/8.4.10"
+  }
+}

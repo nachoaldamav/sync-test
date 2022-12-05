@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/helper-wasm-section",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.11.1.tgz",
+    "integrity": "sha512-10P9No29rYX1j7F3EVPX3JvGPQPae+AomuSTPiF9eBQeChHI6iqjMIwR9JmOJXwpnn/oVGDk7I5IlskuMwU/pg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-wasm-section/1.11.1"
+  }
+}

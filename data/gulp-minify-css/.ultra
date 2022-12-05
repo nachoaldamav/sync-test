@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "gulp-minify-css",
+    "version": "1.2.4",
+    "tarball": "https://registry.npmjs.org/gulp-minify-css/-/gulp-minify-css-1.2.4.tgz",
+    "integrity": "sha512-byBqFQM/HrZoUVYihu/03iYH4m7U5TjSGhr6/7JvpMHh9+woewsCtEp6Noif2VXB+idDoM4ECd9sw+St+KFqsg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-minify-css/1.2.4"
+  },
+  "clean-css": {
+    "3.4.28": {
+      "path": "/home/nachoaldama/.ultra-cache/clean-css/3.4.28",
+      "tarball": "https://registry.npmjs.org/clean-css/-/clean-css-3.4.28.tgz",
+      "integrity": "sha512-aTWyttSdI2mYi07kWqHi24NUU9YlELFKGOAgFzZjDN1064DMAOy2FBuoyGmkKRlXkbpXd0EVHmiVkbKhKoirTw==",
+      "optional": false
+    }
+  },
+  "readable-stream": {
+    "2.3.7": {
+      "path": "/home/nachoaldama/.ultra-cache/readable-stream/2.3.7",
+      "tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.7.tgz",
+      "integrity": "sha512-Ebho8K4jIbHAxnuxi7o42OrZgF/ZTNcsZj6nRKyUmkhLFq8CHItp/fy6hQZuZmP/n3yZ9VBUbp4zz/mX8hmYPw==",
+      "optional": false
+    }
+  },
+  "vinyl-bufferstream": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/vinyl-bufferstream/1.0.1",
+      "tarball": "https://registry.npmjs.org/vinyl-bufferstream/-/vinyl-bufferstream-1.0.1.tgz",
+      "integrity": "sha512-yCCIoTf26Q9SQ0L9cDSavSL7Nt6wgQw8TU1B/bb9b9Z4A3XTypXCGdc5BvXl4ObQvVY8JrDkFnWa/UqBqwM2IA==",
+      "optional": false
+    }
+  },
+  "vinyl-sourcemaps-apply": {
+    "0.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/vinyl-sourcemaps-apply/0.2.1",
+      "tarball": "https://registry.npmjs.org/vinyl-sourcemaps-apply/-/vinyl-sourcemaps-apply-0.2.1.tgz",
+      "integrity": "sha512-+oDh3KYZBoZC8hfocrbrxbLUeaYtQK7J5WU5Br9VqWqmCll3tFJqKp97GC9GmMsVIL0qnx2DgEDVxdo5EZ5sSw==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "has-values",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/has-values/-/has-values-1.0.0.tgz",
+    "integrity": "sha512-ODYZC64uqzmtfGMEAX/FvZiRyWLpAC3vYnNunURUnkGVTS+mI0smVsWaPydRBsE3g+ok7h960jChO8mFcWlHaQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/has-values/1.0.0"
+  }
+}

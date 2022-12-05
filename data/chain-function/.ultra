@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "chain-function",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/chain-function/-/chain-function-1.0.1.tgz",
+    "integrity": "sha512-SxltgMwL9uCko5/ZCLiyG2B7R9fY4pDZUw7hJ4MhirdjBLosoDqkWABi3XMucddHdLiFJMb7PD2MZifZriuMTg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/chain-function/1.0.1"
+  }
+}

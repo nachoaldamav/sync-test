@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "fready",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/fready/-/fready-1.0.0.tgz",
+    "integrity": "sha512-XyjZLP1efOKfAgAGQL8vNtqFPx9UlqP9K/8DQKOkwGihN3WsoaEdqSk3+mwMLRpl+7s0RFoOtJA94dsGuFQeqw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/fready/1.0.0"
+  }
+}

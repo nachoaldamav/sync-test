@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "formidable",
+    "version": "2.0.1",
+    "tarball": "https://registry.npmjs.org/formidable/-/formidable-2.0.1.tgz",
+    "integrity": "sha512-rjTMNbp2BpfQShhFbR3Ruk3qk2y9jKpvMW78nJgx8QKtxjDVrwbZG+wvDOmVbifHyOUOQJXxqEy6r0faRrPzTQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/formidable/2.0.1"
+  },
+  "dezalgo": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/dezalgo/1.0.3",
+      "tarball": "https://registry.npmjs.org/dezalgo/-/dezalgo-1.0.3.tgz",
+      "integrity": "sha512-K7i4zNfT2kgQz3GylDw40ot9GAE47sFZ9EXHFSPP6zONLgH6kWXE0KWJchkbQJLBkRazq4APwZ4OwiFFlT95OQ==",
+      "optional": false
+    }
+  },
+  "hexoid": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/hexoid/1.0.0",
+      "tarball": "https://registry.npmjs.org/hexoid/-/hexoid-1.0.0.tgz",
+      "integrity": "sha512-QFLV0taWQOZtvIRIAdBChesmogZrtuXvVWsFHZTk2SU+anspqZ2vMnoLg7IE1+Uk16N19APic1BuF8bC8c2m5g==",
+      "optional": false
+    }
+  },
+  "qs": {
+    "6.9.3": {
+      "path": "/home/nachoaldama/.ultra-cache/qs/6.9.3",
+      "tarball": "https://registry.npmjs.org/qs/-/qs-6.9.3.tgz",
+      "integrity": "sha512-EbZYNarm6138UKKq46tdx08Yo/q9ZhFoAXAI1meAFd2GtbRDhbZY2WQSICskT0c5q99aFzLG1D4nvTk9tqfXIw==",
+      "optional": false
+    }
+  }
+}

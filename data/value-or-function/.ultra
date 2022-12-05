@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "value-or-function",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/value-or-function/-/value-or-function-3.0.0.tgz",
+    "integrity": "sha512-jdBB2FrWvQC/pnPtIqcLsMaQgjhdb6B7tk1MMyTKapox+tQZbdRP4uLxu/JY0t7fbfDCUMnuelzEYv5GsxHhdg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/value-or-function/3.0.0"
+  }
+}

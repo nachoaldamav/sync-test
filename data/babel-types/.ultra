@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-types",
+    "version": "6.26.0",
+    "tarball": "https://registry.npmjs.org/babel-types/-/babel-types-6.26.0.tgz",
+    "integrity": "sha512-zhe3V/26rCWsEZK8kZN+HaQj5yQ1CilTObixFzKW1UWjqG7618Twz6YEsCnjfg5gBcJh02DrpCkS9h98ZqDY+g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-types/6.26.0"
+  },
+  "to-fast-properties": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/to-fast-properties/1.0.3",
+      "tarball": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-1.0.3.tgz",
+      "integrity": "sha512-lxrWP8ejsq+7E3nNjwYmUBMAgjMTZoTI+sdBOpvNyijeDLa29LUn9QaoXAHv4+Z578hbmHHJKZknzxVtvo77og==",
+      "optional": false
+    }
+  }
+}

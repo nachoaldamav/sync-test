@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "object.fromentries",
+    "version": "2.0.6",
+    "tarball": "https://registry.npmjs.org/object.fromentries/-/object.fromentries-2.0.6.tgz",
+    "integrity": "sha512-VciD13dswC4j1Xt5394WR4MzmAQmlgN72phd/riNp9vtD7tp4QQWJ0R4wvclXcafgcYK8veHRed2W6XeGBvcfg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/object.fromentries/2.0.6"
+  }
+}

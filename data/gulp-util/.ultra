@@ -1,0 +1,138 @@
+{
+  "ultra:self": {
+    "name": "gulp-util",
+    "version": "3.0.8",
+    "tarball": "https://registry.npmjs.org/gulp-util/-/gulp-util-3.0.8.tgz",
+    "integrity": "sha512-q5oWPc12lwSFS9h/4VIjG+1NuNDlJ48ywV2JKItY4Ycc/n1fXJeYPVQsfu5ZrhQi7FGSDBalwUCLar/GyHXKGw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-util/3.0.8"
+  },
+  "array-differ": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/array-differ/1.0.0",
+      "tarball": "https://registry.npmjs.org/array-differ/-/array-differ-1.0.0.tgz",
+      "integrity": "sha512-LeZY+DZDRnvP7eMuQ6LHfCzUGxAAIViUBliK24P3hWXL6y4SortgR6Nim6xrkfSLlmH0+k+9NYNwVC2s53ZrYQ==",
+      "optional": false
+    }
+  },
+  "array-uniq": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/array-uniq/1.0.3",
+      "tarball": "https://registry.npmjs.org/array-uniq/-/array-uniq-1.0.3.tgz",
+      "integrity": "sha512-MNha4BWQ6JbwhFhj03YK552f7cb3AzoE8SzeljgChvL1dl3IcvggXVz1DilzySZkCja+CXuZbdW7yATchWn8/Q==",
+      "optional": false
+    }
+  },
+  "beeper": {
+    "1.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/beeper/1.1.1",
+      "tarball": "https://registry.npmjs.org/beeper/-/beeper-1.1.1.tgz",
+      "integrity": "sha512-3vqtKL1N45I5dV0RdssXZG7X6pCqQrWPNOlBPZPrd+QkE2HEhR57Z04m0KtpbsZH73j+a3F8UD1TQnn+ExTvIA==",
+      "optional": false
+    }
+  },
+  "chalk": {
+    "1.1.3": {
+      "path": "/home/nachoaldama/.ultra-cache/chalk/1.1.3",
+      "tarball": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz",
+      "integrity": "sha512-U3lRVLMSlsCfjqYPbLyVv11M9CPW4I728d6TCKMAOJueEeB9/8o+eSsMnxPJD+Q+K909sdESg7C+tIkoH6on1A==",
+      "optional": false
+    }
+  },
+  "dateformat": {
+    "2.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/dateformat/2.2.0",
+      "tarball": "https://registry.npmjs.org/dateformat/-/dateformat-2.2.0.tgz",
+      "integrity": "sha512-GODcnWq3YGoTnygPfi02ygEiRxqUxpJwuRHjdhJYuxpcZmDq4rjBiXYmbCCzStxo176ixfLT6i4NPwQooRySnw==",
+      "optional": false
+    }
+  },
+  "fancy-log": {
+    "1.3.3": {
+      "path": "/home/nachoaldama/.ultra-cache/fancy-log/1.3.3",
+      "tarball": "https://registry.npmjs.org/fancy-log/-/fancy-log-1.3.3.tgz",
+      "integrity": "sha512-k9oEhlyc0FrVh25qYuSELjr8oxsCoc4/LEZfg2iJJrfEk/tZL9bCoJE47gqAvI2m/AUjluCS4+3I0eTx8n3AEw==",
+      "optional": false
+    }
+  },
+  "gulplog": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/gulplog/1.0.0",
+      "tarball": "https://registry.npmjs.org/gulplog/-/gulplog-1.0.0.tgz",
+      "integrity": "sha512-hm6N8nrm3Y08jXie48jsC55eCZz9mnb4OirAStEk2deqeyhXU3C1otDVh+ccttMuc1sBi6RX6ZJ720hs9RCvgw==",
+      "optional": false
+    }
+  },
+  "has-gulplog": {
+    "0.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/has-gulplog/0.1.0",
+      "tarball": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-0.1.0.tgz",
+      "integrity": "sha512-+F4GzLjwHNNDEAJW2DC1xXfEoPkRDmUdJ7CBYw4MpqtDwOnqdImJl7GWlpqx+Wko6//J8uKTnIe4wZSv7yCqmw==",
+      "optional": false
+    }
+  },
+  "lodash._reescape": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash._reescape/3.0.0",
+      "tarball": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz",
+      "integrity": "sha512-Sjlavm5y+FUVIF3vF3B75GyXrzsfYV8Dlv3L4mEpuB9leg8N6yf/7rU06iLPx9fY0Mv3khVp9p7Dx0mGV6V5OQ==",
+      "optional": false
+    }
+  },
+  "lodash._reevaluate": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash._reevaluate/3.0.0",
+      "tarball": "https://registry.npmjs.org/lodash._reevaluate/-/lodash._reevaluate-3.0.0.tgz",
+      "integrity": "sha512-OrPwdDc65iJiBeUe5n/LIjd7Viy99bKwDdk7Z5ljfZg0uFRFlfQaCy9tZ4YMAag9WAZmlVpe1iZrkIMMSMHD3w==",
+      "optional": false
+    }
+  },
+  "lodash._reinterpolate": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash._reinterpolate/3.0.0",
+      "tarball": "https://registry.npmjs.org/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz",
+      "integrity": "sha512-xYHt68QRoYGjeeM/XOE1uJtvXQAgvszfBhjV4yvsQH0u2i9I6cI6c6/eG4Hh3UAOVn0y/xAXwmTzEay49Q//HA==",
+      "optional": false
+    }
+  },
+  "lodash.template": {
+    "3.6.2": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash.template/3.6.2",
+      "tarball": "https://registry.npmjs.org/lodash.template/-/lodash.template-3.6.2.tgz",
+      "integrity": "sha512-0B4Y53I0OgHUJkt+7RmlDFWKjVAI/YUpWNiL9GQz5ORDr4ttgfQGo+phBWKFLJbBdtOwgMuUkdOHOnPg45jKmQ==",
+      "optional": false
+    }
+  },
+  "multipipe": {
+    "0.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/multipipe/0.1.2",
+      "tarball": "https://registry.npmjs.org/multipipe/-/multipipe-0.1.2.tgz",
+      "integrity": "sha512-7ZxrUybYv9NonoXgwoOqtStIu18D1c3eFZj27hqgf5kBrBF8Q+tE8V0MW8dKM5QLkQPh1JhhbKgHLY9kifov4Q==",
+      "optional": false
+    }
+  },
+  "object-assign": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/object-assign/3.0.0",
+      "tarball": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz",
+      "integrity": "sha512-jHP15vXVGeVh1HuaA2wY6lxk+whK/x4KBG88VXeRma7CCun7iGD5qPc4eYykQ9sdQvg8jkwFKsSxHln2ybW3xQ==",
+      "optional": false
+    }
+  },
+  "replace-ext": {
+    "0.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/replace-ext/0.0.1",
+      "tarball": "https://registry.npmjs.org/replace-ext/-/replace-ext-0.0.1.tgz",
+      "integrity": "sha512-AFBWBy9EVRTa/LhEcG8QDP3FvpwZqmvN2QFDuJswFeaVhWnZMp8q3E6Zd90SR04PlIwfGdyVjNyLPyen/ek5CQ==",
+      "optional": false
+    }
+  },
+  "vinyl": {
+    "0.5.3": {
+      "path": "/home/nachoaldama/.ultra-cache/vinyl/0.5.3",
+      "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-0.5.3.tgz",
+      "integrity": "sha512-P5zdf3WB9uzr7IFoVQ2wZTmUwHL8cMZWJGzLBNCHNZ3NB6HTMsYABtt7z8tAGIINLXyAob9B9a1yzVGMFOYKEA==",
+      "optional": false
+    }
+  }
+}

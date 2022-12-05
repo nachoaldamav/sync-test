@@ -1,0 +1,24 @@
+{
+  "name": "fready",
+  "version": "1.0.0",
+  "description": "A minimalistic API for DOMContentLoaded",
+  "main": "fready.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxkfranz/fready.git"
+  },
+  "keywords": [
+    "domcontentloaded",
+    "ready",
+    "load"
+  ],
+  "author": "Max Franz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxkfranz/fready/issues"
+  },
+  "homepage": "https://github.com/maxkfranz/fready#readme"
+}

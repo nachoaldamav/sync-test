@@ -1,0 +1,50 @@
+{
+  "ultra:self": {
+    "name": "react-transition-group",
+    "version": "1.2.1",
+    "tarball": "https://registry.npmjs.org/react-transition-group/-/react-transition-group-1.2.1.tgz",
+    "integrity": "sha512-CWaL3laCmgAFdxdKbhhps+c0HRGF4c+hdM4H23+FI1QBNUyx/AMeIJGWorehPNSaKnQNOAxL7PQmqMu78CDj3Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-transition-group/1.2.1"
+  },
+  "chain-function": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/chain-function/1.0.1",
+      "tarball": "https://registry.npmjs.org/chain-function/-/chain-function-1.0.1.tgz",
+      "integrity": "sha512-SxltgMwL9uCko5/ZCLiyG2B7R9fY4pDZUw7hJ4MhirdjBLosoDqkWABi3XMucddHdLiFJMb7PD2MZifZriuMTg==",
+      "optional": false
+    }
+  },
+  "dom-helpers": {
+    "3.4.0": {
+      "path": "/home/nachoaldama/.ultra-cache/dom-helpers/3.4.0",
+      "tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-3.4.0.tgz",
+      "integrity": "sha512-LnuPJ+dwqKDIyotW1VzmOZ5TONUN7CwkCR5hrgawTUbkBGYdeoNLZo6nNfGkCrjtE1nXXaj7iMMpDa8/d9WoIA==",
+      "optional": false
+    }
+  },
+  "react": {
+    "16.14.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react/16.14.0",
+      "tarball": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",
+      "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",
+      "optional": false
+    }
+  },
+  "react-dom": {
+    "16.14.0": {
+      "path": "/home/nachoaldama/.ultra-cache/react-dom/16.14.0",
+      "tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz",
+      "integrity": "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==",
+      "optional": false
+    }
+  },
+  "warning": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/warning/3.0.0",
+      "tarball": "https://registry.npmjs.org/warning/-/warning-3.0.0.tgz",
+      "integrity": "sha512-jMBt6pUrKn5I+OGgtQ4YZLdhIeJmObddh6CsibPxyQ5yPZm1XExSyzC1LCNX7BzhxWgiHmizBWJTHJIjMjTQYQ==",
+      "optional": false
+    }
+  }
+}

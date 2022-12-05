@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "text-table",
+    "version": "0.2.0",
+    "tarball": "https://registry.npmjs.org/text-table/-/text-table-0.2.0.tgz",
+    "integrity": "sha512-N+8UisAXDGk8PFXP4HAzVR9nbfmVJ3zYLAWiTIoqC5v5isinhr+r5uaO8+7r3BMfuNIufIsA7RdpVgacC2cSpw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/text-table/0.2.0"
+  }
+}

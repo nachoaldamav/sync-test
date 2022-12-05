@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "picocolors",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz",
+    "integrity": "sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/picocolors/1.0.0"
+  }
+}

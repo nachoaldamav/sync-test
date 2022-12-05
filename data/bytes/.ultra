@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "bytes",
+    "version": "3.1.2",
+    "tarball": "https://registry.npmjs.org/bytes/-/bytes-3.1.2.tgz",
+    "integrity": "sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/bytes/3.1.2"
+  }
+}

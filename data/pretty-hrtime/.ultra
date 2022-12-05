@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "pretty-hrtime",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz",
+    "integrity": "sha512-66hKPCr+72mlfiSjlEB1+45IjXSqvVAIy6mocupoww4tBFE9R9IhwwUGoI4G++Tc9Aq+2rxOt0RFU6gPcrte0A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/pretty-hrtime/1.0.3"
+  }
+}

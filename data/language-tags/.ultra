@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "language-tags",
+    "version": "1.0.5",
+    "tarball": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.5.tgz",
+    "integrity": "sha512-qJhlO9cGXi6hBGKoxEG/sKZDAHD5Hnu9Hs4WbOY3pCWXDhw0N8x1NenNzm2EnNLkLkk7J2SdxAkDSbb6ftT+UQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/language-tags/1.0.5"
+  },
+  "language-subtag-registry": {
+    "0.3.22": {
+      "path": "/home/nachoaldama/.ultra-cache/language-subtag-registry/0.3.22",
+      "tarball": "https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.22.tgz",
+      "integrity": "sha512-tN0MCzyWnoz/4nHS6uxdlFWoUZT7ABptwKPQ52Ea7URk6vll88bWBVhodtnlfEuCcKWNGoc+uGbw1cwa9IKh/w==",
+      "optional": false
+    }
+  }
+}

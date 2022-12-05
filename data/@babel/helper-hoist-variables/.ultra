@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/helper-hoist-variables",
+    "version": "7.18.6",
+    "tarball": "https://registry.npmjs.org/@babel/helper-hoist-variables/-/helper-hoist-variables-7.18.6.tgz",
+    "integrity": "sha512-UlJQPkFqFULIcyW5sbzgbkxn2FKRgwWiRexcuaR8RNJRy8+LLveqPjwZV/bwrLZCN0eUHD/x8D0heK1ozuoo6Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/helper-hoist-variables/7.18.6"
+  }
+}

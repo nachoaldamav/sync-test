@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "resize-observer-polyfill",
+    "version": "1.5.1",
+    "tarball": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz",
+    "integrity": "sha512-LwZrotdHOo12nQuZlHEmtuXdqGoOD0OhaxopaNFxWzInpEgaLWoVuAMbTzixuosCx2nEG58ngzW3vxdWoxIgdg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/resize-observer-polyfill/1.5.1"
+  }
+}

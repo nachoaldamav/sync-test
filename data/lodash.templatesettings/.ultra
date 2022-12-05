@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash.templatesettings",
+    "version": "3.1.1",
+    "tarball": "https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-3.1.1.tgz",
+    "integrity": "sha512-TcrlEr31tDYnWkHFWDCV3dHYroKEXpJZ2YJYvJdhN+y4AkWMDZ5I4I8XDtUKqSAyG81N7w+I1mFEJtcED+tGqQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash.templatesettings/3.1.1"
+  }
+}

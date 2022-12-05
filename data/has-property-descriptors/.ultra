@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "has-property-descriptors",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/has-property-descriptors/-/has-property-descriptors-1.0.0.tgz",
+    "integrity": "sha512-62DVLZGoiEBDHQyqG4w9xCuZ7eJEwNmJRWw2VY84Oedb7WFcA27fiEVe8oUQx9hAUJ4ekurquucTGwsyO1XGdQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/has-property-descriptors/1.0.0"
+  }
+}

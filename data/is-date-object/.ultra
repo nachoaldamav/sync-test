@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-date-object",
+    "version": "1.0.5",
+    "tarball": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz",
+    "integrity": "sha512-9YQaSxsAiSwcvS33MBk3wTCVnWK+HhF8VZR2jRxehM16QcVOdHqPn4VPHmRK4lSr38n9JriurInLcP90xsYNfQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-date-object/1.0.5"
+  }
+}

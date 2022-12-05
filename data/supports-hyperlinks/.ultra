@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "supports-hyperlinks",
+    "version": "2.3.0",
+    "tarball": "https://registry.npmjs.org/supports-hyperlinks/-/supports-hyperlinks-2.3.0.tgz",
+    "integrity": "sha512-RpsAZlpWcDwOPQA22aCH4J0t7L8JmAvsCxfOSEwm7cQs3LshN36QaTkwd70DnBOXDWGssw2eUoc8CaRWT0XunA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/supports-hyperlinks/2.3.0"
+  }
+}

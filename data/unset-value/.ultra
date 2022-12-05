@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "unset-value",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/unset-value/-/unset-value-1.0.0.tgz",
+    "integrity": "sha512-PcA2tsuGSF9cnySLHTLSh2qrQiJ70mn+r+Glzxv2TWZblxsxCC52BDlZoPCsz7STd9pN7EZetkWZBAvk4cgZdQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/unset-value/1.0.0"
+  },
+  "has-value": {
+    "0.3.1": {
+      "path": "/home/nachoaldama/.ultra-cache/has-value/0.3.1",
+      "tarball": "https://registry.npmjs.org/has-value/-/has-value-0.3.1.tgz",
+      "integrity": "sha512-gpG936j8/MzaeID5Yif+577c17TxaDmhuyVgSwtnL/q8UUTySg8Mecb+8Cf1otgLoD7DDH75axp86ER7LFsf3Q==",
+      "optional": false
+    }
+  }
+}

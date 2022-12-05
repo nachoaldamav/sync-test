@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "acorn-import-assertions",
+    "version": "1.8.0",
+    "tarball": "https://registry.npmjs.org/acorn-import-assertions/-/acorn-import-assertions-1.8.0.tgz",
+    "integrity": "sha512-m7VZ3jwz4eK6A4Vtt8Ew1/mNbP24u0FhdyfA7fSvnJR6LMdfOYnmuIrrJAgrYfYJ10F/otaHTtrtrtmHdMNzEw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/acorn-import-assertions/1.8.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "regenerator-runtime",
+    "version": "0.13.11",
+    "tarball": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz",
+    "integrity": "sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/regenerator-runtime/0.13.11"
+  }
+}

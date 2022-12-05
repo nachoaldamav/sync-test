@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash.isarray",
+    "version": "3.0.4",
+    "tarball": "https://registry.npmjs.org/lodash.isarray/-/lodash.isarray-3.0.4.tgz",
+    "integrity": "sha512-JwObCrNJuT0Nnbuecmqr5DgtuBppuCvGD9lxjFpAzwnVtdGoDQ1zig+5W8k5/6Gcn0gZ3936HDAlGd28i7sOGQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash.isarray/3.0.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "pumpify",
+    "version": "1.5.1",
+    "tarball": "https://registry.npmjs.org/pumpify/-/pumpify-1.5.1.tgz",
+    "integrity": "sha512-oClZI37HvuUJJxSKKrC17bZ9Cu0ZYhEAGPsPUy9KlMUmv9dKX2o77RUmq7f3XjIxbwyGwYzbzQ1L2Ks8sIradQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/pumpify/1.5.1"
+  },
+  "duplexify": {
+    "3.7.1": {
+      "path": "/home/nachoaldama/.ultra-cache/duplexify/3.7.1",
+      "tarball": "https://registry.npmjs.org/duplexify/-/duplexify-3.7.1.tgz",
+      "integrity": "sha512-07z8uv2wMyS51kKhD1KsdXJg5WQ6t93RneqRxUHnskXVtlYYkLqM0gqStQZ3pj073g687jPCHrqNfCzawLYh5g==",
+      "optional": false
+    }
+  },
+  "pump": {
+    "2.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/pump/2.0.1",
+      "tarball": "https://registry.npmjs.org/pump/-/pump-2.0.1.tgz",
+      "integrity": "sha512-ruPMNRkN3MHP1cWJc9OWr+T/xDP0jhXYCLfJcBuX54hhfIBnaQmAUMfDcG4DM5UMWByBbJY69QSphm3jtDKIkA==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-modules-local-by-default",
+    "version": "4.0.0",
+    "tarball": "https://registry.npmjs.org/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.0.tgz",
+    "integrity": "sha512-sT7ihtmGSF9yhm6ggikHdV0hlziDTX7oFoXtuVWeDd3hHObNkcHRo9V3yg7vCAY7cONyxJC/XXCmmiHHcvX7bQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-modules-local-by-default/4.0.0"
+  }
+}

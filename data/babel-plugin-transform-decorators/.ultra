@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-decorators",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.24.1.tgz",
+    "integrity": "sha512-skQ2CImwDkCHu0mkWvCOlBCpBIHW4/49IZWVwV4A/EnWjL9bB6UBvLyMNe3Td5XDStSZNhe69j4bfEW8dvUbew==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-decorators/6.24.1"
+  },
+  "babel-helper-explode-class": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-explode-class/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-helper-explode-class/-/babel-helper-explode-class-6.24.1.tgz",
+      "integrity": "sha512-SFbWewr0/0U4AiRzsHqwsbOQeLXVa9T1ELdqEa2efcQB5KopTnunAqoj07TuHlN2lfTQNPGO/rJR4FMln5fVcA==",
+      "optional": false
+    }
+  }
+}

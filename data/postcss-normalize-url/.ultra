@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-normalize-url",
+    "version": "5.1.0",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-url/-/postcss-normalize-url-5.1.0.tgz",
+    "integrity": "sha512-5upGeDO+PVthOxSmds43ZeMeZfKH+/DKgGRD7TElkkyS46JXAUhMzIKiCa7BabPeIy3AQcTkXwVVN7DbqsiCew==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-normalize-url/5.1.0"
+  }
+}

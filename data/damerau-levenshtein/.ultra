@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "damerau-levenshtein",
+    "version": "1.0.8",
+    "tarball": "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz",
+    "integrity": "sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/damerau-levenshtein/1.0.8"
+  }
+}

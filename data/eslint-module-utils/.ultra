@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "eslint-module-utils",
+    "version": "2.7.4",
+    "tarball": "https://registry.npmjs.org/eslint-module-utils/-/eslint-module-utils-2.7.4.tgz",
+    "integrity": "sha512-j4GT+rqzCoRKHwURX7pddtIPGySnX9Si/cgMI5ztrcqOPtk5dDEeZ34CQVPphnqkJytlc97Vuk05Um2mJ3gEQA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/eslint-module-utils/2.7.4"
+  },
+  "debug": {
+    "3.2.7": {
+      "path": "/home/nachoaldama/.ultra-cache/debug/3.2.7",
+      "tarball": "https://registry.npmjs.org/debug/-/debug-3.2.7.tgz",
+      "integrity": "sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ==",
+      "optional": false
+    }
+  }
+}

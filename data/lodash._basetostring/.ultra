@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash._basetostring",
+    "version": "3.0.1",
+    "tarball": "https://registry.npmjs.org/lodash._basetostring/-/lodash._basetostring-3.0.1.tgz",
+    "integrity": "sha512-mTzAr1aNAv/i7W43vOR/uD/aJ4ngbtsRaCubp2BfZhlGU/eORUjg/7F6X0orNMdv33JOrdgGybtvMN/po3EWrA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash._basetostring/3.0.1"
+  }
+}

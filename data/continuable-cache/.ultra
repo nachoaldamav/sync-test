@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "continuable-cache",
+    "version": "0.3.1",
+    "tarball": "https://registry.npmjs.org/continuable-cache/-/continuable-cache-0.3.1.tgz",
+    "integrity": "sha512-TF30kpKhTH8AGCG3dut0rdd/19B7Z+qCnrMoBLpyQu/2drZdNrrpcjPEoJeSVsQM+8KmWG5O56oPDjSSUsuTyA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/continuable-cache/0.3.1"
+  }
+}

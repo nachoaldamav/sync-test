@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "validate-npm-package-license",
+    "version": "3.0.4",
+    "tarball": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz",
+    "integrity": "sha512-DpKm2Ui/xN7/HQKCtpZxoRWBhZ9Z0kqtygG8XCgNQ8ZlDnxuQmWhj566j8fN4Cu3/JmbhsDo7fcAJq4s9h27Ew==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/validate-npm-package-license/3.0.4"
+  },
+  "spdx-correct": {
+    "3.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/spdx-correct/3.1.1",
+      "tarball": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.1.1.tgz",
+      "integrity": "sha512-cOYcUWwhCuHCXi49RhFRCyJEK3iPj1Ziz9DpViV3tbZOwXD49QzIN3MpOLJNxh2qwq2lJJZaKMVw9qNi4jTC0w==",
+      "optional": false
+    }
+  },
+  "spdx-expression-parse": {
+    "3.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/spdx-expression-parse/3.0.1",
+      "tarball": "https://registry.npmjs.org/spdx-expression-parse/-/spdx-expression-parse-3.0.1.tgz",
+      "integrity": "sha512-cbqHunsQWnJNE6KhVSMsMeH5H/L9EpymbzqTQ3uLwNCLZ1Q481oWaofqH7nO6V07xlXwY6PhQdQ2IedWx/ZK4Q==",
+      "optional": false
+    }
+  }
+}

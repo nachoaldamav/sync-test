@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash._root",
+    "version": "3.0.1",
+    "tarball": "https://registry.npmjs.org/lodash._root/-/lodash._root-3.0.1.tgz",
+    "integrity": "sha512-O0pWuFSK6x4EXhM1dhZ8gchNtG7JMqBtrHdoUFUWXD7dJnNSUze1GuyQr5sOs0aCvgGeI3o/OJW8f4ca7FDxmQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash._root/3.0.1"
+  }
+}

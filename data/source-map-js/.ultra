@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "source-map-js",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz",
+    "integrity": "sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/source-map-js/1.0.2"
+  }
+}

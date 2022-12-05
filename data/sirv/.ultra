@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "sirv",
+    "version": "1.0.19",
+    "tarball": "https://registry.npmjs.org/sirv/-/sirv-1.0.19.tgz",
+    "integrity": "sha512-JuLThK3TnZG1TAKDwNIqNq6QA2afLOCcm+iE8D1Kj3GA40pSPsxQjjJl0J8X3tsR7T+CP1GavpzLwYkgVLWrZQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/sirv/1.0.19"
+  },
+  "totalist": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/totalist/1.1.0",
+      "tarball": "https://registry.npmjs.org/totalist/-/totalist-1.1.0.tgz",
+      "integrity": "sha512-gduQwd1rOdDMGxFG1gEvhV88Oirdo2p+KjoYFU7k2g+i7n6AFFbDQ5kMPUsW0pNbfQsB/cwXvT1i4Bue0s9g5g==",
+      "optional": false
+    }
+  }
+}

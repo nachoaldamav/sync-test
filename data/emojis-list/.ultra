@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "emojis-list",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/emojis-list/-/emojis-list-3.0.0.tgz",
+    "integrity": "sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/emojis-list/3.0.0"
+  }
+}

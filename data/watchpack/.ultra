@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "watchpack",
+    "version": "2.4.0",
+    "tarball": "https://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz",
+    "integrity": "sha512-Lcvm7MGST/4fup+ifyKi2hjyIAwcdI4HRgtvTpIUxBRhB+RFtUh8XtDOxUfctVCnhVi+QQj49i91OyvzkJl6cg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/watchpack/2.4.0"
+  }
+}

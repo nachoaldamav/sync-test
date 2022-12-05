@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "fined",
+    "version": "1.2.0",
+    "tarball": "https://registry.npmjs.org/fined/-/fined-1.2.0.tgz",
+    "integrity": "sha512-ZYDqPLGxDkDhDZBjZBb+oD1+j0rA4E0pXY50eplAAOPg2N/gUBSSk5IM1/QhPfyVo19lJ+CvXpqfvk+b2p/8Ng==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/fined/1.2.0"
+  },
+  "expand-tilde": {
+    "2.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/expand-tilde/2.0.2",
+      "tarball": "https://registry.npmjs.org/expand-tilde/-/expand-tilde-2.0.2.tgz",
+      "integrity": "sha512-A5EmesHW6rfnZ9ysHQjPdJRni0SRar0tjtG5MNtm9n5TUvsYU8oozprtRD4AqHxcZWWlVuAmQo2nWKfN9oyjTw==",
+      "optional": false
+    }
+  },
+  "parse-filepath": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/parse-filepath/1.0.2",
+      "tarball": "https://registry.npmjs.org/parse-filepath/-/parse-filepath-1.0.2.tgz",
+      "integrity": "sha512-FwdRXKCohSVeXqwtYonZTXtbGJKrn+HNyWDYVcp5yuJlesTwNH4rsmRZ+GrKAPJ5bLpRxESMeS+Rl0VCHRvB2Q==",
+      "optional": false
+    }
+  }
+}

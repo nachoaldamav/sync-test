@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "repeat-string",
+    "version": "1.6.1",
+    "tarball": "https://registry.npmjs.org/repeat-string/-/repeat-string-1.6.1.tgz",
+    "integrity": "sha512-PV0dzCYDNfRi1jCDbJzpW7jNNDRuCOG/jI5ctQcGKt/clZD+YcPS3yIlWuTJMmESC8aevCFmWJy5wjAFgNqN6w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/repeat-string/1.6.1"
+  }
+}

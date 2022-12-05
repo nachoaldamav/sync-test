@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "detect-file",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/detect-file/-/detect-file-1.0.0.tgz",
+    "integrity": "sha512-DtCOLG98P007x7wiiOmfI0fi3eIKyWiLTGJ2MDnVi/E04lWGbf+JzrRHMm0rgIIZJGtHpKpbVgLWHrv8xXpc3Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/detect-file/1.0.0"
+  }
+}

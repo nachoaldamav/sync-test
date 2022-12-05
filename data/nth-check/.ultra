@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "nth-check",
+    "version": "2.1.1",
+    "tarball": "https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz",
+    "integrity": "sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/nth-check/2.1.1"
+  }
+}

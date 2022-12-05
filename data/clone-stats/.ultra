@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "clone-stats",
+    "version": "0.0.1",
+    "tarball": "https://registry.npmjs.org/clone-stats/-/clone-stats-0.0.1.tgz",
+    "integrity": "sha512-dhUqc57gSMCo6TX85FLfe51eC/s+Im2MLkAgJwfaRRexR2tA4dd3eLEW4L6efzHc2iNorrRRXITifnDLlRrhaA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clone-stats/0.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "css-declaration-sorter",
+    "version": "6.3.1",
+    "tarball": "https://registry.npmjs.org/css-declaration-sorter/-/css-declaration-sorter-6.3.1.tgz",
+    "integrity": "sha512-fBffmak0bPAnyqc/HO8C3n2sHrp9wcqQz6ES9koRF2/mLOVAx9zIQ3Y7R29sYCteTPqMCwns4WYQoCX91Xl3+w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/css-declaration-sorter/6.3.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "bufferstreams",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/bufferstreams/-/bufferstreams-1.0.1.tgz",
+    "integrity": "sha512-LZmiIfQprMLS6/k42w/PTc7awhU8AdNNcUerxTgr01WlP9agR2SgMv0wjlYYFD6eDOi8WvofrTX8RayjR/AeUQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/bufferstreams/1.0.1"
+  },
+  "readable-stream": {
+    "1.1.14": {
+      "path": "/home/nachoaldama/.ultra-cache/readable-stream/1.1.14",
+      "tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz",
+      "integrity": "sha512-+MeVjFf4L44XUkhM1eYbD8fyEsxcV81pqMSR5gblfcLCHfZvbrqy4/qYHE+/R5HoBUT11WV5O08Cr1n3YXkWVQ==",
+      "optional": false
+    }
+  }
+}

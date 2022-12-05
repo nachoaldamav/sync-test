@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "nan-as",
+    "version": "1.6.1",
+    "tarball": "https://registry.npmjs.org/nan-as/-/nan-as-1.6.1.tgz",
+    "integrity": "sha512-3kxmWXp/L2k87mfWFXI8HpslAtZuePaJD61hUNHXcTMYU84+WWUSl6iyL7K6uwVgq35inNroPHAGLCOhStZxGg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/nan-as/1.6.1"
+  }
+}

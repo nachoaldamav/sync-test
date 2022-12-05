@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-arrayish",
+    "version": "0.2.1",
+    "tarball": "https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.2.1.tgz",
+    "integrity": "sha512-zz06S8t0ozoDXMG+ube26zeCTNXcKIPJZJi8hBrF4idCLms4CG9QtK7qBl1boi5ODzFpjswb5JPmHCbMpjaYzg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-arrayish/0.2.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "clean-css",
+    "version": "3.4.28",
+    "tarball": "https://registry.npmjs.org/clean-css/-/clean-css-3.4.28.tgz",
+    "integrity": "sha512-aTWyttSdI2mYi07kWqHi24NUU9YlELFKGOAgFzZjDN1064DMAOy2FBuoyGmkKRlXkbpXd0EVHmiVkbKhKoirTw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clean-css/3.4.28"
+  },
+  "commander": {
+    "2.8.1": {
+      "path": "/home/nachoaldama/.ultra-cache/commander/2.8.1",
+      "tarball": "https://registry.npmjs.org/commander/-/commander-2.8.1.tgz",
+      "integrity": "sha512-+pJLBFVk+9ZZdlAOB5WuIElVPPth47hILFkmGym57aq8kwxsowvByvB0DHs1vQAhyMZzdcpTtF0VDKGkSDR4ZQ==",
+      "optional": false
+    }
+  },
+  "source-map": {
+    "0.4.4": {
+      "path": "/home/nachoaldama/.ultra-cache/source-map/0.4.4",
+      "tarball": "https://registry.npmjs.org/source-map/-/source-map-0.4.4.tgz",
+      "integrity": "sha512-Y8nIfcb1s/7DcobUz1yOO1GSp7gyL+D9zLHDehT7iRESqGSxjJ448Sg7rvfgsRJCnKLdSl11uGf0s9X80cH0/A==",
+      "optional": false
+    }
+  }
+}

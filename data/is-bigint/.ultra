@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-bigint",
+    "version": "1.0.4",
+    "tarball": "https://registry.npmjs.org/is-bigint/-/is-bigint-1.0.4.tgz",
+    "integrity": "sha512-zB9CruMamjym81i2JZ3UMn54PKGsQzsJeo6xvN3HJJ4CAsQNB6iRutp2To77OfCNuoxspsIhzaPoO1zyCEhFOg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-bigint/1.0.4"
+  }
+}

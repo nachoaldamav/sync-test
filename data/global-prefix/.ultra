@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "global-prefix",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/global-prefix/-/global-prefix-3.0.0.tgz",
+    "integrity": "sha512-awConJSVCHVGND6x3tmMaKcQvwXLhjdkmomy2W+Goaui8YPgYgXJZewhg3fWC+DlfqqQuWg8AwqjGTD2nAPVWg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/global-prefix/3.0.0"
+  },
+  "ini": {
+    "1.3.8": {
+      "path": "/home/nachoaldama/.ultra-cache/ini/1.3.8",
+      "tarball": "https://registry.npmjs.org/ini/-/ini-1.3.8.tgz",
+      "integrity": "sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==",
+      "optional": false
+    }
+  },
+  "which": {
+    "1.3.1": {
+      "path": "/home/nachoaldama/.ultra-cache/which/1.3.1",
+      "tarball": "https://registry.npmjs.org/which/-/which-1.3.1.tgz",
+      "integrity": "sha512-HxJdYWq1MTIQbJ3nw0cqssHoTNU267KlrDuGZ1WYlxDStUtKUhOaJmh112/TZmHxxUfuJqPXSOm7tDyas0OSIQ==",
+      "optional": false
+    }
+  }
+}

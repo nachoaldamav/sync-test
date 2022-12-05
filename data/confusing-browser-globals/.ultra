@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "confusing-browser-globals",
+    "version": "1.0.11",
+    "tarball": "https://registry.npmjs.org/confusing-browser-globals/-/confusing-browser-globals-1.0.11.tgz",
+    "integrity": "sha512-JsPKdmh8ZkmnHxDk55FZ1TqVLvEQTvoByJZRN9jzI0UjxK/QgAmsphz7PGtqgPieQZ/CQcHWXCR7ATDNhGe+YA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/confusing-browser-globals/1.0.11"
+  }
+}

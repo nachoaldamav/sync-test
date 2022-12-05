@@ -1,0 +1,122 @@
+{
+  "ultra:self": {
+    "name": "webpack",
+    "version": "5.75.0",
+    "tarball": "https://registry.npmjs.org/webpack/-/webpack-5.75.0.tgz",
+    "integrity": "sha512-piaIaoVJlqMsPtX/+3KTTO6jfvrSYgauFVdt8cr9LTHKmcq/AMd4mhzsiP7ZF/PGRNPGA8336jldh9l2Kt2ogQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/webpack/5.75.0"
+  },
+  "@types/eslint-scope": {
+    "3.7.4": {
+      "path": "/home/nachoaldama/.ultra-cache/@types/eslint-scope/3.7.4",
+      "tarball": "https://registry.npmjs.org/@types/eslint-scope/-/eslint-scope-3.7.4.tgz",
+      "integrity": "sha512-9K4zoImiZc3HlIp6AVUDE4CWYx22a+lhSZMYNpbjW04+YF0KWj4pJXnEMjdnFTiQibFFmElcsasJXDbdI/EPhA==",
+      "optional": false
+    }
+  },
+  "@types/estree": {
+    "0.0.51": {
+      "path": "/home/nachoaldama/.ultra-cache/@types/estree/0.0.51",
+      "tarball": "https://registry.npmjs.org/@types/estree/-/estree-0.0.51.tgz",
+      "integrity": "sha512-CuPgU6f3eT/XgKKPqKd/gLZV1Xmvf1a2R5POBOGQa6uv82xpls89HU5zKeVoyR8XzHd1RGNOlQlvUe3CFkjWNQ==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/ast": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/ast/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/ast/-/ast-1.11.1.tgz",
+      "integrity": "sha512-ukBh14qFLjxTQNTXocdyksN5QdM28S1CxHt2rdskFyL+xFV7VremuBLVbmCePj+URalXBENx/9Lm7lnhihtCSw==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/wasm-edit": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wasm-edit/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-edit/-/wasm-edit-1.11.1.tgz",
+      "integrity": "sha512-g+RsupUC1aTHfR8CDgnsVRVZFJqdkFHpsHMfJuWQzWU3tvnLC07UqHICfP+4XyL2tnr1amvl1Sdp06TnYCmVkA==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/wasm-parser": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wasm-parser/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-parser/-/wasm-parser-1.11.1.tgz",
+      "integrity": "sha512-rrBujw+dJu32gYB7/Lup6UhdkPx9S9SnobZzRVL7VcBH9Bt9bCBLEuX/YXOOtBsOZ4NQrRykKhffRWHvigQvOA==",
+      "optional": false
+    }
+  },
+  "acorn-import-assertions": {
+    "1.8.0": {
+      "path": "/home/nachoaldama/.ultra-cache/acorn-import-assertions/1.8.0",
+      "tarball": "https://registry.npmjs.org/acorn-import-assertions/-/acorn-import-assertions-1.8.0.tgz",
+      "integrity": "sha512-m7VZ3jwz4eK6A4Vtt8Ew1/mNbP24u0FhdyfA7fSvnJR6LMdfOYnmuIrrJAgrYfYJ10F/otaHTtrtrtmHdMNzEw==",
+      "optional": false
+    }
+  },
+  "chrome-trace-event": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/chrome-trace-event/1.0.3",
+      "tarball": "https://registry.npmjs.org/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz",
+      "integrity": "sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg==",
+      "optional": false
+    }
+  },
+  "es-module-lexer": {
+    "0.9.3": {
+      "path": "/home/nachoaldama/.ultra-cache/es-module-lexer/0.9.3",
+      "tarball": "https://registry.npmjs.org/es-module-lexer/-/es-module-lexer-0.9.3.tgz",
+      "integrity": "sha512-1HQ2M2sPtxwnvOvT1ZClHyQDiggdNjURWpY2we6aMKCQiUVxTmVs2UYPLIrD84sS+kMdUwfBSylbJPwNnBrnHQ==",
+      "optional": false
+    }
+  },
+  "glob-to-regexp": {
+    "0.4.1": {
+      "path": "/home/nachoaldama/.ultra-cache/glob-to-regexp/0.4.1",
+      "tarball": "https://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz",
+      "integrity": "sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==",
+      "optional": false
+    }
+  },
+  "loader-runner": {
+    "4.3.0": {
+      "path": "/home/nachoaldama/.ultra-cache/loader-runner/4.3.0",
+      "tarball": "https://registry.npmjs.org/loader-runner/-/loader-runner-4.3.0.tgz",
+      "integrity": "sha512-3R/1M+yS3j5ou80Me59j7F9IMs4PXs3VqRrm0TU3AbKPxlmpoY1TNscJV/oGJXo8qCatFGTfDbY6W6ipGOYXfg==",
+      "optional": false
+    }
+  },
+  "neo-async": {
+    "2.6.2": {
+      "path": "/home/nachoaldama/.ultra-cache/neo-async/2.6.2",
+      "tarball": "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz",
+      "integrity": "sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==",
+      "optional": false
+    }
+  },
+  "terser-webpack-plugin": {
+    "5.3.6": {
+      "path": "/home/nachoaldama/.ultra-cache/terser-webpack-plugin/5.3.6",
+      "tarball": "https://registry.npmjs.org/terser-webpack-plugin/-/terser-webpack-plugin-5.3.6.tgz",
+      "integrity": "sha512-kfLFk+PoLUQIbLmB1+PZDMRSZS99Mp+/MHqDNmMA6tOItzRt+Npe3E+fsMs5mfcM0wCtrrdU387UnV+vnSffXQ==",
+      "optional": false
+    }
+  },
+  "watchpack": {
+    "2.4.0": {
+      "path": "/home/nachoaldama/.ultra-cache/watchpack/2.4.0",
+      "tarball": "https://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz",
+      "integrity": "sha512-Lcvm7MGST/4fup+ifyKi2hjyIAwcdI4HRgtvTpIUxBRhB+RFtUh8XtDOxUfctVCnhVi+QQj49i91OyvzkJl6cg==",
+      "optional": false
+    }
+  },
+  "webpack-sources": {
+    "3.2.3": {
+      "path": "/home/nachoaldama/.ultra-cache/webpack-sources/3.2.3",
+      "tarball": "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz",
+      "integrity": "sha512-/DyMEOrDgLKKIG0fmvtz+4dUX/3Ghozwgm6iPp8KRhvn+eQf9+Q7GWxVNMk3+uCPWfdXYC4ExGBckIXdFEfH1w==",
+      "optional": false
+    }
+  }
+}

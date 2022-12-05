@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "caniuse-lite",
+    "version": "1.0.30001434",
+    "tarball": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001434.tgz",
+    "integrity": "sha512-aOBHrLmTQw//WFa2rcF1If9fa3ypkC1wzqqiKHgfdrXTWcU8C4gKVZT77eQAPWN1APys3+uQ0Df07rKauXGEYA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/caniuse-lite/1.0.30001434"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "node-releases",
+    "version": "2.0.6",
+    "tarball": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.6.tgz",
+    "integrity": "sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/node-releases/2.0.6"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "escape-html",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz",
+    "integrity": "sha512-NiSupZ4OeuGwr68lGIeym/ksIZMJodUGOSCZ/FSnTxcrekbvqrgdUxlJOMpijaKZVjAJrWrGs/6Jy8OMuyj9ow==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/escape-html/1.0.3"
+  }
+}

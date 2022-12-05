@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "react-addons-shallow-compare",
+    "version": "15.6.3",
+    "tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.6.3.tgz",
+    "integrity": "sha512-EDJbgKTtGRLhr3wiGDXK/+AEJ59yqGS+tKE6mue0aNXT6ZMR7VJbbzIiT6akotmHg1BLj46ElJSb+NBMp80XBg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-addons-shallow-compare/15.6.3"
+  }
+}

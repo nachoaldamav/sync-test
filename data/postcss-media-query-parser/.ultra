@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-media-query-parser",
+    "version": "0.2.3",
+    "tarball": "https://registry.npmjs.org/postcss-media-query-parser/-/postcss-media-query-parser-0.2.3.tgz",
+    "integrity": "sha512-3sOlxmbKcSHMjlUXQZKQ06jOswE7oVkXPxmZdoB1r5l0q6gTFTQSHxNxOrCccElbW7dxNytifNEo8qidX2Vsig==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-media-query-parser/0.2.3"
+  }
+}

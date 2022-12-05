@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "css-what",
+    "version": "6.1.0",
+    "tarball": "https://registry.npmjs.org/css-what/-/css-what-6.1.0.tgz",
+    "integrity": "sha512-HTUrgRJ7r4dsZKU6GjmpfRK1O76h97Z8MfS1G0FozR+oF2kG6Vfe8JE6zwrkbxigziPHinCJ+gCPjA9EaBDtRw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/css-what/6.1.0"
+  }
+}

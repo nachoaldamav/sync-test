@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "ua-parser-js",
+    "version": "0.7.32",
+    "tarball": "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.32.tgz",
+    "integrity": "sha512-f9BESNVhzlhEFf2CHMSj40NWOjYPl1YKYbrvIr/hFTDEmLq7SRbWvm7FcdcpCYT95zrOhC7gZSxjdnnTpBcwVw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/ua-parser-js/0.7.32"
+  }
+}

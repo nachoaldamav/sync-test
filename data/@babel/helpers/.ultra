@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/helpers",
+    "version": "7.20.1",
+    "tarball": "https://registry.npmjs.org/@babel/helpers/-/helpers-7.20.1.tgz",
+    "integrity": "sha512-J77mUVaDTUJFZ5BpP6mMn6OIl3rEWymk2ZxDBQJUG3P+PbmyMcF3bYWvz0ma69Af1oobDqT/iAsvzhB58xhQUg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/helpers/7.20.1"
+  }
+}

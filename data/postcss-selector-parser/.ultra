@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "postcss-selector-parser",
+    "version": "6.0.11",
+    "tarball": "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.0.11.tgz",
+    "integrity": "sha512-zbARubNdogI9j7WY4nQJBiNqQf3sLS3wCP4WfOidu+p28LofJqDH1tcXypGrcmMHhDk2t9wGhCsYe/+szLTy1g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-selector-parser/6.0.11"
+  },
+  "cssesc": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/cssesc/3.0.0",
+      "tarball": "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz",
+      "integrity": "sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==",
+      "optional": false
+    }
+  },
+  "util-deprecate": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/util-deprecate/1.0.2",
+      "tarball": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz",
+      "integrity": "sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==",
+      "optional": false
+    }
+  }
+}

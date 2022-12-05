@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "colormin",
+    "version": "1.1.2",
+    "tarball": "https://registry.npmjs.org/colormin/-/colormin-1.1.2.tgz",
+    "integrity": "sha512-XSEQUUQUR/lXqGyddiNH3XYFUPYlYr1vXy9rTFMsSOw+J7Q6EQkdlQIrTlYn4TccpsOaUE1PYQNjBn20gwCdgQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/colormin/1.1.2"
+  },
+  "color": {
+    "0.11.4": {
+      "path": "/home/nachoaldama/.ultra-cache/color/0.11.4",
+      "tarball": "https://registry.npmjs.org/color/-/color-0.11.4.tgz",
+      "integrity": "sha512-Ajpjd8asqZ6EdxQeqGzU5WBhhTfJ/0cA4Wlbre7e5vXfmDSmda7Ov6jeKoru+b0vHcb1CqvuroTHp5zIWzhVMA==",
+      "optional": false
+    }
+  },
+  "css-color-names": {
+    "0.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/css-color-names/0.0.4",
+      "tarball": "https://registry.npmjs.org/css-color-names/-/css-color-names-0.0.4.tgz",
+      "integrity": "sha512-zj5D7X1U2h2zsXOAM8EyUREBnnts6H+Jm+d1M2DbiQQcUtnqgQsMrdo8JW9R80YFUmIdBZeMu5wvYM7hcgWP/Q==",
+      "optional": false
+    }
+  }
+}

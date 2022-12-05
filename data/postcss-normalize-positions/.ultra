@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-normalize-positions",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-positions/-/postcss-normalize-positions-5.1.1.tgz",
+    "integrity": "sha512-6UpCb0G4eofTCQLFVuI3EVNZzBNPiIKcA1AKVka+31fTVySphr3VUgAIULBhxZkKgwLImhzMR2Bw1ORK+37INg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-normalize-positions/5.1.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-function-name",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-function-name/-/babel-helper-function-name-6.24.1.tgz",
+    "integrity": "sha512-Oo6+e2iX+o9eVvJ9Y5eKL5iryeRdsIkwRYheCuhYdVHsdEQysbc2z2QkqCLIYnNxkT5Ss3ggrHdXiDI7Dhrn4Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-function-name/6.24.1"
+  }
+}

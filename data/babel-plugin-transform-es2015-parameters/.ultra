@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-transform-es2015-parameters",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-plugin-transform-es2015-parameters/-/babel-plugin-transform-es2015-parameters-6.24.1.tgz",
+    "integrity": "sha512-8HxlW+BB5HqniD+nLkQ4xSAVq3bR/pcYW9IigY+2y0dI+Y7INFeTbfAQr+63T3E4UDsZGjyb+l9txUnABWxlOQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-transform-es2015-parameters/6.24.1"
+  },
+  "babel-helper-call-delegate": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-call-delegate/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-helper-call-delegate/-/babel-helper-call-delegate-6.24.1.tgz",
+      "integrity": "sha512-RL8n2NiEj+kKztlrVJM9JT1cXzzAdvWFh76xh/H1I4nKwunzE4INBXn8ieCZ+wh4zWszZk7NBS1s/8HR5jDkzQ==",
+      "optional": false
+    }
+  },
+  "babel-helper-get-function-arity": {
+    "6.24.1": {
+      "path": "/home/nachoaldama/.ultra-cache/babel-helper-get-function-arity/6.24.1",
+      "tarball": "https://registry.npmjs.org/babel-helper-get-function-arity/-/babel-helper-get-function-arity-6.24.1.tgz",
+      "integrity": "sha512-WfgKFX6swFB1jS2vo+DwivRN4NB8XUdM3ij0Y1gnC21y1tdBoe6xjVnd7NSI6alv+gZXCtJqvrTeMW3fR/c0ng==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/parser",
+    "version": "7.20.3",
+    "tarball": "https://registry.npmjs.org/@babel/parser/-/parser-7.20.3.tgz",
+    "integrity": "sha512-OP/s5a94frIPXwjzEcv5S/tpQfc6XhxYUnmWpgdqMWGgYCuErA3SzozaRAMQgSZWKeTJxht9aWAkUY+0UzvOFg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/parser/7.20.3"
+  }
+}

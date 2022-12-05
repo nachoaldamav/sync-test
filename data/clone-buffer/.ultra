@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "clone-buffer",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/clone-buffer/-/clone-buffer-1.0.0.tgz",
+    "integrity": "sha512-KLLTJWrvwIP+OPfMn0x2PheDEP20RPUcGXj/ERegTgdmPEZylALQldygiqrPPu8P45uNuPs7ckmReLY6v/iA5g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/clone-buffer/1.0.0"
+  }
+}

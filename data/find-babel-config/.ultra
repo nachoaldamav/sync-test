@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "find-babel-config",
+    "version": "1.2.0",
+    "tarball": "https://registry.npmjs.org/find-babel-config/-/find-babel-config-1.2.0.tgz",
+    "integrity": "sha512-jB2CHJeqy6a820ssiqwrKMeyC6nNdmrcgkKWJWmpoxpE8RKciYJXCcXRq1h2AzCo5I5BJeN2tkGEO3hLTuePRA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/find-babel-config/1.2.0"
+  },
+  "json5": {
+    "0.5.1": {
+      "path": "/home/nachoaldama/.ultra-cache/json5/0.5.1",
+      "tarball": "https://registry.npmjs.org/json5/-/json5-0.5.1.tgz",
+      "integrity": "sha512-4xrs1aW+6N5DalkqSVA8fxh458CXvR99WU8WLKmq4v8eWAL86Xo3BVqyd3SkA9wEVjCMqyvvRRkshAdOnBp5rw==",
+      "optional": false
+    }
+  },
+  "path-exists": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/path-exists/3.0.0",
+      "tarball": "https://registry.npmjs.org/path-exists/-/path-exists-3.0.0.tgz",
+      "integrity": "sha512-bpC7GYwiDYQ4wYLe+FA8lhRjhQCMcQGuSgGGqDkg/QerRWw9CmGRT0iSOVRSZJ29NMLZgIzqaljJ63oaL4NIJQ==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "password-policy",
+    "version": "0.0.3",
+    "tarball": "https://registry.npmjs.org/password-policy/-/password-policy-0.0.3.tgz",
+    "integrity": "sha512-tkKWhgwI3eTgJ80beCD4WpB9m5t++n3oduKDSIiTVM7gfkkTP5TH+mYKB8OWadqEumu+CNe5VKQrskhAlzGi8g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/password-policy/0.0.3"
+  }
+}

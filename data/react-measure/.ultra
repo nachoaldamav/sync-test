@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "react-measure",
+    "version": "2.5.2",
+    "tarball": "https://registry.npmjs.org/react-measure/-/react-measure-2.5.2.tgz",
+    "integrity": "sha512-M+rpbTLWJ3FD6FXvYV6YEGvQ5tMayQ3fGrZhRPHrE9bVlBYfDCLuDcgNttYfk8IqfOI03jz6cbpqMRTUclQnaA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-measure/2.5.2"
+  },
+  "get-node-dimensions": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/get-node-dimensions/1.2.1",
+      "tarball": "https://registry.npmjs.org/get-node-dimensions/-/get-node-dimensions-1.2.1.tgz",
+      "integrity": "sha512-2MSPMu7S1iOTL+BOa6K1S62hB2zUAYNF/lV0gSVlOaacd087lc6nR1H1r0e3B1CerTo+RceOmi1iJW+vp21xcQ==",
+      "optional": false
+    }
+  },
+  "resize-observer-polyfill": {
+    "1.5.1": {
+      "path": "/home/nachoaldama/.ultra-cache/resize-observer-polyfill/1.5.1",
+      "tarball": "https://registry.npmjs.org/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz",
+      "integrity": "sha512-LwZrotdHOo12nQuZlHEmtuXdqGoOD0OhaxopaNFxWzInpEgaLWoVuAMbTzixuosCx2nEG58ngzW3vxdWoxIgdg==",
+      "optional": false
+    }
+  }
+}

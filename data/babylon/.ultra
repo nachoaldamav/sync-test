@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babylon",
+    "version": "6.18.0",
+    "tarball": "https://registry.npmjs.org/babylon/-/babylon-6.18.0.tgz",
+    "integrity": "sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babylon/6.18.0"
+  }
+}

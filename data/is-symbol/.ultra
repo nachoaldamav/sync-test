@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-symbol",
+    "version": "1.0.4",
+    "tarball": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz",
+    "integrity": "sha512-C/CPBqKWnvdcxqIARxyOh4v1UUEOCHpgDa0WYgpKDFMszcrPcffg5uhwSgPCLD2WWxmq6isisz87tzT01tuGhg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-symbol/1.0.4"
+  }
+}

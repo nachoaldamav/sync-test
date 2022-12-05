@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "object-visit",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/object-visit/-/object-visit-1.0.1.tgz",
+    "integrity": "sha512-GBaMwwAVK9qbQN3Scdo0OyvgPW7l3lnaVMj84uTOZlswkX0KpF6fyDBJhtTthf7pymztoN36/KEr1DyhF96zEA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/object-visit/1.0.1"
+  }
+}

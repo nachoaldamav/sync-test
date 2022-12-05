@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "depd",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/depd/-/depd-2.0.0.tgz",
+    "integrity": "sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/depd/2.0.0"
+  }
+}

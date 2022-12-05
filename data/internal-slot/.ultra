@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "internal-slot",
+    "version": "1.0.3",
+    "tarball": "https://registry.npmjs.org/internal-slot/-/internal-slot-1.0.3.tgz",
+    "integrity": "sha512-O0DB1JC/sPyZl7cIo78n5dR7eUSwwpYPiXRhTzNxZVAMUuB8vlnRFyLxdrVToks6XPLVnFfbzaVd5WLjhgg+vA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/internal-slot/1.0.3"
+  },
+  "side-channel": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/side-channel/1.0.4",
+      "tarball": "https://registry.npmjs.org/side-channel/-/side-channel-1.0.4.tgz",
+      "integrity": "sha512-q5XPytqFEIKHkGdiMIrY10mvLRvnQh42/+GoBlFW3b2LXLE2xxJpZFdm94we0BaoV3RwJyGqg5wS7epxTv0Zvw==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "unc-path-regex",
+    "version": "0.1.2",
+    "tarball": "https://registry.npmjs.org/unc-path-regex/-/unc-path-regex-0.1.2.tgz",
+    "integrity": "sha512-eXL4nmJT7oCpkZsHZUOJo8hcX3GbsiDOa0Qu9F646fi8dT3XuSVopVqAcEiVzSKKH7UoDti23wNX3qGFxcW5Qg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/unc-path-regex/0.1.2"
+  }
+}

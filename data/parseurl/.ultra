@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "parseurl",
+    "version": "1.3.3",
+    "tarball": "https://registry.npmjs.org/parseurl/-/parseurl-1.3.3.tgz",
+    "integrity": "sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/parseurl/1.3.3"
+  }
+}

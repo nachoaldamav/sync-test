@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "verge",
+    "version": "1.10.2",
+    "tarball": "https://registry.npmjs.org/verge/-/verge-1.10.2.tgz",
+    "integrity": "sha512-RqxC9t/l1gXO61DYjKwEZqL3rVvQLdhUHbvsid9+XttslW3oa6ZMQhINxNHT2cmUeqdB07D8Qxb3AD9TCPnxog==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/verge/1.10.2"
+  }
+}

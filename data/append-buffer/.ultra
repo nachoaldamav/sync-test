@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "append-buffer",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/append-buffer/-/append-buffer-1.0.2.tgz",
+    "integrity": "sha512-WLbYiXzD3y/ATLZFufV/rZvWdZOs+Z/+5v1rBZ463Jn398pa6kcde27cvozYnBoxXblGZTFfoPpsaEw0orU5BA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/append-buffer/1.0.2"
+  },
+  "buffer-equal": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/buffer-equal/1.0.1",
+      "tarball": "https://registry.npmjs.org/buffer-equal/-/buffer-equal-1.0.1.tgz",
+      "integrity": "sha512-QoV3ptgEaQpvVwbXdSO39iqPQTCxSF7A5U99AxbHYqUdCizL/lH2Z0A2y6nbZucxMEOtNyZfG2s6gsVugGpKkg==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "entities",
+    "version": "2.1.0",
+    "tarball": "https://registry.npmjs.org/entities/-/entities-2.1.0.tgz",
+    "integrity": "sha512-hCx1oky9PFrJ611mf0ifBLBRW8lUUVRlFolb5gWRfIELabBlbp9xZvrqZLZAs+NxFnbfQoeGd8wDkygjg7U85w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/entities/2.1.0"
+  }
+}

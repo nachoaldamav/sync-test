@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "acorn-walk",
+    "version": "8.2.0",
+    "tarball": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.2.0.tgz",
+    "integrity": "sha512-k+iyHEuPgSw6SbuDpGQM+06HQUa04DZ3o+F6CSzXMvvI5KMvnaEqXe+YVe555R9nn6GPt404fos4wcgpw12SDA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/acorn-walk/8.2.0"
+  }
+}

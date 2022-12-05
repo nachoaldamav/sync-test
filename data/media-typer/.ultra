@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "media-typer",
+    "version": "0.3.0",
+    "tarball": "https://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz",
+    "integrity": "sha512-dq+qelQ9akHpcOl/gUVRTxVIOkAJ1wR3QAvb4RsVjS8oVoFjDGTc679wJYmUmknUF5HwMLOgb5O+a3KxfWapPQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/media-typer/0.3.0"
+  }
+}

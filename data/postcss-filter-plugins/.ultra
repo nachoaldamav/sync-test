@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-filter-plugins",
+    "version": "2.0.3",
+    "tarball": "https://registry.npmjs.org/postcss-filter-plugins/-/postcss-filter-plugins-2.0.3.tgz",
+    "integrity": "sha512-T53GVFsdinJhgwm7rg1BzbeBRomOg9y5MBVhGcsV0CxurUdVj1UlPdKtn7aqYA/c/QVkzKMjq2bSV5dKG5+AwQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-filter-plugins/2.0.3"
+  }
+}

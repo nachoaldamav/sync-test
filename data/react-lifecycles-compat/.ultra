@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "react-lifecycles-compat",
+    "version": "3.0.4",
+    "tarball": "https://registry.npmjs.org/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz",
+    "integrity": "sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-lifecycles-compat/3.0.4"
+  }
+}

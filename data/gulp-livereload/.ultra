@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "gulp-livereload",
+    "version": "4.0.2",
+    "tarball": "https://registry.npmjs.org/gulp-livereload/-/gulp-livereload-4.0.2.tgz",
+    "integrity": "sha512-InmaR50Xl1xB1WdEk4mrUgGHv3VhhlRLrx7u60iY5AAer90FlK95KXitPcGGQoi28zrUJM189d/h6+V470Ncgg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-livereload/4.0.2"
+  },
+  "lodash.assign": {
+    "4.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash.assign/4.2.0",
+      "tarball": "https://registry.npmjs.org/lodash.assign/-/lodash.assign-4.2.0.tgz",
+      "integrity": "sha512-hFuH8TY+Yji7Eja3mGiuAxBqLagejScbG8GbG0j6o9vzn0YL14My+ktnqtZgFTosKymC9/44wP6s7xyuLfnClw==",
+      "optional": false
+    }
+  },
+  "tiny-lr": {
+    "1.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/tiny-lr/1.1.1",
+      "tarball": "https://registry.npmjs.org/tiny-lr/-/tiny-lr-1.1.1.tgz",
+      "integrity": "sha512-44yhA3tsaRoMOjQQ+5v5mVdqef+kH6Qze9jTpqtVufgYjYt08zyZAwNwwVBj3i1rJMnR52IxOW0LK0vBzgAkuA==",
+      "optional": false
+    }
+  },
+  "vinyl": {
+    "2.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/vinyl/2.2.1",
+      "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-2.2.1.tgz",
+      "integrity": "sha512-LII3bXRFBZLlezoG5FfZVcXflZgWP/4dCwKtxd5ky9+LOtM4CS3bIRQsmR1KMnMW07jpE8fqR2lcxPZ+8sJIcw==",
+      "optional": false
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "stackframe",
+    "version": "0.3.1",
+    "tarball": "https://registry.npmjs.org/stackframe/-/stackframe-0.3.1.tgz",
+    "integrity": "sha512-XmoiF4T5nuWEp2x2w92WdGjdHGY/cZa6LIbRsDRQR/Xlk4uW0PAUlH1zJYVffocwKpCdwyuypIp25xsSXEtZHw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/stackframe/0.3.1"
+  }
+}

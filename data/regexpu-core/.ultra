@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "regexpu-core",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/regexpu-core/-/regexpu-core-2.0.0.tgz",
+    "integrity": "sha512-tJ9+S4oKjxY8IZ9jmjnp/mtytu1u3iyIQAfmI51IKWH6bFf7XR1ybtaO6j7INhZKXOTYADk7V5qxaqLkmNxiZQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/regexpu-core/2.0.0"
+  },
+  "regenerate": {
+    "1.4.2": {
+      "path": "/home/nachoaldama/.ultra-cache/regenerate/1.4.2",
+      "tarball": "https://registry.npmjs.org/regenerate/-/regenerate-1.4.2.tgz",
+      "integrity": "sha512-zrceR/XhGYU/d/opr2EKO7aRHUeiBI8qjtfHqADTwZd6Szfy16la6kqD0MIUs5z5hx6AaKa+PixpPrR289+I0A==",
+      "optional": false
+    }
+  },
+  "regjsgen": {
+    "0.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/regjsgen/0.2.0",
+      "tarball": "https://registry.npmjs.org/regjsgen/-/regjsgen-0.2.0.tgz",
+      "integrity": "sha512-x+Y3yA24uF68m5GA+tBjbGYo64xXVJpbToBaWCoSNSc1hdk6dfctaRWrNFTVJZIIhL5GxW8zwjoixbnifnK59g==",
+      "optional": false
+    }
+  },
+  "regjsparser": {
+    "0.1.5": {
+      "path": "/home/nachoaldama/.ultra-cache/regjsparser/0.1.5",
+      "tarball": "https://registry.npmjs.org/regjsparser/-/regjsparser-0.1.5.tgz",
+      "integrity": "sha512-jlQ9gYLfk2p3V5Ag5fYhA7fv7OHzd1KUH0PRP46xc3TgwjwgROIW572AfYg/X9kaNq/LJnu6oJcFRXlIrGoTRw==",
+      "optional": false
+    }
+  }
+}

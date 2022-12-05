@@ -1,0 +1,82 @@
+{
+  "ultra:self": {
+    "name": "undertaker",
+    "version": "1.3.0",
+    "tarball": "https://registry.npmjs.org/undertaker/-/undertaker-1.3.0.tgz",
+    "integrity": "sha512-/RXwi5m/Mu3H6IHQGww3GNt1PNXlbeCuclF2QYR14L/2CHPz3DFZkvB5hZ0N/QUkiXWCACML2jXViIQEQc2MLg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/undertaker/1.3.0"
+  },
+  "arr-flatten": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/arr-flatten/1.1.0",
+      "tarball": "https://registry.npmjs.org/arr-flatten/-/arr-flatten-1.1.0.tgz",
+      "integrity": "sha512-L3hKV5R/p5o81R7O02IGnwpDmkp6E982XhtbuwSe3O4qOtMMMtodicASA1Cny2U+aCXcNpml+m4dPsvsJ3jatg==",
+      "optional": false
+    }
+  },
+  "arr-map": {
+    "2.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/arr-map/2.0.2",
+      "tarball": "https://registry.npmjs.org/arr-map/-/arr-map-2.0.2.tgz",
+      "integrity": "sha512-tVqVTHt+Q5Xb09qRkbu+DidW1yYzz5izWS2Xm2yFm7qJnmUfz4HPzNxbHkdRJbz2lrqI7S+z17xNYdFcBBO8Hw==",
+      "optional": false
+    }
+  },
+  "bach": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/bach/1.2.0",
+      "tarball": "https://registry.npmjs.org/bach/-/bach-1.2.0.tgz",
+      "integrity": "sha512-bZOOfCb3gXBXbTFXq3OZtGR88LwGeJvzu6szttaIzymOTS4ZttBNOWSv7aLZja2EMycKtRYV0Oa8SNKH/zkxvg==",
+      "optional": false
+    }
+  },
+  "collection-map": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/collection-map/1.0.0",
+      "tarball": "https://registry.npmjs.org/collection-map/-/collection-map-1.0.0.tgz",
+      "integrity": "sha512-5D2XXSpkOnleOI21TG7p3T0bGAsZ/XknZpKBmGYyluO8pw4zA3K8ZlrBIbC4FXg3m6z/RNFiUFfT2sQK01+UHA==",
+      "optional": false
+    }
+  },
+  "es6-weak-map": {
+    "2.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/es6-weak-map/2.0.3",
+      "tarball": "https://registry.npmjs.org/es6-weak-map/-/es6-weak-map-2.0.3.tgz",
+      "integrity": "sha512-p5um32HOTO1kP+w7PRnB+5lQ43Z6muuMuIMffvDN8ZB4GcnjLBV6zGStpbASIMk4DCAvEaamhe2zhyCb/QXXsA==",
+      "optional": false
+    }
+  },
+  "fast-levenshtein": {
+    "1.1.4": {
+      "path": "/home/nachoaldama/.ultra-cache/fast-levenshtein/1.1.4",
+      "tarball": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-1.1.4.tgz",
+      "integrity": "sha512-Ia0sQNrMPXXkqVFt6w6M1n1oKo3NfKs+mvaV811Jwir7vAk9a6PVV9VPYf6X3BU97QiLEmuW3uXH9u87zDFfdw==",
+      "optional": false
+    }
+  },
+  "last-run": {
+    "1.1.1": {
+      "path": "/home/nachoaldama/.ultra-cache/last-run/1.1.1",
+      "tarball": "https://registry.npmjs.org/last-run/-/last-run-1.1.1.tgz",
+      "integrity": "sha512-U/VxvpX4N/rFvPzr3qG5EtLKEnNI0emvIQB3/ecEwv+8GHaUKbIB8vxv1Oai5FAF0d0r7LXHhLLe5K/yChm5GQ==",
+      "optional": false
+    }
+  },
+  "object.reduce": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/object.reduce/1.0.1",
+      "tarball": "https://registry.npmjs.org/object.reduce/-/object.reduce-1.0.1.tgz",
+      "integrity": "sha512-naLhxxpUESbNkRqc35oQ2scZSJueHGQNUfMW/0U37IgN6tE2dgDWg3whf+NEliy3F/QysrO48XKUz/nGPe+AQw==",
+      "optional": false
+    }
+  },
+  "undertaker-registry": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/undertaker-registry/1.0.1",
+      "tarball": "https://registry.npmjs.org/undertaker-registry/-/undertaker-registry-1.0.1.tgz",
+      "integrity": "sha512-UR1khWeAjugW3548EfQmL9Z7pGMlBgXteQpr1IZeZBtnkCJQJIJ1Scj0mb9wQaPvUZ9Q17XqW6TIaPchJkyfqw==",
+      "optional": false
+    }
+  }
+}

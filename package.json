@@ -1,0 +1,16 @@
+{
+  "name": "sync-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "hyperfine 'node async.js' 'node sync.js' --prepare 'rm -rf target/' --warmup 3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.11.9"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "stable",
+    "version": "0.1.8",
+    "tarball": "https://registry.npmjs.org/stable/-/stable-0.1.8.tgz",
+    "integrity": "sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/stable/0.1.8"
+  }
+}

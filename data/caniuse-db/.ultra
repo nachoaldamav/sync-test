@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "caniuse-db",
+    "version": "1.0.30001436",
+    "tarball": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001436.tgz",
+    "integrity": "sha512-Su//K/Gv8RpgXWwbh8jM2w6GsGccvojwFJ0FNEdRARowtFngnRK86E8keFN5JZobYQti00JWGAoRHS75PcQH2g==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/caniuse-db/1.0.30001436"
+  }
+}

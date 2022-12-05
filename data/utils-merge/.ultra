@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "utils-merge",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz",
+    "integrity": "sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/utils-merge/1.0.1"
+  }
+}

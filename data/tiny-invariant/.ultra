@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "tiny-invariant",
+    "version": "1.2.0",
+    "tarball": "https://registry.npmjs.org/tiny-invariant/-/tiny-invariant-1.2.0.tgz",
+    "integrity": "sha512-1Uhn/aqw5C6RI4KejVeTg6mIS7IqxnLJ8Mv2tV5rTc0qWobay7pDUz6Wi392Cnc8ak1H0F2cjoRzb2/AW4+Fvg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/tiny-invariant/1.2.0"
+  }
+}

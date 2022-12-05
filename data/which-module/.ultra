@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "which-module",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/which-module/-/which-module-1.0.0.tgz",
+    "integrity": "sha512-F6+WgncZi/mJDrammbTuHe1q0R5hOXv/mBaiNA2TCNT/LTHusX0V+CJnj9XT8ki5ln2UZyyddDgHfCzyrOH7MQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/which-module/1.0.0"
+  }
+}

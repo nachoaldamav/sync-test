@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "fast-levenshtein",
+    "version": "2.0.6",
+    "tarball": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz",
+    "integrity": "sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/fast-levenshtein/2.0.6"
+  }
+}

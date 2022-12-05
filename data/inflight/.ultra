@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "inflight",
+    "version": "1.0.6",
+    "tarball": "https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz",
+    "integrity": "sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/inflight/1.0.6"
+  }
+}

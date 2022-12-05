@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "color-support",
+    "version": "1.1.3",
+    "tarball": "https://registry.npmjs.org/color-support/-/color-support-1.1.3.tgz",
+    "integrity": "sha512-qiBjkpbMLO/HL68y+lh4q0/O1MZFj2RX6X/KmMa3+gJD3z+WwI1ZzDHysvqHGS3mP6mznPckpXmw1nI9cJjyRg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/color-support/1.1.3"
+  }
+}

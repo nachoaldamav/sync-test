@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "safe-json-parse",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/safe-json-parse/-/safe-json-parse-1.0.1.tgz",
+    "integrity": "sha512-o0JmTu17WGUaUOHa1l0FPGXKBfijbxK6qoHzlkihsDXxzBHvJcA7zgviKR92Xs841rX9pK16unfphLq0/KqX7A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/safe-json-parse/1.0.1"
+  }
+}

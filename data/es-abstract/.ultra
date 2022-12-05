@@ -1,0 +1,138 @@
+{
+  "ultra:self": {
+    "name": "es-abstract",
+    "version": "1.20.4",
+    "tarball": "https://registry.npmjs.org/es-abstract/-/es-abstract-1.20.4.tgz",
+    "integrity": "sha512-0UtvRN79eMe2L+UNEF1BwRe364sj/DXhQ/k5FmivgoSdpM90b8Jc0mDzKMGo7QS0BVbOP/bTwBKNnDc9rNzaPA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/es-abstract/1.20.4"
+  },
+  "es-to-primitive": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/es-to-primitive/1.2.1",
+      "tarball": "https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.1.tgz",
+      "integrity": "sha512-QCOllgZJtaUo9miYBcLChTUaHNjJF3PYs1VidD7AwiEj1kYxKeQTctLAezAOH5ZKRH0g2IgPn6KwB4IT8iRpvA==",
+      "optional": false
+    }
+  },
+  "function.prototype.name": {
+    "1.1.5": {
+      "path": "/home/nachoaldama/.ultra-cache/function.prototype.name/1.1.5",
+      "tarball": "https://registry.npmjs.org/function.prototype.name/-/function.prototype.name-1.1.5.tgz",
+      "integrity": "sha512-uN7m/BzVKQnCUF/iW8jYea67v++2u7m5UgENbHRtdDVclOUP+FMPlCNdmk0h/ysGyo2tavMJEDqJAkJdRa1vMA==",
+      "optional": false
+    }
+  },
+  "get-symbol-description": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/get-symbol-description/1.0.0",
+      "tarball": "https://registry.npmjs.org/get-symbol-description/-/get-symbol-description-1.0.0.tgz",
+      "integrity": "sha512-2EmdH1YvIQiZpltCNgkuiUnyukzxM/R6NDJX31Ke3BG1Nq5b0S2PhX59UKi9vZpPDQVdqn+1IcaAwnzTT5vCjw==",
+      "optional": false
+    }
+  },
+  "internal-slot": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/internal-slot/1.0.3",
+      "tarball": "https://registry.npmjs.org/internal-slot/-/internal-slot-1.0.3.tgz",
+      "integrity": "sha512-O0DB1JC/sPyZl7cIo78n5dR7eUSwwpYPiXRhTzNxZVAMUuB8vlnRFyLxdrVToks6XPLVnFfbzaVd5WLjhgg+vA==",
+      "optional": false
+    }
+  },
+  "is-callable": {
+    "1.2.7": {
+      "path": "/home/nachoaldama/.ultra-cache/is-callable/1.2.7",
+      "tarball": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.7.tgz",
+      "integrity": "sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==",
+      "optional": false
+    }
+  },
+  "is-negative-zero": {
+    "2.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/is-negative-zero/2.0.2",
+      "tarball": "https://registry.npmjs.org/is-negative-zero/-/is-negative-zero-2.0.2.tgz",
+      "integrity": "sha512-dqJvarLawXsFbNDeJW7zAz8ItJ9cd28YufuuFzh0G8pNHjJMnY08Dv7sYX2uF5UpQOwieAeOExEYAWWfu7ZZUA==",
+      "optional": false
+    }
+  },
+  "is-regex": {
+    "1.1.4": {
+      "path": "/home/nachoaldama/.ultra-cache/is-regex/1.1.4",
+      "tarball": "https://registry.npmjs.org/is-regex/-/is-regex-1.1.4.tgz",
+      "integrity": "sha512-kvRdxDsxZjhzUX07ZnLydzS1TU/TJlTUHHY4YLL87e37oUA49DfkLqgy+VjFocowy29cKvcSiu+kIv728jTTVg==",
+      "optional": false
+    }
+  },
+  "is-shared-array-buffer": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/is-shared-array-buffer/1.0.2",
+      "tarball": "https://registry.npmjs.org/is-shared-array-buffer/-/is-shared-array-buffer-1.0.2.tgz",
+      "integrity": "sha512-sqN2UDu1/0y6uvXyStCOzyhAjCSlHceFoMKJW8W9EU9cvic/QdsZ0kEU93HEy3IUEFZIiH/3w+AH/UQbPHNdhA==",
+      "optional": false
+    }
+  },
+  "is-weakref": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/is-weakref/1.0.2",
+      "tarball": "https://registry.npmjs.org/is-weakref/-/is-weakref-1.0.2.tgz",
+      "integrity": "sha512-qctsuLZmIQ0+vSSMfoVvyFe2+GSEvnmZ2ezTup1SBse9+twCCeial6EEi3Nc2KFcf6+qz2FBPnjXsk8xhKSaPQ==",
+      "optional": false
+    }
+  },
+  "object-inspect": {
+    "1.12.2": {
+      "path": "/home/nachoaldama/.ultra-cache/object-inspect/1.12.2",
+      "tarball": "https://registry.npmjs.org/object-inspect/-/object-inspect-1.12.2.tgz",
+      "integrity": "sha512-z+cPxW0QGUp0mcqcsgQyLVRDoXFQbXOwBaqyF7VIgI4TWNQsDHrBpUQslRmIfAoYWdYzs6UlKJtB2XJpTaNSpQ==",
+      "optional": false
+    }
+  },
+  "object.assign": {
+    "4.1.4": {
+      "path": "/home/nachoaldama/.ultra-cache/object.assign/4.1.4",
+      "tarball": "https://registry.npmjs.org/object.assign/-/object.assign-4.1.4.tgz",
+      "integrity": "sha512-1mxKf0e58bvyjSCtKYY4sRe9itRk3PJpquJOjeIkz885CczcI4IvJJDLPS72oowuSh+pBxUFROpX+TU++hxhZQ==",
+      "optional": false
+    }
+  },
+  "regexp.prototype.flags": {
+    "1.4.3": {
+      "path": "/home/nachoaldama/.ultra-cache/regexp.prototype.flags/1.4.3",
+      "tarball": "https://registry.npmjs.org/regexp.prototype.flags/-/regexp.prototype.flags-1.4.3.tgz",
+      "integrity": "sha512-fjggEOO3slI6Wvgjwflkc4NFRCTZAu5CnNfBd5qOMYhWdn67nJBBu34/TkD++eeFmd8C9r9jfXJ27+nSiRkSUA==",
+      "optional": false
+    }
+  },
+  "safe-regex-test": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/safe-regex-test/1.0.0",
+      "tarball": "https://registry.npmjs.org/safe-regex-test/-/safe-regex-test-1.0.0.tgz",
+      "integrity": "sha512-JBUUzyOgEwXQY1NuPtvcj/qcBDbDmEvWufhlnXZIm75DEHp+afM1r1ujJpJsV/gSM4t59tpDyPi1sd6ZaPFfsA==",
+      "optional": false
+    }
+  },
+  "string.prototype.trimend": {
+    "1.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/string.prototype.trimend/1.0.6",
+      "tarball": "https://registry.npmjs.org/string.prototype.trimend/-/string.prototype.trimend-1.0.6.tgz",
+      "integrity": "sha512-JySq+4mrPf9EsDBEDYMOb/lM7XQLulwg5R/m1r0PXEFqrV0qHvl58sdTilSXtKOflCsK2E8jxf+GKC0T07RWwQ==",
+      "optional": false
+    }
+  },
+  "string.prototype.trimstart": {
+    "1.0.6": {
+      "path": "/home/nachoaldama/.ultra-cache/string.prototype.trimstart/1.0.6",
+      "tarball": "https://registry.npmjs.org/string.prototype.trimstart/-/string.prototype.trimstart-1.0.6.tgz",
+      "integrity": "sha512-omqjMDaY92pbn5HOX7f9IccLA+U1tA9GvtU4JrodiXFfYB7jPzzHpRzpglLAjtUV6bB557zwClJezTqnAiYnQA==",
+      "optional": false
+    }
+  },
+  "unbox-primitive": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/unbox-primitive/1.0.2",
+      "tarball": "https://registry.npmjs.org/unbox-primitive/-/unbox-primitive-1.0.2.tgz",
+      "integrity": "sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==",
+      "optional": false
+    }
+  }
+}

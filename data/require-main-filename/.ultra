@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "require-main-filename",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/require-main-filename/-/require-main-filename-1.0.1.tgz",
+    "integrity": "sha512-IqSUtOVP4ksd1C/ej5zeEh/BIP2ajqpn8c5x+q99gvcIG/Qf0cud5raVnE/Dwd0ua9TXYDoDc0RE5hBSdz22Ug==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/require-main-filename/1.0.1"
+  }
+}

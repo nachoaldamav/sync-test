@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "react-transform-hmr",
+    "version": "1.0.4",
+    "tarball": "https://registry.npmjs.org/react-transform-hmr/-/react-transform-hmr-1.0.4.tgz",
+    "integrity": "sha512-8bK1DWUZynE6swD2jNPbzO5mvhB8fs9Ub5GksoVqYkc9i06FdSLC36qQYjaKOW79KBdsROq2cK0tRKITiEzmyg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-transform-hmr/1.0.4"
+  },
+  "react-proxy": {
+    "1.1.8": {
+      "path": "/home/nachoaldama/.ultra-cache/react-proxy/1.1.8",
+      "tarball": "https://registry.npmjs.org/react-proxy/-/react-proxy-1.1.8.tgz",
+      "integrity": "sha512-46GkBpZD97R/vV+iw+u6aFACzIHOst9gCl41d5K5vepPBz2i2gqHmXQJWKXsrUsSOdylKahN3sd9taswFN8Wzw==",
+      "optional": false
+    }
+  }
+}

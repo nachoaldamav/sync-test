@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "multipipe",
+    "version": "0.1.2",
+    "tarball": "https://registry.npmjs.org/multipipe/-/multipipe-0.1.2.tgz",
+    "integrity": "sha512-7ZxrUybYv9NonoXgwoOqtStIu18D1c3eFZj27hqgf5kBrBF8Q+tE8V0MW8dKM5QLkQPh1JhhbKgHLY9kifov4Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/multipipe/0.1.2"
+  },
+  "duplexer2": {
+    "0.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/duplexer2/0.0.2",
+      "tarball": "https://registry.npmjs.org/duplexer2/-/duplexer2-0.0.2.tgz",
+      "integrity": "sha512-+AWBwjGadtksxjOQSFDhPNQbed7icNXApT4+2BNpsXzcCBiInq2H9XW0O8sfHFaPmnQRs7cg/P0fAr2IWQSW0g==",
+      "optional": false
+    }
+  }
+}

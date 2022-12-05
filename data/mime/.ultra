@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "mime",
+    "version": "2.6.0",
+    "tarball": "https://registry.npmjs.org/mime/-/mime-2.6.0.tgz",
+    "integrity": "sha512-USPkMeET31rOMiarsBNIHZKLGgvKc/LrjofAnBlOttf5ajRvqiRA8QsenbcooctK6d6Ts6aqZXBA+XbkKthiQg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/mime/2.6.0"
+  }
+}

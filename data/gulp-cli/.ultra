@@ -1,0 +1,114 @@
+{
+  "ultra:self": {
+    "name": "gulp-cli",
+    "version": "2.3.0",
+    "tarball": "https://registry.npmjs.org/gulp-cli/-/gulp-cli-2.3.0.tgz",
+    "integrity": "sha512-zzGBl5fHo0EKSXsHzjspp3y5CONegCm8ErO5Qh0UzFzk2y4tMvzLWhoDokADbarfZRL2pGpRp7yt6gfJX4ph7A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/gulp-cli/2.3.0"
+  },
+  "archy": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/archy/1.0.0",
+      "tarball": "https://registry.npmjs.org/archy/-/archy-1.0.0.tgz",
+      "integrity": "sha512-Xg+9RwCg/0p32teKdGMPTPnVXKD0w3DfHnFTficozsAgsvq2XenPJq/MYpzzQ/v8zrOyJn6Ds39VA4JIDwFfqw==",
+      "optional": false
+    }
+  },
+  "array-sort": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/array-sort/1.0.0",
+      "tarball": "https://registry.npmjs.org/array-sort/-/array-sort-1.0.0.tgz",
+      "integrity": "sha512-ihLeJkonmdiAsD7vpgN3CRcx2J2S0TiYW+IS/5zHBI7mKUq3ySvBdzzBfD236ubDBQFiiyG3SWCPc+msQ9KoYg==",
+      "optional": false
+    }
+  },
+  "concat-stream": {
+    "1.6.2": {
+      "path": "/home/nachoaldama/.ultra-cache/concat-stream/1.6.2",
+      "tarball": "https://registry.npmjs.org/concat-stream/-/concat-stream-1.6.2.tgz",
+      "integrity": "sha512-27HBghJxjiZtIk3Ycvn/4kbJk/1uZuJFfuPEns6LaEvpvG1f0hTea8lilrouyo9mVc2GWdcEZ8OLoGmSADlrCw==",
+      "optional": false
+    }
+  },
+  "copy-props": {
+    "2.0.5": {
+      "path": "/home/nachoaldama/.ultra-cache/copy-props/2.0.5",
+      "tarball": "https://registry.npmjs.org/copy-props/-/copy-props-2.0.5.tgz",
+      "integrity": "sha512-XBlx8HSqrT0ObQwmSzM7WE5k8FxTV75h1DX1Z3n6NhQ/UYYAvInWYmG06vFt7hQZArE2fuO62aihiWIVQwh1sw==",
+      "optional": false
+    }
+  },
+  "isobject": {
+    "3.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/isobject/3.0.1",
+      "tarball": "https://registry.npmjs.org/isobject/-/isobject-3.0.1.tgz",
+      "integrity": "sha512-WhB9zCku7EGTj/HQQRz5aUQEUeoQZH2bWcltRErOpymJ4boYE6wL9Tbr23krRPSZ+C5zqNSrSw+Cc7sZZ4b7vg==",
+      "optional": false
+    }
+  },
+  "liftoff": {
+    "3.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/liftoff/3.1.0",
+      "tarball": "https://registry.npmjs.org/liftoff/-/liftoff-3.1.0.tgz",
+      "integrity": "sha512-DlIPlJUkCV0Ips2zf2pJP0unEoT1kwYhiiPUGF3s/jtxTCjziNLoiVVh+jqWOWeFi6mmwQ5fNxvAUyPad4Dfog==",
+      "optional": false
+    }
+  },
+  "matchdep": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/matchdep/2.0.0",
+      "tarball": "https://registry.npmjs.org/matchdep/-/matchdep-2.0.0.tgz",
+      "integrity": "sha512-LFgVbaHIHMqCRuCZyfCtUOq9/Lnzhi7Z0KFUE2fhD54+JN2jLh3hC02RLkqauJ3U4soU6H1J3tfj/Byk7GoEjA==",
+      "optional": false
+    }
+  },
+  "mute-stdout": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/mute-stdout/1.0.1",
+      "tarball": "https://registry.npmjs.org/mute-stdout/-/mute-stdout-1.0.1.tgz",
+      "integrity": "sha512-kDcwXR4PS7caBpuRYYBUz9iVixUk3anO3f5OYFiIPwK/20vCzKCHyKoulbiDY1S53zD2bxUpxN/IJ+TnXjfvxg==",
+      "optional": false
+    }
+  },
+  "pretty-hrtime": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/pretty-hrtime/1.0.3",
+      "tarball": "https://registry.npmjs.org/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz",
+      "integrity": "sha512-66hKPCr+72mlfiSjlEB1+45IjXSqvVAIy6mocupoww4tBFE9R9IhwwUGoI4G++Tc9Aq+2rxOt0RFU6gPcrte0A==",
+      "optional": false
+    }
+  },
+  "replace-homedir": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/replace-homedir/1.0.0",
+      "tarball": "https://registry.npmjs.org/replace-homedir/-/replace-homedir-1.0.0.tgz",
+      "integrity": "sha512-CHPV/GAglbIB1tnQgaiysb8H2yCy8WQ7lcEwQ/eT+kLj0QHV8LnJW0zpqpE7RSkrMSRoa+EBoag86clf7WAgSg==",
+      "optional": false
+    }
+  },
+  "semver-greatest-satisfied-range": {
+    "1.1.0": {
+      "path": "/home/nachoaldama/.ultra-cache/semver-greatest-satisfied-range/1.1.0",
+      "tarball": "https://registry.npmjs.org/semver-greatest-satisfied-range/-/semver-greatest-satisfied-range-1.1.0.tgz",
+      "integrity": "sha512-Ny/iyOzSSa8M5ML46IAx3iXc6tfOsYU2R4AXi2UpHk60Zrgyq6eqPj/xiOfS0rRl/iiQ/rdJkVjw/5cdUyCntQ==",
+      "optional": false
+    }
+  },
+  "v8flags": {
+    "3.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/v8flags/3.2.0",
+      "tarball": "https://registry.npmjs.org/v8flags/-/v8flags-3.2.0.tgz",
+      "integrity": "sha512-mH8etigqMfiGWdeXpaaqGfs6BndypxusHHcv2qSHyZkGEznCd/qAXCWWRzeowtL54147cktFOC4P5y+kl8d8Jg==",
+      "optional": false
+    }
+  },
+  "yargs": {
+    "7.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/yargs/7.1.2",
+      "tarball": "https://registry.npmjs.org/yargs/-/yargs-7.1.2.tgz",
+      "integrity": "sha512-ZEjj/dQYQy0Zx0lgLMLR8QuaqTihnxirir7EwUHp1Axq4e3+k8jXU5K0VLbNvedv1f4EWtBonDIZm0NUr+jCcA==",
+      "optional": false
+    }
+  }
+}

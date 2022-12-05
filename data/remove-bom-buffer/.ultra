@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "remove-bom-buffer",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/remove-bom-buffer/-/remove-bom-buffer-3.0.0.tgz",
+    "integrity": "sha512-8v2rWhaakv18qcvNeli2mZ/TMTL2nEyAKRvzo1WtnZBl15SHyEhrCu2/xKlJyUFKHiHgfXIyuY6g2dObJJycXQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/remove-bom-buffer/3.0.0"
+  },
+  "is-buffer": {
+    "1.1.6": {
+      "path": "/home/nachoaldama/.ultra-cache/is-buffer/1.1.6",
+      "tarball": "https://registry.npmjs.org/is-buffer/-/is-buffer-1.1.6.tgz",
+      "integrity": "sha512-NcdALwpXkTm5Zvvbk7owOUSvVvBKDgKP5/ewfXEznmQFfs4ZRmanOeKBTjRVjka3QFoN6XJ+9F3USqfHqTaU5w==",
+      "optional": false
+    }
+  },
+  "is-utf8": {
+    "0.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/is-utf8/0.2.1",
+      "tarball": "https://registry.npmjs.org/is-utf8/-/is-utf8-0.2.1.tgz",
+      "integrity": "sha512-rMYPYvCzsXywIsldgLaSoPlw5PfoB/ssr7hY4pLfcodrA5M/eArza1a9VmTiNIBNMjOGr1Ow9mTyU2o69U6U9Q==",
+      "optional": false
+    }
+  }
+}

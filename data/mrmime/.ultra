@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "mrmime",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/mrmime/-/mrmime-1.0.1.tgz",
+    "integrity": "sha512-hzzEagAgDyoU1Q6yg5uI+AorQgdvMCur3FcKf7NhMKWsaYg+RnbTyHRa/9IlLF9rf455MOCtcqqrQQ83pPP7Uw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/mrmime/1.0.1"
+  }
+}

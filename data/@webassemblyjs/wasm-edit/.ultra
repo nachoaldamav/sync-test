@@ -1,0 +1,58 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/wasm-edit",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-edit/-/wasm-edit-1.11.1.tgz",
+    "integrity": "sha512-g+RsupUC1aTHfR8CDgnsVRVZFJqdkFHpsHMfJuWQzWU3tvnLC07UqHICfP+4XyL2tnr1amvl1Sdp06TnYCmVkA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wasm-edit/1.11.1"
+  },
+  "@webassemblyjs/helper-buffer": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-buffer/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-buffer/-/helper-buffer-1.11.1.tgz",
+      "integrity": "sha512-gwikF65aDNeeXa8JxXa2BAk+REjSyhrNC9ZwdT0f8jc4dQQeDQ7G4m0f2QCLPJiMTTO6wfDmRmj/pW0PsUvIcA==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/helper-wasm-bytecode": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-wasm-bytecode/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.11.1.tgz",
+      "integrity": "sha512-PvpoOGiJwXeTrSf/qfudJhwlvDQxFgelbMqtq52WWiXC6Xgg1IREdngmPN3bs4RoO83PnL/nFrxucXj1+BX62Q==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/helper-wasm-section": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/helper-wasm-section/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.11.1.tgz",
+      "integrity": "sha512-10P9No29rYX1j7F3EVPX3JvGPQPae+AomuSTPiF9eBQeChHI6iqjMIwR9JmOJXwpnn/oVGDk7I5IlskuMwU/pg==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/wasm-gen": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wasm-gen/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-gen/-/wasm-gen-1.11.1.tgz",
+      "integrity": "sha512-F7QqKXwwNlMmsulj6+O7r4mmtAlCWfO/0HdgOxSklZfQcDu0TpLiD1mRt/zF25Bk59FIjEuGAIyn5ei4yMfLhA==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/wasm-opt": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wasm-opt/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/wasm-opt/-/wasm-opt-1.11.1.tgz",
+      "integrity": "sha512-VqnkNqnZlU5EB64pp1l7hdm3hmQw7Vgqa0KF/KCNO9sIpI6Fk6brDEiX+iCOYrvMuBWDws0NkTOxYEb85XQHHw==",
+      "optional": false
+    }
+  },
+  "@webassemblyjs/wast-printer": {
+    "1.11.1": {
+      "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wast-printer/1.11.1",
+      "tarball": "https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.11.1.tgz",
+      "integrity": "sha512-IQboUWM4eKzWW+N/jij2sRatKMh99QEelo3Eb2q0qXkvPRISAj8Qxtmw5itwqK+TTkBuUIE45AxYPToqPtL5gg==",
+      "optional": false
+    }
+  }
+}

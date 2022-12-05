@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "fs-mkdirp-stream",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/fs-mkdirp-stream/-/fs-mkdirp-stream-1.0.0.tgz",
+    "integrity": "sha512-+vSd9frUnapVC2RZYfL3FCB2p3g4TBhaUmrsWlSudsGdnxIuUvBB2QM1VZeBtc49QFwrp+wQLrDs3+xxDgI5gQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/fs-mkdirp-stream/1.0.0"
+  }
+}

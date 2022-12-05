@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "webpack-notifier",
+    "version": "1.15.0",
+    "tarball": "https://registry.npmjs.org/webpack-notifier/-/webpack-notifier-1.15.0.tgz",
+    "integrity": "sha512-N2V8UMgRB5komdXQRavBsRpw0hPhJq2/SWNOGuhrXpIgRhcMexzkGQysUyGStHLV5hkUlgpRiF7IUXoBqyMmzQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/webpack-notifier/1.15.0"
+  },
+  "node-notifier": {
+    "9.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/node-notifier/9.0.1",
+      "tarball": "https://registry.npmjs.org/node-notifier/-/node-notifier-9.0.1.tgz",
+      "integrity": "sha512-fPNFIp2hF/Dq7qLDzSg4vZ0J4e9v60gJR+Qx7RbjbWqzPDdEqeVpEx5CFeDAELIl+A/woaaNn1fQ5nEVerMxJg==",
+      "optional": false
+    }
+  }
+}

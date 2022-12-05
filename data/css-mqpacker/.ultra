@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "css-mqpacker",
+    "version": "7.0.0",
+    "tarball": "https://registry.npmjs.org/css-mqpacker/-/css-mqpacker-7.0.0.tgz",
+    "integrity": "sha512-temVrWS+sB4uocE2quhW8ru/KguDmGhCU7zN213KxtDvWOH3WS/ZUStfpF4fdCT7W8fPpFrQdWRFqtFtPPfBLA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/css-mqpacker/7.0.0"
+  },
+  "postcss": {
+    "7.0.39": {
+      "path": "/home/nachoaldama/.ultra-cache/postcss/7.0.39",
+      "tarball": "https://registry.npmjs.org/postcss/-/postcss-7.0.39.tgz",
+      "integrity": "sha512-yioayjNbHn6z1/Bywyb2Y4s3yvDAeXGOyxqD+LnVOinq6Mdmd++SW2wUNVzavyyHxd6+DxzWGIuosg6P1Rj8uA==",
+      "optional": false
+    }
+  }
+}

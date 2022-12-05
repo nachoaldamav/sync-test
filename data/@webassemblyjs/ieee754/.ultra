@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/ieee754",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/ieee754/-/ieee754-1.11.1.tgz",
+    "integrity": "sha512-hJ87QIPtAMKbFq6CGTkZYJivEwZDbQUgYd3qKSadTNOhVY7p+gfP6Sr0lLRVTaG1JjFj+r3YchoqRYxNH3M0GQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/ieee754/1.11.1"
+  },
+  "@xtuc/ieee754": {
+    "1.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/@xtuc/ieee754/1.2.0",
+      "tarball": "https://registry.npmjs.org/@xtuc/ieee754/-/ieee754-1.2.0.tgz",
+      "integrity": "sha512-DX8nKgqcGwsc0eJSqYt5lwP4DH5FlHnmuWWBRy7X0NcaGR0ZtuyeESgMwTYVEtxmsNGY+qit4QYT/MIYTOTPeA==",
+      "optional": false
+    }
+  }
+}

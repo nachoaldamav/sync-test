@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-boolean-object",
+    "version": "1.1.2",
+    "tarball": "https://registry.npmjs.org/is-boolean-object/-/is-boolean-object-1.1.2.tgz",
+    "integrity": "sha512-gDYaKHJmnj4aWxyj6YHyXVpdQawtVLHU5cb+eztPGczf6cjuTdwve5ZIEfgXqH4e57An1D1AKf8CZ3kYrQRqYA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-boolean-object/1.1.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-replace-supers",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-replace-supers/-/babel-helper-replace-supers-6.24.1.tgz",
+    "integrity": "sha512-sLI+u7sXJh6+ToqDr57Bv973kCepItDhMou0xCP2YPVmR1jkHSCY+p1no8xErbV1Siz5QE8qKT1WIwybSWlqjw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-replace-supers/6.24.1"
+  }
+}

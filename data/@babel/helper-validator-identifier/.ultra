@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@babel/helper-validator-identifier",
+    "version": "7.19.1",
+    "tarball": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.19.1.tgz",
+    "integrity": "sha512-awrNfaMtnHUr653GgGEs++LlAvW6w+DcPrOliSMXWCKo597CwL5Acf/wWdNkf/tfEQE3mjkeD1YOVZOUV/od1w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/helper-validator-identifier/7.19.1"
+  }
+}

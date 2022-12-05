@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "whatwg-url",
+    "version": "5.0.0",
+    "tarball": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz",
+    "integrity": "sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/whatwg-url/5.0.0"
+  },
+  "tr46": {
+    "0.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/tr46/0.0.3",
+      "tarball": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz",
+      "integrity": "sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==",
+      "optional": false
+    }
+  },
+  "webidl-conversions": {
+    "3.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/webidl-conversions/3.0.1",
+      "tarball": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz",
+      "integrity": "sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==",
+      "optional": false
+    }
+  }
+}

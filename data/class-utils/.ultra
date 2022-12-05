@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "class-utils",
+    "version": "0.3.6",
+    "tarball": "https://registry.npmjs.org/class-utils/-/class-utils-0.3.6.tgz",
+    "integrity": "sha512-qOhPa/Fj7s6TY8H8esGu5QNpMMQxz79h+urzrNYN6mn+9BnxlDGf5QZ+XeCDsxSjPqsSR56XOZOJmpeurnLMeg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/class-utils/0.3.6"
+  },
+  "static-extend": {
+    "0.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/static-extend/0.1.2",
+      "tarball": "https://registry.npmjs.org/static-extend/-/static-extend-0.1.2.tgz",
+      "integrity": "sha512-72E9+uLc27Mt718pMHt9VMNiAL4LMsmDbBva8mxWUCkT07fSzEGMYUCk0XWY6lp0j6RBAG4cJ3mWuZv2OE3s0g==",
+      "optional": false
+    }
+  }
+}

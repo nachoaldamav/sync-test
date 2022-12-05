@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "style-loader",
+    "version": "3.3.1",
+    "tarball": "https://registry.npmjs.org/style-loader/-/style-loader-3.3.1.tgz",
+    "integrity": "sha512-GPcQ+LDJbrcxHORTRes6Jy2sfvK2kS6hpSfI/fXhPt+spVzxF6LJ1dHLN9zIGmVaaP044YKaIatFaufENRiDoQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/style-loader/3.3.1"
+  }
+}

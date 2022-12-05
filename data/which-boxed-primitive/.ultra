@@ -1,0 +1,34 @@
+{
+  "ultra:self": {
+    "name": "which-boxed-primitive",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz",
+    "integrity": "sha512-bwZdv0AKLpplFY2KZRX6TvyuN7ojjr7lwkg6ml0roIy9YeuSr7JS372qlNW18UQYzgYK9ziGcerWqZOmEn9VNg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/which-boxed-primitive/1.0.2"
+  },
+  "is-bigint": {
+    "1.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/is-bigint/1.0.4",
+      "tarball": "https://registry.npmjs.org/is-bigint/-/is-bigint-1.0.4.tgz",
+      "integrity": "sha512-zB9CruMamjym81i2JZ3UMn54PKGsQzsJeo6xvN3HJJ4CAsQNB6iRutp2To77OfCNuoxspsIhzaPoO1zyCEhFOg==",
+      "optional": false
+    }
+  },
+  "is-boolean-object": {
+    "1.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/is-boolean-object/1.1.2",
+      "tarball": "https://registry.npmjs.org/is-boolean-object/-/is-boolean-object-1.1.2.tgz",
+      "integrity": "sha512-gDYaKHJmnj4aWxyj6YHyXVpdQawtVLHU5cb+eztPGczf6cjuTdwve5ZIEfgXqH4e57An1D1AKf8CZ3kYrQRqYA==",
+      "optional": false
+    }
+  },
+  "is-number-object": {
+    "1.0.7": {
+      "path": "/home/nachoaldama/.ultra-cache/is-number-object/1.0.7",
+      "tarball": "https://registry.npmjs.org/is-number-object/-/is-number-object-1.0.7.tgz",
+      "integrity": "sha512-k1U0IRzLMo7ZlYIfzRu23Oh6MiIFasgpb9X76eqfFZAqwH44UI4KTBvBYIZ1dSL9ZzChTB9ShHfLkR4pdW5krQ==",
+      "optional": false
+    }
+  }
+}

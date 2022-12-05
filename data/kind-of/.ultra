@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "kind-of",
+    "version": "6.0.3",
+    "tarball": "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz",
+    "integrity": "sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/kind-of/6.0.3"
+  }
+}

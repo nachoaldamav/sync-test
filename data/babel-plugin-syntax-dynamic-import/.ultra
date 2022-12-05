@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-syntax-dynamic-import",
+    "version": "6.18.0",
+    "tarball": "https://registry.npmjs.org/babel-plugin-syntax-dynamic-import/-/babel-plugin-syntax-dynamic-import-6.18.0.tgz",
+    "integrity": "sha512-MioUE+LfjCEz65Wf7Z/Rm4XCP5k2c+TbMd2Z2JKc7U9uwjBhAfNPE48KC4GTGKhppMeYVepwDBNO/nGY6NYHBA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-syntax-dynamic-import/6.18.0"
+  }
+}

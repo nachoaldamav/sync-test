@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-ordered-values",
+    "version": "5.1.3",
+    "tarball": "https://registry.npmjs.org/postcss-ordered-values/-/postcss-ordered-values-5.1.3.tgz",
+    "integrity": "sha512-9UO79VUhPwEkzbb3RNpqqghc6lcYej1aveQteWY+4POIwlqkYE21HKWaLDF6lWNuqCobEAyTovVhtI32Rbv2RQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-ordered-values/5.1.3"
+  }
+}

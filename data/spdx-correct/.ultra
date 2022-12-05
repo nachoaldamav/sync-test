@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "spdx-correct",
+    "version": "3.1.1",
+    "tarball": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.1.1.tgz",
+    "integrity": "sha512-cOYcUWwhCuHCXi49RhFRCyJEK3iPj1Ziz9DpViV3tbZOwXD49QzIN3MpOLJNxh2qwq2lJJZaKMVw9qNi4jTC0w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/spdx-correct/3.1.1"
+  }
+}

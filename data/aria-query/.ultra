@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "aria-query",
+    "version": "4.2.2",
+    "tarball": "https://registry.npmjs.org/aria-query/-/aria-query-4.2.2.tgz",
+    "integrity": "sha512-o/HelwhuKpTj/frsOsbNLNgnNGVIFsVP/SW2BSF14gVl7kAfMOJ6/8wUAUvG1R1NHKrfG+2sHZTu0yauT1qBrA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/aria-query/4.2.2"
+  },
+  "@babel/runtime-corejs3": {
+    "7.20.6": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/runtime-corejs3/7.20.6",
+      "tarball": "https://registry.npmjs.org/@babel/runtime-corejs3/-/runtime-corejs3-7.20.6.tgz",
+      "integrity": "sha512-tqeujPiuEfcH067mx+7otTQWROVMKHXEaOQcAeNV5dDdbPWvPcFA8/W9LXw2NfjNmOetqLl03dfnG2WALPlsRQ==",
+      "optional": false
+    }
+  }
+}

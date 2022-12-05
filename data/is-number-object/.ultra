@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-number-object",
+    "version": "1.0.7",
+    "tarball": "https://registry.npmjs.org/is-number-object/-/is-number-object-1.0.7.tgz",
+    "integrity": "sha512-k1U0IRzLMo7ZlYIfzRu23Oh6MiIFasgpb9X76eqfFZAqwH44UI4KTBvBYIZ1dSL9ZzChTB9ShHfLkR4pdW5krQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-number-object/1.0.7"
+  }
+}

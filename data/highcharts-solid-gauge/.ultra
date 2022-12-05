@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "highcharts-solid-gauge",
+    "version": "0.1.7",
+    "tarball": "https://registry.npmjs.org/highcharts-solid-gauge/-/highcharts-solid-gauge-0.1.7.tgz",
+    "integrity": "sha512-znfZAdWomNnayD8ShswzXm8f5jUjiGomYdDEeddE7RtbRZSeq8BiiiVmpTP9s1y2tsYP1oPh2OHmEWvzVI4fTw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/highcharts-solid-gauge/0.1.7"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "array-find",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/array-find/-/array-find-1.0.0.tgz",
+    "integrity": "sha512-kO/vVCacW9mnpn3WPWbTVlEnOabK2L7LWi2HViURtCM46y1zb6I8UMjx4LgbiqadTgHnLInUronwn3ampNTJtQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/array-find/1.0.0"
+  }
+}

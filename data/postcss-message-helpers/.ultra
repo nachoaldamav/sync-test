@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-message-helpers",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/postcss-message-helpers/-/postcss-message-helpers-2.0.0.tgz",
+    "integrity": "sha512-tPLZzVAiIJp46TBbpXtrUAKqedXSyW5xDEo1sikrfEfnTs+49SBZR/xDdqCiJvSSbtr615xDsaMF3RrxS2jZlA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-message-helpers/2.0.0"
+  }
+}

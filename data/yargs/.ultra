@@ -1,0 +1,98 @@
+{
+  "ultra:self": {
+    "name": "yargs",
+    "version": "7.1.2",
+    "tarball": "https://registry.npmjs.org/yargs/-/yargs-7.1.2.tgz",
+    "integrity": "sha512-ZEjj/dQYQy0Zx0lgLMLR8QuaqTihnxirir7EwUHp1Axq4e3+k8jXU5K0VLbNvedv1f4EWtBonDIZm0NUr+jCcA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/yargs/7.1.2"
+  },
+  "camelcase": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/camelcase/3.0.0",
+      "tarball": "https://registry.npmjs.org/camelcase/-/camelcase-3.0.0.tgz",
+      "integrity": "sha512-4nhGqUkc4BqbBBB4Q6zLuD7lzzrHYrjKGeYaEji/3tFR5VdJu9v+LilhGIVe8wxEJPPOeWo7eg8dwY13TZ1BNg==",
+      "optional": false
+    }
+  },
+  "cliui": {
+    "3.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/cliui/3.2.0",
+      "tarball": "https://registry.npmjs.org/cliui/-/cliui-3.2.0.tgz",
+      "integrity": "sha512-0yayqDxWQbqk3ojkYqUKqaAQ6AfNKeKWRNA8kR0WXzAsdHpP4BIaOmMAG87JGuO6qcobyW4GjxHd9PmhEd+T9w==",
+      "optional": false
+    }
+  },
+  "get-caller-file": {
+    "1.0.3": {
+      "path": "/home/nachoaldama/.ultra-cache/get-caller-file/1.0.3",
+      "tarball": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-1.0.3.tgz",
+      "integrity": "sha512-3t6rVToeoZfYSGd8YoLFR2DJkiQrIiUrGcjvFX2mDw3bn6k2OtwHN0TNCLbBO+w8qTvimhDkv+LSscbJY1vE6w==",
+      "optional": false
+    }
+  },
+  "os-locale": {
+    "1.4.0": {
+      "path": "/home/nachoaldama/.ultra-cache/os-locale/1.4.0",
+      "tarball": "https://registry.npmjs.org/os-locale/-/os-locale-1.4.0.tgz",
+      "integrity": "sha512-PRT7ZORmwu2MEFt4/fv3Q+mEfN4zetKxufQrkShY2oGvUms9r8otu5HfdyIFHkYXjO7laNsoVGmM2MANfuTA8g==",
+      "optional": false
+    }
+  },
+  "read-pkg-up": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/read-pkg-up/1.0.1",
+      "tarball": "https://registry.npmjs.org/read-pkg-up/-/read-pkg-up-1.0.1.tgz",
+      "integrity": "sha512-WD9MTlNtI55IwYUS27iHh9tK3YoIVhxis8yKhLpTqWtml739uXc9NWTpxoHkfZf3+DkCCsXox94/VWZniuZm6A==",
+      "optional": false
+    }
+  },
+  "require-main-filename": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/require-main-filename/1.0.1",
+      "tarball": "https://registry.npmjs.org/require-main-filename/-/require-main-filename-1.0.1.tgz",
+      "integrity": "sha512-IqSUtOVP4ksd1C/ej5zeEh/BIP2ajqpn8c5x+q99gvcIG/Qf0cud5raVnE/Dwd0ua9TXYDoDc0RE5hBSdz22Ug==",
+      "optional": false
+    }
+  },
+  "set-blocking": {
+    "2.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/set-blocking/2.0.0",
+      "tarball": "https://registry.npmjs.org/set-blocking/-/set-blocking-2.0.0.tgz",
+      "integrity": "sha512-KiKBS8AnWGEyLzofFfmvKwpdPzqiy16LvQfK3yv/fVH7Bj13/wl3JSR1J+rfgRE9q7xUJK4qvgS8raSOeLUehw==",
+      "optional": false
+    }
+  },
+  "string-width": {
+    "1.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/string-width/1.0.2",
+      "tarball": "https://registry.npmjs.org/string-width/-/string-width-1.0.2.tgz",
+      "integrity": "sha512-0XsVpQLnVCXHJfyEs8tC0zpTVIr5PKKsQtkT29IwupnPTjtPmQ3xT/4yCREF9hYkV/3M3kzcUTSAZT6a6h81tw==",
+      "optional": false
+    }
+  },
+  "which-module": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/which-module/1.0.0",
+      "tarball": "https://registry.npmjs.org/which-module/-/which-module-1.0.0.tgz",
+      "integrity": "sha512-F6+WgncZi/mJDrammbTuHe1q0R5hOXv/mBaiNA2TCNT/LTHusX0V+CJnj9XT8ki5ln2UZyyddDgHfCzyrOH7MQ==",
+      "optional": false
+    }
+  },
+  "y18n": {
+    "3.2.2": {
+      "path": "/home/nachoaldama/.ultra-cache/y18n/3.2.2",
+      "tarball": "https://registry.npmjs.org/y18n/-/y18n-3.2.2.tgz",
+      "integrity": "sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==",
+      "optional": false
+    }
+  },
+  "yargs-parser": {
+    "5.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/yargs-parser/5.0.1",
+      "tarball": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-5.0.1.tgz",
+      "integrity": "sha512-wpav5XYiddjXxirPoCTUPbqM0PXvJ9hiBMvuJgInvo4/lAOTZzUprArw17q2O1P2+GHhbBr18/iQwjL5Z9BqfA==",
+      "optional": false
+    }
+  }
+}

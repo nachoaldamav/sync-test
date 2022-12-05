@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "asynckit",
+    "version": "0.4.0",
+    "tarball": "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz",
+    "integrity": "sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/asynckit/0.4.0"
+  }
+}

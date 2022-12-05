@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "global-modules",
+    "version": "2.0.0",
+    "tarball": "https://registry.npmjs.org/global-modules/-/global-modules-2.0.0.tgz",
+    "integrity": "sha512-NGbfmJBp9x8IxyJSd1P+otYK8vonoJactOogrVfFRIAEY1ukil8RSKDz2Yo7wh1oihl51l/r6W4epkeKJHqL8A==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/global-modules/2.0.0"
+  },
+  "global-prefix": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/global-prefix/3.0.0",
+      "tarball": "https://registry.npmjs.org/global-prefix/-/global-prefix-3.0.0.tgz",
+      "integrity": "sha512-awConJSVCHVGND6x3tmMaKcQvwXLhjdkmomy2W+Goaui8YPgYgXJZewhg3fWC+DlfqqQuWg8AwqjGTD2nAPVWg==",
+      "optional": false
+    }
+  }
+}

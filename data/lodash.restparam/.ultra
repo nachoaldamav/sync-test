@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash.restparam",
+    "version": "3.6.1",
+    "tarball": "https://registry.npmjs.org/lodash.restparam/-/lodash.restparam-3.6.1.tgz",
+    "integrity": "sha512-L4/arjjuq4noiUJpt3yS6KIKDtJwNe2fIYgMqyYYKoeIfV1iEqvPwhCx23o+R9dzouGihDAPN1dTIRWa7zk8tw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash.restparam/3.6.1"
+  }
+}

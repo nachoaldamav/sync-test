@@ -1,0 +1,66 @@
+{
+  "ultra:self": {
+    "name": "eslint-plugin-jsx-a11y",
+    "version": "6.6.1",
+    "tarball": "https://registry.npmjs.org/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.6.1.tgz",
+    "integrity": "sha512-sXgFVNHiWffBq23uiS/JaP6eVR622DqwB4yTzKvGZGcPq6/yZ3WmOZfuBks/vHWo9GaFOqC2ZK4i6+C35knx7Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/eslint-plugin-jsx-a11y/6.6.1"
+  },
+  "@babel/runtime": {
+    "7.20.6": {
+      "path": "/home/nachoaldama/.ultra-cache/@babel/runtime/7.20.6",
+      "tarball": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.20.6.tgz",
+      "integrity": "sha512-Q+8MqP7TiHMWzSfwiJwXCjyf4GYA4Dgw3emg/7xmwsdLJOZUp+nMqcOwOzzYheuM1rhDu8FSj2l0aoMygEuXuA==",
+      "optional": false
+    }
+  },
+  "aria-query": {
+    "4.2.2": {
+      "path": "/home/nachoaldama/.ultra-cache/aria-query/4.2.2",
+      "tarball": "https://registry.npmjs.org/aria-query/-/aria-query-4.2.2.tgz",
+      "integrity": "sha512-o/HelwhuKpTj/frsOsbNLNgnNGVIFsVP/SW2BSF14gVl7kAfMOJ6/8wUAUvG1R1NHKrfG+2sHZTu0yauT1qBrA==",
+      "optional": false
+    }
+  },
+  "ast-types-flow": {
+    "0.0.7": {
+      "path": "/home/nachoaldama/.ultra-cache/ast-types-flow/0.0.7",
+      "tarball": "https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.7.tgz",
+      "integrity": "sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag==",
+      "optional": false
+    }
+  },
+  "axe-core": {
+    "4.5.2": {
+      "path": "/home/nachoaldama/.ultra-cache/axe-core/4.5.2",
+      "tarball": "https://registry.npmjs.org/axe-core/-/axe-core-4.5.2.tgz",
+      "integrity": "sha512-u2MVsXfew5HBvjsczCv+xlwdNnB1oQR9HlAcsejZttNjKKSkeDNVwB1vMThIUIFI9GoT57Vtk8iQLwqOfAkboA==",
+      "optional": false
+    }
+  },
+  "axobject-query": {
+    "2.2.0": {
+      "path": "/home/nachoaldama/.ultra-cache/axobject-query/2.2.0",
+      "tarball": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.2.0.tgz",
+      "integrity": "sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==",
+      "optional": false
+    }
+  },
+  "damerau-levenshtein": {
+    "1.0.8": {
+      "path": "/home/nachoaldama/.ultra-cache/damerau-levenshtein/1.0.8",
+      "tarball": "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz",
+      "integrity": "sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==",
+      "optional": false
+    }
+  },
+  "language-tags": {
+    "1.0.5": {
+      "path": "/home/nachoaldama/.ultra-cache/language-tags/1.0.5",
+      "tarball": "https://registry.npmjs.org/language-tags/-/language-tags-1.0.5.tgz",
+      "integrity": "sha512-qJhlO9cGXi6hBGKoxEG/sKZDAHD5Hnu9Hs4WbOY3pCWXDhw0N8x1NenNzm2EnNLkLkk7J2SdxAkDSbb6ftT+UQ==",
+      "optional": false
+    }
+  }
+}

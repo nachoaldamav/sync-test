@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "trim-right",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/trim-right/-/trim-right-1.0.1.tgz",
+    "integrity": "sha512-WZGXGstmCWgeevgTL54hrCuw1dyMQIzWy7ZfqRJfSmJZBwklI15egmQytFP6bPidmw3M8d5yEowl1niq4vmqZw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/trim-right/1.0.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "password-policy",
+  "version": "0.0.3",
+  "description": "A module to check if a password lives up to a policy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec -w"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "password-policy"
+  ],
+  "author": "J00nz",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/J00nz/password-policy.git"
+  }
+}

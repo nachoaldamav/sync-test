@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "stream-exhaust",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/stream-exhaust/-/stream-exhaust-1.0.2.tgz",
+    "integrity": "sha512-b/qaq/GlBK5xaq1yrK9/zFcyRSTNxmcZwFLGSTG0mXgZl/4Z6GgiyYOXOvY7N3eEvFRAG1bkDRz5EPGSvPYQlw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/stream-exhaust/1.0.2"
+  }
+}

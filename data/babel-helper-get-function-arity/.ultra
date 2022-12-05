@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-helper-get-function-arity",
+    "version": "6.24.1",
+    "tarball": "https://registry.npmjs.org/babel-helper-get-function-arity/-/babel-helper-get-function-arity-6.24.1.tgz",
+    "integrity": "sha512-WfgKFX6swFB1jS2vo+DwivRN4NB8XUdM3ij0Y1gnC21y1tdBoe6xjVnd7NSI6alv+gZXCtJqvrTeMW3fR/c0ng==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-helper-get-function-arity/6.24.1"
+  }
+}

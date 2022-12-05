@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "@babel/generator",
+    "version": "7.20.4",
+    "tarball": "https://registry.npmjs.org/@babel/generator/-/generator-7.20.4.tgz",
+    "integrity": "sha512-luCf7yk/cm7yab6CAW1aiFnmEfBJplb/JojV56MYEK7ziWfGmFlTfmL9Ehwfy4gFhbjBfWO1wj7/TuSbVNEEtA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/generator/7.20.4"
+  },
+  "@jridgewell/gen-mapping": {
+    "0.3.2": {
+      "path": "/home/nachoaldama/.ultra-cache/@jridgewell/gen-mapping/0.3.2",
+      "tarball": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.2.tgz",
+      "integrity": "sha512-mh65xKQAzI6iBcFzwv28KVWSmCkdRBWoOh+bYQGW3+6OZvbbN3TqMGo5hqYxQniRcH9F2VZIoJCm4pa3BPDK/A==",
+      "optional": false
+    }
+  },
+  "jsesc": {
+    "2.5.2": {
+      "path": "/home/nachoaldama/.ultra-cache/jsesc/2.5.2",
+      "tarball": "https://registry.npmjs.org/jsesc/-/jsesc-2.5.2.tgz",
+      "integrity": "sha512-OYu7XEzjkCQ3C5Ps3QIZsQfNpqoJyZZA99wd9aWd05NCtC5pWOkShK2mkL6HXQR6/Cy2lbNdPlZBpuQHXE63gA==",
+      "optional": false
+    }
+  }
+}

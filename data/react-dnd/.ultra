@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "react-dnd",
+    "version": "16.0.1",
+    "tarball": "https://registry.npmjs.org/react-dnd/-/react-dnd-16.0.1.tgz",
+    "integrity": "sha512-QeoM/i73HHu2XF9aKksIUuamHPDvRglEwdHL4jsp784BgUuWcg6mzfxT0QDdQz8Wj0qyRKx2eMg8iZtWvU4E2Q==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-dnd/16.0.1"
+  },
+  "@react-dnd/invariant": {
+    "4.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/@react-dnd/invariant/4.0.2",
+      "tarball": "https://registry.npmjs.org/@react-dnd/invariant/-/invariant-4.0.2.tgz",
+      "integrity": "sha512-xKCTqAK/FFauOM9Ta2pswIyT3D8AQlfrYdOi/toTPEhqCuAs1v5tcJ3Y08Izh1cJ5Jchwy9SeAXmMg6zrKs2iw==",
+      "optional": false
+    }
+  },
+  "@react-dnd/shallowequal": {
+    "4.0.2": {
+      "path": "/home/nachoaldama/.ultra-cache/@react-dnd/shallowequal/4.0.2",
+      "tarball": "https://registry.npmjs.org/@react-dnd/shallowequal/-/shallowequal-4.0.2.tgz",
+      "integrity": "sha512-/RVXdLvJxLg4QKvMoM5WlwNR9ViO9z8B/qPcc+C0Sa/teJY7QG7kJ441DwzOjMYEY7GmU4dj5EcGHIkKZiQZCA==",
+      "optional": false
+    }
+  }
+}

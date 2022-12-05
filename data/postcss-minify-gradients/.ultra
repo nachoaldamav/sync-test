@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "postcss-minify-gradients",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-minify-gradients/-/postcss-minify-gradients-5.1.1.tgz",
+    "integrity": "sha512-VGvXMTpCEo4qHTNSa9A0a3D+dxGFZCYwR6Jokk+/3oB6flu2/PnPXAh2x7x52EkY5xlIHLm+Le8tJxe/7TNhzw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-minify-gradients/5.1.1"
+  },
+  "colord": {
+    "2.9.3": {
+      "path": "/home/nachoaldama/.ultra-cache/colord/2.9.3",
+      "tarball": "https://registry.npmjs.org/colord/-/colord-2.9.3.tgz",
+      "integrity": "sha512-jeC1axXpnb0/2nn/Y1LPuLdgXBLH7aDcHu4KEKfqw3CUhX7ZpfBSlPKyqXE6btIgEzfWtrX3/tyBCaCvXvMkOw==",
+      "optional": false
+    }
+  }
+}

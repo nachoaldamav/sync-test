@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "lodash._getnative",
+    "version": "3.9.1",
+    "tarball": "https://registry.npmjs.org/lodash._getnative/-/lodash._getnative-3.9.1.tgz",
+    "integrity": "sha512-RrL9VxMEPyDMHOd9uFbvMe8X55X16/cGM5IgOKgRElQZutpX89iS6vwl64duTV1/16w5JY7tuFNXqoekmh1EmA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/lodash._getnative/3.9.1"
+  }
+}

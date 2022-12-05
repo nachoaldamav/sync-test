@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "object-assign",
+    "version": "4.1.1",
+    "tarball": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
+    "integrity": "sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/object-assign/4.1.1"
+  }
+}

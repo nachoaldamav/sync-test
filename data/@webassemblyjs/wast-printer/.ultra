@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/wast-printer",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/wast-printer/-/wast-printer-1.11.1.tgz",
+    "integrity": "sha512-IQboUWM4eKzWW+N/jij2sRatKMh99QEelo3Eb2q0qXkvPRISAj8Qxtmw5itwqK+TTkBuUIE45AxYPToqPtL5gg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/wast-printer/1.11.1"
+  },
+  "@xtuc/long": {
+    "4.2.2": {
+      "path": "/home/nachoaldama/.ultra-cache/@xtuc/long/4.2.2",
+      "tarball": "https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz",
+      "integrity": "sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==",
+      "optional": false
+    }
+  }
+}

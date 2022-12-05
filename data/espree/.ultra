@@ -1,0 +1,26 @@
+{
+  "ultra:self": {
+    "name": "espree",
+    "version": "9.4.1",
+    "tarball": "https://registry.npmjs.org/espree/-/espree-9.4.1.tgz",
+    "integrity": "sha512-XwctdmTO6SIvCzd9810yyNzIrOrqNYV9Koizx4C/mRhf9uq0o4yHoCEU/670pOxOL/MSraektvSAji79kX90Vg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/espree/9.4.1"
+  },
+  "acorn": {
+    "8.8.1": {
+      "path": "/home/nachoaldama/.ultra-cache/acorn/8.8.1",
+      "tarball": "https://registry.npmjs.org/acorn/-/acorn-8.8.1.tgz",
+      "integrity": "sha512-7zFpHzhnqYKrkYdUjF1HI1bzd0VygEGX8lFk4k5zVMqHEoES+P+7TKI+EvLO9WVMJ8eekdO0aDEK044xTXwPPA==",
+      "optional": false
+    }
+  },
+  "acorn-jsx": {
+    "5.3.2": {
+      "path": "/home/nachoaldama/.ultra-cache/acorn-jsx/5.3.2",
+      "tarball": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz",
+      "integrity": "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==",
+      "optional": false
+    }
+  }
+}

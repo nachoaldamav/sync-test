@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "object.hasown",
+    "version": "1.1.2",
+    "tarball": "https://registry.npmjs.org/object.hasown/-/object.hasown-1.1.2.tgz",
+    "integrity": "sha512-B5UIT3J1W+WuWIU55h0mjlwaqxiE5vYENJXIXZ4VFe05pNYrkKuK0U/6aFcb0pKywYJh7IhfoqUfKVmrJJHZHw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/object.hasown/1.1.2"
+  }
+}

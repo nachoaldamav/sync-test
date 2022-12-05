@@ -1,0 +1,42 @@
+{
+  "ultra:self": {
+    "name": "react-grid-layout",
+    "version": "1.3.4",
+    "tarball": "https://registry.npmjs.org/react-grid-layout/-/react-grid-layout-1.3.4.tgz",
+    "integrity": "sha512-sB3rNhorW77HUdOjB4JkelZTdJGQKuXLl3gNg+BI8gJkTScspL1myfZzW/EM0dLEn+1eH+xW+wNqk0oIM9o7cw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-grid-layout/1.3.4"
+  },
+  "clsx": {
+    "1.2.1": {
+      "path": "/home/nachoaldama/.ultra-cache/clsx/1.2.1",
+      "tarball": "https://registry.npmjs.org/clsx/-/clsx-1.2.1.tgz",
+      "integrity": "sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==",
+      "optional": false
+    }
+  },
+  "lodash.isequal": {
+    "4.5.0": {
+      "path": "/home/nachoaldama/.ultra-cache/lodash.isequal/4.5.0",
+      "tarball": "https://registry.npmjs.org/lodash.isequal/-/lodash.isequal-4.5.0.tgz",
+      "integrity": "sha512-pDo3lu8Jhfjqls6GkMgpahsF9kCyayhgykjyLMNFTKWrpVdAQtYyB4muAMWozBB4ig/dtWAmsMxLEI8wuz+DYQ==",
+      "optional": false
+    }
+  },
+  "react-draggable": {
+    "4.4.5": {
+      "path": "/home/nachoaldama/.ultra-cache/react-draggable/4.4.5",
+      "tarball": "https://registry.npmjs.org/react-draggable/-/react-draggable-4.4.5.tgz",
+      "integrity": "sha512-OMHzJdyJbYTZo4uQE393fHcqqPYsEtkjfMgvCHr6rejT+Ezn4OZbNyGH50vv+SunC1RMvwOTSWkEODQLzw1M9g==",
+      "optional": false
+    }
+  },
+  "react-resizable": {
+    "3.0.4": {
+      "path": "/home/nachoaldama/.ultra-cache/react-resizable/3.0.4",
+      "tarball": "https://registry.npmjs.org/react-resizable/-/react-resizable-3.0.4.tgz",
+      "integrity": "sha512-StnwmiESiamNzdRHbSSvA65b0ZQJ7eVQpPusrSmcpyGKzC0gojhtO62xxH6YOBmepk9dQTBi9yxidL3W4s3EBA==",
+      "optional": false
+    }
+  }
+}

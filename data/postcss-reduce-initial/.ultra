@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-reduce-initial",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/postcss-reduce-initial/-/postcss-reduce-initial-5.1.1.tgz",
+    "integrity": "sha512-//jeDqWcHPuXGZLoolFrUXBDyuEGbr9S2rMo19bkTIjBQ4PqkaO+oI8wua5BOUxpfi97i3PCoInsiFIEBfkm9w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-reduce-initial/5.1.1"
+  }
+}

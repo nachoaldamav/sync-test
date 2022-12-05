@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "vinyl-sourcemaps-apply",
+    "version": "0.2.1",
+    "tarball": "https://registry.npmjs.org/vinyl-sourcemaps-apply/-/vinyl-sourcemaps-apply-0.2.1.tgz",
+    "integrity": "sha512-+oDh3KYZBoZC8hfocrbrxbLUeaYtQK7J5WU5Br9VqWqmCll3tFJqKp97GC9GmMsVIL0qnx2DgEDVxdo5EZ5sSw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/vinyl-sourcemaps-apply/0.2.1"
+  }
+}

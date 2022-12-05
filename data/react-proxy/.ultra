@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "react-proxy",
+    "version": "1.1.8",
+    "tarball": "https://registry.npmjs.org/react-proxy/-/react-proxy-1.1.8.tgz",
+    "integrity": "sha512-46GkBpZD97R/vV+iw+u6aFACzIHOst9gCl41d5K5vepPBz2i2gqHmXQJWKXsrUsSOdylKahN3sd9taswFN8Wzw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/react-proxy/1.1.8"
+  },
+  "react-deep-force-update": {
+    "1.1.2": {
+      "path": "/home/nachoaldama/.ultra-cache/react-deep-force-update/1.1.2",
+      "tarball": "https://registry.npmjs.org/react-deep-force-update/-/react-deep-force-update-1.1.2.tgz",
+      "integrity": "sha512-WUSQJ4P/wWcusaH+zZmbECOk7H5N2pOIl0vzheeornkIMhu+qrNdGFm0bDZLCb0hSF0jf/kH1SgkNGfBdTc4wA==",
+      "optional": false
+    }
+  }
+}

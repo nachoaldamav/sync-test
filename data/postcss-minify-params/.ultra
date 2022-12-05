@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-minify-params",
+    "version": "5.1.4",
+    "tarball": "https://registry.npmjs.org/postcss-minify-params/-/postcss-minify-params-5.1.4.tgz",
+    "integrity": "sha512-+mePA3MgdmVmv6g+30rn57USjOGSAyuxUmkfiWpzalZ8aiBkdPYjXWtHuwJGm1v5Ojy0Z0LaSYhHaLJQB0P8Jw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-minify-params/5.1.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "postcss-normalize-display-values",
+    "version": "5.1.0",
+    "tarball": "https://registry.npmjs.org/postcss-normalize-display-values/-/postcss-normalize-display-values-5.1.0.tgz",
+    "integrity": "sha512-WP4KIM4o2dazQXWmFaqMmcvsKmhdINFblgSeRgn8BJ6vxaMyaJkwAzpPpuvSIoG/rmX3M+IrRZEz2H0glrQNEA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-normalize-display-values/5.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "buffer-equal",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/buffer-equal/-/buffer-equal-1.0.1.tgz",
+    "integrity": "sha512-QoV3ptgEaQpvVwbXdSO39iqPQTCxSF7A5U99AxbHYqUdCizL/lH2Z0A2y6nbZucxMEOtNyZfG2s6gsVugGpKkg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/buffer-equal/1.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "private",
+    "version": "0.1.8",
+    "tarball": "https://registry.npmjs.org/private/-/private-0.1.8.tgz",
+    "integrity": "sha512-VvivMrbvd2nKkiG38qjULzlc+4Vx4wm/whI9pQD35YrARNnhxeiRktSOhSukRLFNlzg6Br/cJPet5J/u19r/mg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/private/0.1.8"
+  }
+}

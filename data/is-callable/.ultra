@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "is-callable",
+    "version": "1.2.7",
+    "tarball": "https://registry.npmjs.org/is-callable/-/is-callable-1.2.7.tgz",
+    "integrity": "sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/is-callable/1.2.7"
+  }
+}

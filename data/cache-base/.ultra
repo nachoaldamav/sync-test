@@ -1,0 +1,58 @@
+{
+  "ultra:self": {
+    "name": "cache-base",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/cache-base/-/cache-base-1.0.1.tgz",
+    "integrity": "sha512-AKcdTnFSWATd5/GCPRxr2ChwIJ85CeyrEyjRHlKxQ56d4XJMGym0uAiKn0xbLOGOl3+yRpOTi484dVCEc5AUzQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/cache-base/1.0.1"
+  },
+  "collection-visit": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/collection-visit/1.0.0",
+      "tarball": "https://registry.npmjs.org/collection-visit/-/collection-visit-1.0.0.tgz",
+      "integrity": "sha512-lNkKvzEeMBBjUGHZ+q6z9pSJla0KWAQPvtzhEV9+iGyQYG+pBpl7xKDhxoNSOZH2hhv0v5k0y2yAM4o4SjoSkw==",
+      "optional": false
+    }
+  },
+  "has-value": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/has-value/1.0.0",
+      "tarball": "https://registry.npmjs.org/has-value/-/has-value-1.0.0.tgz",
+      "integrity": "sha512-IBXk4GTsLYdQ7Rvt+GRBrFSVEkmuOUy4re0Xjd9kJSUQpnTrWR4/y9RpfexN9vkAPMFuQoeWKwqzPozRTlasGw==",
+      "optional": false
+    }
+  },
+  "set-value": {
+    "2.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/set-value/2.0.1",
+      "tarball": "https://registry.npmjs.org/set-value/-/set-value-2.0.1.tgz",
+      "integrity": "sha512-JxHc1weCN68wRY0fhCoXpyK55m/XPHafOmK4UWD7m2CI14GMcFypt4w/0+NV5f/ZMby2F6S2wwA7fgynh9gWSw==",
+      "optional": false
+    }
+  },
+  "to-object-path": {
+    "0.3.0": {
+      "path": "/home/nachoaldama/.ultra-cache/to-object-path/0.3.0",
+      "tarball": "https://registry.npmjs.org/to-object-path/-/to-object-path-0.3.0.tgz",
+      "integrity": "sha512-9mWHdnGRuh3onocaHzukyvCZhzvr6tiflAy/JRFXcJX0TjgfWA9pk9t8CMbzmBE4Jfw58pXbkngtBtqYxzNEyg==",
+      "optional": false
+    }
+  },
+  "union-value": {
+    "1.0.1": {
+      "path": "/home/nachoaldama/.ultra-cache/union-value/1.0.1",
+      "tarball": "https://registry.npmjs.org/union-value/-/union-value-1.0.1.tgz",
+      "integrity": "sha512-tJfXmxMeWYnczCVs7XAEvIV7ieppALdyepWMkHkwciRpZraG/xwT+s2JN8+pr1+8jCRf80FFzvr+MpQeeoF4Xg==",
+      "optional": false
+    }
+  },
+  "unset-value": {
+    "1.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/unset-value/1.0.0",
+      "tarball": "https://registry.npmjs.org/unset-value/-/unset-value-1.0.0.tgz",
+      "integrity": "sha512-PcA2tsuGSF9cnySLHTLSh2qrQiJ70mn+r+Glzxv2TWZblxsxCC52BDlZoPCsz7STd9pN7EZetkWZBAvk4cgZdQ==",
+      "optional": false
+    }
+  }
+}

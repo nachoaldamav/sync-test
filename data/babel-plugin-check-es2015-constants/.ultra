@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "babel-plugin-check-es2015-constants",
+    "version": "6.22.0",
+    "tarball": "https://registry.npmjs.org/babel-plugin-check-es2015-constants/-/babel-plugin-check-es2015-constants-6.22.0.tgz",
+    "integrity": "sha512-B1M5KBP29248dViEo1owyY32lk1ZSH2DaNNrXLGt8lyjjHm7pBqAdQ7VKUPR6EEDO323+OvT3MQXbCin8ooWdA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/babel-plugin-check-es2015-constants/6.22.0"
+  }
+}

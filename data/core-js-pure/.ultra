@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "core-js-pure",
+    "version": "3.26.1",
+    "tarball": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.26.1.tgz",
+    "integrity": "sha512-VVXcDpp/xJ21KdULRq/lXdLzQAtX7+37LzpyfFM973il0tWSsDEoyzG38G14AjTpK9VTfiNM9jnFauq/CpaWGQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/core-js-pure/3.26.1"
+  }
+}

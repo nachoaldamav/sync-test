@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "repeat-element",
+    "version": "1.1.4",
+    "tarball": "https://registry.npmjs.org/repeat-element/-/repeat-element-1.1.4.tgz",
+    "integrity": "sha512-LFiNfRcSu7KK3evMyYOuCzv3L10TW7yC1G2/+StMjK8Y6Vqd2MG7r/Qjw4ghtuCOjFvlnms/iMmLqpvW/ES/WQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/repeat-element/1.1.4"
+  }
+}

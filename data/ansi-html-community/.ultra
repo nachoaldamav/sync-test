@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "ansi-html-community",
+    "version": "0.0.8",
+    "tarball": "https://registry.npmjs.org/ansi-html-community/-/ansi-html-community-0.0.8.tgz",
+    "integrity": "sha512-1APHAyr3+PCamwNw3bXCPp4HFLONZt/yIH0sZp0/469KWNTEy+qN5jQ3GVX6DMZ1UXAi34yVwtTeaG/HpBuuzw==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/ansi-html-community/0.0.8"
+  }
+}

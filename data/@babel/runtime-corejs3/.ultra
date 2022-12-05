@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "@babel/runtime-corejs3",
+    "version": "7.20.6",
+    "tarball": "https://registry.npmjs.org/@babel/runtime-corejs3/-/runtime-corejs3-7.20.6.tgz",
+    "integrity": "sha512-tqeujPiuEfcH067mx+7otTQWROVMKHXEaOQcAeNV5dDdbPWvPcFA8/W9LXw2NfjNmOetqLl03dfnG2WALPlsRQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@babel/runtime-corejs3/7.20.6"
+  },
+  "core-js-pure": {
+    "3.26.1": {
+      "path": "/home/nachoaldama/.ultra-cache/core-js-pure/3.26.1",
+      "tarball": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.26.1.tgz",
+      "integrity": "sha512-VVXcDpp/xJ21KdULRq/lXdLzQAtX7+37LzpyfFM973il0tWSsDEoyzG38G14AjTpK9VTfiNM9jnFauq/CpaWGQ==",
+      "optional": false
+    }
+  }
+}

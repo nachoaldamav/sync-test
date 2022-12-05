@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "websocket-extensions",
+    "version": "0.1.4",
+    "tarball": "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.4.tgz",
+    "integrity": "sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/websocket-extensions/0.1.4"
+  }
+}

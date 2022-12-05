@@ -1,0 +1,18 @@
+{
+  "ultra:self": {
+    "name": "postcss-colormin",
+    "version": "5.3.0",
+    "tarball": "https://registry.npmjs.org/postcss-colormin/-/postcss-colormin-5.3.0.tgz",
+    "integrity": "sha512-WdDO4gOFG2Z8n4P8TWBpshnL3JpmNmJwdnfP2gbk2qBA8PWwOYcmjmI/t3CmMeL72a7Hkd+x/Mg9O2/0rD54Pg==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/postcss-colormin/5.3.0"
+  },
+  "caniuse-api": {
+    "3.0.0": {
+      "path": "/home/nachoaldama/.ultra-cache/caniuse-api/3.0.0",
+      "tarball": "https://registry.npmjs.org/caniuse-api/-/caniuse-api-3.0.0.tgz",
+      "integrity": "sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==",
+      "optional": false
+    }
+  }
+}

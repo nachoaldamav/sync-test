@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "object.map",
+    "version": "1.0.1",
+    "tarball": "https://registry.npmjs.org/object.map/-/object.map-1.0.1.tgz",
+    "integrity": "sha512-3+mAJu2PLfnSVGHwIWubpOFLscJANBKuB/6A4CxBstc4aqwQY0FWcsppuy4jU5GSB95yES5JHSI+33AWuS4k6w==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/object.map/1.0.1"
+  }
+}

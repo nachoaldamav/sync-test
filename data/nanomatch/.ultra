@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "nanomatch",
+    "version": "1.2.13",
+    "tarball": "https://registry.npmjs.org/nanomatch/-/nanomatch-1.2.13.tgz",
+    "integrity": "sha512-fpoe2T0RbHwBTBUOftAfBPaDEi06ufaUai0mE6Yn1kacc3SnTErfb/h+X94VXzI64rKFHYImXSvdwGGCmwOqCA==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/nanomatch/1.2.13"
+  }
+}

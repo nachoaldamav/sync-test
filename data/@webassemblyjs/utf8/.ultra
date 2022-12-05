@@ -1,0 +1,10 @@
+{
+  "ultra:self": {
+    "name": "@webassemblyjs/utf8",
+    "version": "1.11.1",
+    "tarball": "https://registry.npmjs.org/@webassemblyjs/utf8/-/utf8-1.11.1.tgz",
+    "integrity": "sha512-9kqcxAEdMhiwQkHpkNiorZzqpGrodQQ2IGrHHxCy+Ozng0ofyMA0lTqiLkVs1uzTRejX+/O0EOT7KxqVPuXosQ==",
+    "optional": false,
+    "path": "/home/nachoaldama/.ultra-cache/@webassemblyjs/utf8/1.11.1"
+  }
+}
