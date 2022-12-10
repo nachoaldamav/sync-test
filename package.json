@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "hyperfine 'node async.js' 'node sync.js' --prepare 'rm -rf target/' --warmup 3"
+    "test": "hyperfine 'node async.js' 'node sync.js' 'node clone-async.js' 'node clone-sync.js' 'node optimal.js' --prepare 'rm -rf target/' --warmup 3"
   },
   "keywords": [],
   "author": "",
