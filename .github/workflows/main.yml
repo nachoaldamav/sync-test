@@ -19,30 +19,18 @@ jobs:
           version: 7.11.0
       - name: Install dependencies
         run: pnpm install
-        # Use an `if` statement to run the appropriate command
-        # based on the operating system
       - name: Run Async tests
         run: time node async.js
-        # Use an `if` statement to run the appropriate command
-        # based on the operating system
-      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
-        name: Delete directory (Linux and macOS)
-        run: rm -rf target/ && ls ./
-      - if: ${{ runner.os == 'Windows' }}
-        name: Delete directory (Windows)
-        run: rd /s /q target/ && ls ./
+      - name: Cleanup
+        run: node cleanup.js
       - name: Run Sync tests
         run: time node sync.js
-        # Use an `if` statement to run the appropriate command
-        # based on the operating system
-      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
-        name: Delete directory (Linux and macOS)
-        run: rm -rf target/ && ls ./
-      - if: ${{ runner.os == 'Windows' }}
-        name: Delete directory (Windows)
-        run: rd /s /q target/ && ls ./
+      - name: Cleanup
+        run: node cleanup.js
       - name: Run optimal tests
         run: node optimal.js
+      - name: Cleanup
+        run: node cleanup.js
 
   
   
