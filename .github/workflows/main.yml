@@ -25,12 +25,6 @@ jobs:
         run: node cleanup.js
       - name: Run Sync tests
         run: time node sync.js
-      - name: Cleanup
-        run: node cleanup.js
-      - name: Run optimal tests
-        run: node optimal.js
-      - name: Cleanup
-        run: node cleanup.js
 
   
   
