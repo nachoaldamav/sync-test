@@ -32,7 +32,7 @@ jobs:
         name: Delete directory (Windows)
         run: rd /s /q target/ && ls ./
       - name: Run Sync tests
-        run: node sync.js
+        run: time node sync.js
         # Use an `if` statement to run the appropriate command
         # based on the operating system
       - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
