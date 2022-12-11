@@ -1,0 +1,54 @@
+name: Sync / Async
+
+on:
+  workflow_dispatch:
+
+jobs:
+  platforms:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - uses: pnpm/action-setup@v2.2.2
+        with:
+          version: 7.11.0
+      - name: Install dependencies
+        run: pnpm install
+        # Use an `if` statement to run the appropriate command
+        # based on the operating system
+      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
+        name: Delete directory (Linux and macOS)
+        run: rm -rf /path/to/directory
+      - if: ${{ runner.os == 'Windows' }}
+        name: Delete directory (Windows)
+        run: rd /s /q /path/to/directory
+      - name: Run Async tests
+        run: time node async.js
+        # Use an `if` statement to run the appropriate command
+        # based on the operating system
+      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
+        name: Delete directory (Linux and macOS)
+        run: rm -rf /path/to/directory
+      - if: ${{ runner.os == 'Windows' }}
+        name: Delete directory (Windows)
+        run: rd /s /q /path/to/directory
+      - name: Run Sync tests
+        run: node sync.js
+        # Use an `if` statement to run the appropriate command
+        # based on the operating system
+      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
+        name: Delete directory (Linux and macOS)
+        run: rm -rf /path/to/directory
+      - if: ${{ runner.os == 'Windows' }}
+        name: Delete directory (Windows)
+        run: rd /s /q /path/to/directory
+      - name: Run optimal tests
+        run: node optimal.js
+
+  
+  
