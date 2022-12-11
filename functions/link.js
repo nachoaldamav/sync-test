@@ -1,7 +1,7 @@
 import { constants } from "fs";
 import { link, lstat, mkdir, readdir } from "fs/promises";
-import { lstatSync, mkdirSync, readdirSync, linkSync } from "fs";
-import { join, dirname } from "path";
+import { lstatSync, mkdirSync, readdirSync, linkSync, existsSync } from "fs";
+import path, { join, dirname } from "path";
 
 export async function linkDirAsync(src, dest) {
   const files = await readdir(src);
@@ -15,7 +15,12 @@ export async function linkDirAsync(src, dest) {
         return linkDirAsync(srcPath, destPath);
       } else {
         await mkdir(dirname(destPath), { recursive: true });
-        return link(srcPath, destPath, constants.COPYFILE_EXCL);
+        return link(srcPath, destPath).catch((err) => {
+          if (err.code === "EEXIST") {
+            return;
+          }
+          throw err;
+        });
       }
     })
   );
@@ -23,14 +28,25 @@ export async function linkDirAsync(src, dest) {
 
 export function linkDirSync(src, dest) {
   const files = readdirSync(src);
-  for (const file of files) {
+
+  files.forEach((file) => {
     const srcPath = join(src, file);
     const destPath = join(dest, file);
-    if (lstatSync(srcPath).isDirectory()) {
-      linkDirSync(srcPath, destPath);
+    const isDir = lstatSync(srcPath).isDirectory();
+    if (isDir) {
+      return linkDirSync(srcPath, destPath);
     } else {
-      mkdirSync(dirname(destPath), { recursive: true });
-      return linkSync(srcPath, dest, constants.COPYFILE_EXCL);
+      if (!existsSync(dirname(destPath))) {
+        mkdirSync(dirname(destPath), { recursive: true });
+      }
+      try {
+        return linkSync(srcPath, destPath);
+      } catch (err) {
+        if (err.code === "EEXIST") {
+          return;
+        }
+        throw err;
+      }
     }
-  }
+  });
 }
