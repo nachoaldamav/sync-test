@@ -21,32 +21,26 @@ jobs:
         run: pnpm install
         # Use an `if` statement to run the appropriate command
         # based on the operating system
-      - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
-        name: Delete directory (Linux and macOS)
-        run: rm -rf target/
-      - if: ${{ runner.os == 'Windows' }}
-        name: Delete directory (Windows)
-        run: rd /s /q target/
       - name: Run Async tests
         run: time node async.js
         # Use an `if` statement to run the appropriate command
         # based on the operating system
       - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
         name: Delete directory (Linux and macOS)
-        run: rm -rf target/
+        run: rm -rf target/ && ls ./
       - if: ${{ runner.os == 'Windows' }}
         name: Delete directory (Windows)
-        run: rd /s /q target/
+        run: rd /s /q target/ && ls ./
       - name: Run Sync tests
         run: node sync.js
         # Use an `if` statement to run the appropriate command
         # based on the operating system
       - if: ${{ runner.os == 'Linux' || runner.os == 'macOS' }}
         name: Delete directory (Linux and macOS)
-        run: rm -rf target/
+        run: rm -rf target/ && ls ./
       - if: ${{ runner.os == 'Windows' }}
         name: Delete directory (Windows)
-        run: rd /s /q target/
+        run: rd /s /q target/ && ls ./
       - name: Run optimal tests
         run: node optimal.js
 
